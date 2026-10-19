@@ -8,7 +8,7 @@ export default async function handler(req, res) {
     const json = format === 'json';
     const body = format === 'status' ? JSON.stringify({source:'https://www.paulgraham.com/articles.html',checkedAt:data.checkedAt,stale:data.stale,essays:data.essays.length,latest:data.essays[0]}) : json ? jsonFeed(data,origin) : rss(data,origin);
     const tag = etag(body);
-    res.setHeader('Content-Type', json || format === 'status' ? 'application/json; charset=utf-8' : 'application/rss+xml; charset=utf-8');
+    res.setHeader('Content-Type', json ? 'application/feed+json; charset=utf-8' : format === 'status' ? 'application/json; charset=utf-8' : 'application/rss+xml; charset=utf-8');
     res.setHeader('Cache-Control',data.stale ? 'public, max-age=60, s-maxage=60' : 'public, max-age=300, s-maxage=3600, stale-while-revalidate=86400');
     res.setHeader('X-Feed-Status', data.stale ? 'stale' : 'fresh');
     res.setHeader('X-Source-Checked-At', data.checkedAt);
