@@ -17,3 +17,12 @@ test('feeds escape titles, use stable IDs and omit invented publication dates',(
  const parsed=new XMLParser().parse(body);assert.equal(parsed.rss.channel.item.length,25);assert.equal(parsed.rss.channel.item[0].title,'Essay 0 & more');assert.equal(parsed.rss.channel.item[0].pubDate,undefined);
  const json=JSON.parse(jsonFeed(data,'https://example.org'));assert.equal(json.items[0].id,data.essays[0].url);assert.equal(json.items[0].date_published,undefined);assert.equal(etag(body),etag(body));
 });
+test('upstream outage serves the durable fallback and labels its original timestamp',async()=>{
+ const original=globalThis.fetch;
+ globalThis.fetch=async()=>{throw new Error('offline')};
+ try {
+  const {currentFeed}=await import('../lib/feed.mjs');
+  const data=await currentFeed();
+  assert.equal(data.stale,true);assert.ok(data.essays.length>=20);assert.ok(Date.parse(data.checkedAt));
+ } finally {globalThis.fetch=original}
+});

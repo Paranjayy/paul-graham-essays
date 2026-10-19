@@ -9,5 +9,5 @@ http.createServer(async(req,res)=>{
     return handler(req,res);
   }
   res.setHeader('Content-Type','text/html; charset=utf-8');
-  res.end(await readFile(new URL('../index.html',import.meta.url)));
+  res.end(await readFile(new URL('../public/index.html',import.meta.url)));
 }).listen(3002,'0.0.0.0',()=>console.log('PG Essays Feed: http://localhost:3002'));
