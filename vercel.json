@@ -1,0 +1,1 @@
+{"regions":["bom1"],"rewrites":[{"source":"/feed.xml","destination":"/api/feed"},{"source":"/rss.xml","destination":"/api/feed"},{"source":"/feed.json","destination":"/api/feed?format=json"},{"source":"/status.json","destination":"/api/feed?format=status"}]}
