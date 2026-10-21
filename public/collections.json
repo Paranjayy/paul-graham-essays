@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-21T03:44:43.186Z",
+  "checkedAt": "2026-10-21T11:56:30.920Z",
   "source": "https://www.paulgraham.com/quo.html",
   "quotePolicy": "Author and topic metadata with a hashed word index. Original wording stays on the source page. Source position is not a publication date.",
   "quotes": [
@@ -7118,67 +7118,67 @@
       "title": "Arc",
       "url": "https://www.paulgraham.com/arc.html",
       "category": "Languages",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "Bel",
       "url": "https://www.paulgraham.com/bel.html",
       "category": "Languages",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "Lisp",
       "url": "https://www.paulgraham.com/lisp.html",
       "category": "Languages",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "On Lisp",
       "url": "https://www.paulgraham.com/onlisp.html",
       "category": "Books",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "ANSI Common Lisp",
       "url": "https://www.paulgraham.com/acl.html",
       "category": "Books",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "Spam",
       "url": "https://www.paulgraham.com/antispam.html",
       "category": "Spam",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "A Plan for Spam",
       "url": "https://www.paulgraham.com/spam.html",
       "category": "Spam",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "Responses",
       "url": "https://www.paulgraham.com/kedrosky.html",
       "category": "Responses",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "FAQs",
       "url": "https://www.paulgraham.com/faq.html",
       "category": "Questions",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "RAQs",
       "url": "https://www.paulgraham.com/raq.html",
       "category": "Questions",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     },
     {
       "title": "Bio",
       "url": "https://www.paulgraham.com/bio.html",
       "category": "About",
-      "checkedAt": "2026-10-21T03:44:43.186Z"
+      "checkedAt": "2026-10-21T11:56:30.920Z"
     }
   ]
 }
