@@ -2,19 +2,20 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark">
-<title>Paul Graham Essays — Searchable Index & RSS</title>
+<title>Paul Graham RSS — Essays, Quotes & More</title>
 <meta name="description" content="Browse Paul Graham’s essay index. Search titles, sort publication dates and word counts, and subscribe by RSS. Every link opens the original.">
 <link rel="alternate" type="application/rss+xml" title="Paul Graham Essays" href="/feed.xml">
 <link rel="alternate" type="application/feed+json" href="/feed.json">
 <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-<a class="skip" href="#catalog">Skip to essays</a>
+<a class="skip" href="#essays">Skip to essays</a>
 <div class="shell">
-<header class="topbar"><a class="wordmark" href="/">PG <span>/ Essays</span></a><nav aria-label="Main"><a href="https://www.paulgraham.com/articles.html">Original index ↗</a><a href="https://github.com/Paranjayy/paul-graham-essays">GitHub ↗</a><a class="subscribe" href="/feed.xml">RSS feed ↗</a></nav></header>
+<header class="topbar"><a class="wordmark" href="/">PG <span>/ RSS</span></a><nav aria-label="Main"><a href="https://www.paulgraham.com/articles.html">Original index ↗</a><a href="https://github.com/Paranjayy/paul-graham-rss">GitHub ↗</a><a class="subscribe" href="/feed.xml">RSS feed ↗</a></nav></header>
 <main>
-<section class="intro"><div><p class="eyebrow">An independent reading index</p><h1>Paul Graham’s essays.</h1><p class="lede">Find an idea. Make time for it. Read it at the source.</p></div><div class="collection-stat"><strong id="total">—</strong><span>essays & chapters</span></div></section>
-<section id="catalog" aria-label="Essay index">
+<section class="intro"><div><p class="eyebrow">An independent reading index</p><h1>Paul Graham RSS.</h1><p class="lede">A working feed. A searchable index. Everything opens at the source.</p></div><div class="collection-stat"><strong id="total">—</strong><span>essays & chapters</span></div></section>
+<nav class="collection-tabs" aria-label="Collections"><a href="#essays" data-view="essays">Essays</a><a href="#stats" data-view="stats">Statistics</a><a href="#quotes" data-view="quotes">Quotes</a><a href="#resources" data-view="resources">More from PG</a></nav>
+<section id="catalog" data-panel="essays" aria-label="Essay index">
 <div class="viewbar"><span class="active-view">▦ All essays</span><p id="source-status" role="status">Loading index…</p></div>
 <form class="toolbar" role="search" onsubmit="return false">
 <label class="search"><span>Search essays</span><input type="search" id="search" placeholder="Search a title or idea…" maxlength="200" autocomplete="off"></label>
@@ -37,8 +38,25 @@
 <p id="error" role="alert" hidden>We couldn’t load the index. <button id="retry" type="button">Try again</button> or <a href="https://www.paulgraham.com/articles.html">visit the original index</a>.</p>
 <p class="table-note">Numbers follow the original index order. Dates keep the author’s precision. Word counts include footnotes and are approximate.</p>
 </section>
-<details class="about"><summary>About the index & metadata</summary><div><p>This index covers the unique links in <a href="https://www.paulgraham.com/articles.html">Paul Graham’s essay list</a>, including two text chapters. It does not claim to cover every page on his website.</p><p>Dates come from essay headers. “September 2026” means the month is known, not the day. Missing dates stay unavailable. Word counts exclude site navigation and include the recognized body and footnotes. Reading time assumes 225 words per minute.</p><p>Metadata updates daily through GitHub Actions. The RSS feed checks the original index when its hourly cache expires. A source outage keeps a previous feed snapshot available. <a href="/status.json">View feed status</a> · <a href="/feed.json">JSON Feed</a></p><p>The updater fetches pages to calculate metadata and discards their text. Articles are not mirrored here. All essay links open the author’s original pages.</p></div></details>
+<section data-panel="stats" hidden class="collection-panel">
+<div class="panel-heading"><h2>Essay statistics</h2><p>Computed from the indexed HTML essays. The two text chapters are counted separately. Word counts and reading times are estimates.</p></div>
+<div id="stats-cards" class="stats-cards"></div>
+<div class="stats-layout"><div><h3>Essays by publication year</h3><p class="table-note">Choose a year to browse those essays. Undated entries are excluded.</p><div id="year-chart" class="year-chart" role="group" aria-label="Essay count by year"></div></div><aside id="stats-highlights" class="stats-highlights"></aside></div>
+</section>
+<section data-panel="quotes" hidden class="collection-panel">
+<div class="panel-heading"><h2>Quotes collected by Paul Graham</h2><p>Many authors, in one collection. Search authors and topic words, then read the quotation on his original page. Source positions are not publication dates.</p></div>
+<form class="toolbar" role="search" onsubmit="return false"><label class="search">Find a quote<input id="quote-search" type="search" placeholder="An author or topic word…" maxlength="200"></label><label>Author<select id="quote-author"><option value="">All authors</option></select></label><label>Order<select id="quote-order"><option value="source">Source order</option><option value="reverse">Reverse source order</option></select></label></form>
+<div class="results-line"><p id="quote-count" role="status" aria-live="polite">Loading collection…</p><a href="/quotes.xml">Quote index RSS ↗</a></div>
+<div class="table-wrap"><table class="quote-table"><thead><tr><th scope="col" class="number">#</th><th scope="col">Author / attribution</th><th scope="col">Topic words</th><th scope="col" class="numeric">Words ≈</th><th scope="col">Original</th></tr></thead><tbody id="quote-rows"></tbody></table></div><p id="quote-empty" hidden>No matching authors or topics. Clear the search or choose another author.</p><p class="table-note">This is an author and topic index, not full-text quote search. The quote feed links to the source. Any feed dates mean first indexed here; initial entries have no date.</p>
+</section>
+<section data-panel="resources" hidden class="collection-panel">
+<div class="panel-heading"><h2>More from Paul Graham</h2><p>Languages, spam, questions and history. These are signposts to his original pages, rather than copies of them.</p></div>
+<div class="resource-toolbar"><label>Find a page<input id="resource-search" type="search" placeholder="Arc, Lisp, spam, bio…"></label></div><div id="resource-list" class="resource-list"></div>
+<p class="table-note">For the 1995 startup story, start with the bio: Viaweb later became Yahoo Store. <a href="https://www.paulgraham.com/bio.html">Read the original bio ↗</a></p>
+</section>
+<p id="collections-error" hidden role="alert">The additional index could not load. <a href="https://www.paulgraham.com/index.html">Browse the original website</a>.</p>
+<details class="about"><summary>About the index & metadata</summary><div><p>This index covers the unique links in <a href="https://www.paulgraham.com/articles.html">Paul Graham’s essay list</a>, including two text chapters. The statistics tab summarizes these metadata. It does not claim to cover every page on his website.</p><p>Dates come from essay headers. “September 2026” means the month is known, not the day. Missing dates stay unavailable. Word counts exclude site navigation and include the recognized body and footnotes. Reading time assumes 225 words per minute.</p><p>Metadata updates daily through GitHub Actions. The RSS feed checks the original index when its hourly cache expires. A source outage keeps a previous feed snapshot available. <a href="/status.json">View feed status</a> · <a href="/feed.json">JSON Feed</a></p><p>The updater fetches pages to calculate metadata and discards their text. Articles are not mirrored here. All essay links open the author’s original pages.</p></div></details>
 </main>
-<footer><p>Independent. Unaffiliated with Paul Graham.</p><a href="https://github.com/Paranjayy/paul-graham-essays">Source & corrections ↗</a></footer>
-</div><script type="module" src="/app.mjs"></script>
+<footer><p>Independent. Unaffiliated with Paul Graham.</p><a href="https://github.com/Paranjayy/paul-graham-rss">Source & corrections ↗</a></footer>
+</div><script type="module" src="/app.mjs"></script><script type="module" src="/extras.mjs"></script>
 </body></html>

@@ -17,3 +17,11 @@ Catalog helpers are public/catalog-tools.mjs. Metadata extraction is lib/metadat
 Use the full content cell for legacy HTML, because font tags can split an essay. Preserve date precision and leave unavailable values null. Counts include notes and remain approximate. Keep extraction versioning so parser changes trigger metadata refreshes. Failed refreshes preserve previous metadata. Do not remove source entries because a metadata fetch failed.
 
 The daily GitHub workflow may commit only data/metadata.json, data/last-good.json and public/catalog.json. Keep requests bounded and allow an interrupt to save partial work. The table must support keyboard sorting, query sharing, and a narrow-screen scroll region. Do not add a client framework or account system for this index.
+
+## RSS and discovery surfaces
+
+The public remote is paul-graham-rss; keep the local pg-essays-feed folder and production hostname. `npm run update` retains its bounded essay options. `npm run update:collections` separately updates the quote finder, source directory and quote feed. The workflow runs both commands.
+
+Quote metadata lives in public/collections.json, parser in lib/collections.mjs, pure statistics/search helpers in public/collection-tools.mjs. Do not output original quotation bodies. Keep author attribution separate from collection curator. Source position is not chronology. Baseline quote entries have no publication date; later firstIndexedAt is index discovery only. Preserve stable GUIDs and original-source links.
+
+Statistics exclude text chapters from essay word totals. Unknown dates remain explicit. New public outputs must remain metadata-only. Do not add claims about copying or comparison-project inventories to product copy.

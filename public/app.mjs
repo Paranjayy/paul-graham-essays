@@ -25,7 +25,7 @@ function render({updateUrl=true}={}) {
   if(active)button.closest('th').setAttribute('aria-sort',view.direction==='asc'?'ascending':'descending');
   button.querySelector('span').textContent=active?(view.direction==='asc'?'↑':'↓'):'↕';
  });
- if(updateUrl){const params=new URLSearchParams();if(view.query)params.set('q',view.query);if(view.year)params.set('year',view.year);if(view.length)params.set('length',view.length);if(view.sort!=='order')params.set('sort',view.sort);if(view.direction!=='asc')params.set('dir',view.direction);history.replaceState(null,'',location.pathname+(params.size?'?'+params:''));}
+ if(updateUrl){const params=new URLSearchParams(location.search);for(const key of ['q','year','length','sort','dir'])params.delete(key);if(view.query)params.set('q',view.query);if(view.year)params.set('year',view.year);if(view.length)params.set('length',view.length);if(view.sort!=='order')params.set('sort',view.sort);if(view.direction!=='asc')params.set('dir',view.direction);history.replaceState(null,'',location.pathname+(params.size?'?'+params:'')+location.hash);}
 }
 function controls(){ $('search').value=view.query;$('year').value=view.year;$('length').value=view.length; }
 function reset(){view=readView(new URLSearchParams());controls();render();$('search').focus();}

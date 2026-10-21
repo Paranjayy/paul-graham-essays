@@ -29,3 +29,13 @@ Feed caching uses warm-process memory, Vercel CDN, and a checked-in public link 
 ## Boundaries
 
 No auth, database, analytics, or essay mirror. The local folder and production URL stay stable when the GitHub repository becomes public under a fuller name. Public source is not a software-license grant. The essays remain their author's work.
+
+## Statistics, collected quotes, and original sources
+
+Essay statistics are derived in the browser from the public catalog. They exclude text chapters from word totals and expose undated coverage. Year bars open the corresponding essay filter. Counts and estimated reading hours are navigation aids, not claims about quality or complete lifetime output.
+
+The quote finder indexes the author's collection of quotations from many speakers. It stores attribution, a stable content hash, source position, word count, and up to eight topic words. Original quotation bodies are transient during extraction and are not output. The table is metadata search rather than full-text search. Links open the original collection, with an attribution text fragment as a navigation aid. Source order can be reversed, but neither direction implies a publication date.
+
+The quote index RSS uses stable hashes as GUIDs. Baseline entries have no dates. Newly observed hashes use their first index-observation time, explicitly labelled as that event rather than quote publication. The daily workflow runs essay and collection updates as separate commands so essay request bounds remain effective.
+
+The source directory links to original Arc, Bel, Lisp, book, spam, response, FAQ, RAQ and bio pages. It retains titles and categories, with no mirrored page text. The bio pointer identifies Viaweb, later Yahoo Store, as the 1995 company. The source website remains the destination for reading and context.

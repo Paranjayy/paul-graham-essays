@@ -20,10 +20,11 @@ jobs:
           cache: npm
       - run: npm ci --ignore-scripts
       - run: npm run update
+      - run: npm run update:collections
       - run: npm test
       - name: Commit metadata only
         run: |
-          git add data/metadata.json data/last-good.json public/catalog.json
+          git add data/metadata.json data/last-good.json public/catalog.json public/collections.json public/quotes.xml
           if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

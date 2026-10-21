@@ -7,7 +7,8 @@
     "test": "node --test tests/*.test.mjs",
     "snapshot": "node scripts/snapshot.mjs",
     "dev": "node scripts/dev.mjs",
-    "update": "node scripts/catalog.mjs"
+    "update": "node scripts/catalog.mjs",
+    "update:collections": "node scripts/extras.mjs"
   },
   "dependencies": {
     "cheerio": "1.2.0"

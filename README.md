@@ -1,6 +1,6 @@
-# Paul Graham Essays
+# Paul Graham RSS
 
-A searchable index of Paul Graham’s essays, with publication dates, approximate word counts, reading times, and RSS feeds. Every article link opens the original. The site does not mirror essay text.
+A maintained RSS feed for Paul Graham’s essays, with a searchable index, reading statistics, a quote finder, and a directory of his other pages. Every article link opens the original.
 
 **[Browse the index](https://pg-essays-feed.vercel.app/)** · **[RSS](https://pg-essays-feed.vercel.app/feed.xml)** · **[JSON Feed](https://pg-essays-feed.vercel.app/feed.json)** · **[Download metadata](https://pg-essays-feed.vercel.app/catalog.json)**
 
@@ -13,6 +13,16 @@ The index covers the unique links listed on [Paul Graham’s essays page](https:
 Dates come from essay headers. A month-only date stays month-only. Missing dates appear as unavailable and sort after known dates. Revision dates do not replace an earlier publication date. The dates reflect the author’s header, rather than an independently verified first-publication timestamp.
 
 Word counts are estimates from the recognized body, including footnotes. They exclude navigation and known header material. Older HTML layouts can affect the estimate. Reading times use 225 words per minute. The updater fetches pages for these calculations and discards their text. Only metadata enters the repository and public JSON.
+
+## Statistics, quotes and other pages
+
+The Statistics tab summarizes the HTML essays: total estimated words, reading hours, median length, longest and shortest indexed pages, and counts by publication year. Choose a year bar to open the filtered essay table. The two text chapters are excluded from the word totals.
+
+The Quotes tab indexes the collection on the author's quotes page. Authors, topic words, source position and approximate length are searchable. The original wording stays on the source page. Author links use a browser text fragment to help find the attribution. These are quotes collected by Paul Graham, not all statements authored by him.
+
+The [quote index feed](https://pg-essays-feed.vercel.app/quotes.xml) supplies stable links for collection entries. Initial entries have no dates. A later new entry uses the time it was first indexed here, never an invented quote-publication date. Source order can be reversed in the table, but it is not labelled chronological.
+
+More from PG links to Arc, Bel, Lisp, books, spam, responses, FAQ, RAQ and bio. It contains page titles and categories. The 1995 company in his bio is Viaweb, which later became Yahoo Store.
 
 ## Feeds and updates
 
@@ -44,11 +54,14 @@ npm run update -- --limit 20 --workers 2
 # Recheck all metadata within the same bounded request limit.
 npm run update -- --refresh
 
+# Update the quote finder, quote feed and source directory.
+npm run update:collections
+
 # Update only the feed fallback, without essay metadata requests.
 npm run snapshot
 ```
 
-Press Ctrl+C to stop after active requests and retain the results. Existing files are replaced atomically. Metadata updates go to `data/metadata.json`, `public/catalog.json`, and `data/last-good.json`. No credentials are needed. The updater only requests the fixed author site and two explicitly allowed chapter URLs.
+Press Ctrl+C to stop after active requests and retain the results. Existing files are replaced atomically. Metadata updates go to `data/metadata.json`, `public/catalog.json`, `data/last-good.json`, `public/collections.json`, and `public/quotes.xml`. No credentials are needed. The updater only requests the fixed author site and two explicitly allowed chapter URLs.
 
 Deploy with `vercel --prod` after confirming the linked project. Static assets live in `public/`; the feed runs in `api/feed.mjs`. `FEED_ORIGIN` can override the canonical feed origin for a separate deployment. The local folder and existing production hostname remain `pg-essays-feed`.
 
@@ -58,8 +71,6 @@ Deploy with `vercel --prod` after confirming the linked project. Static assets l
 
 The app uses plain JavaScript, semantic HTML, and CSS. Cheerio (MIT) parses the legacy HTML. No client framework, account, database, or analytics is required.
 
-## Related projects and attribution
+## Original sources
 
-[Olshansk/pgessays-rss](https://github.com/Olshansk/pgessays-rss) and [leftmove/paul-graham](https://github.com/leftmove/paul-graham) offer other PG feed generators. Their repository pages did not show a license when checked. No code was copied. Aaron Swartz’s earlier scraped feed inspired the original feed approach.
-
-This is an independent project, unaffiliated with Paul Graham. Essays belong to their author. Public source availability does not grant a license to republish his writing. This repository does not currently include a software license.
+[Paul Graham’s website](https://www.paulgraham.com/) is the home for the essays, language projects, questions and quote collection. This independent project provides indexes and feeds that lead readers there. It is unaffiliated with Paul Graham. The writing belongs to its authors.
