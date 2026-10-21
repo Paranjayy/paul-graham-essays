@@ -20,3 +20,4 @@
 - `npm test` passed 15 tests, including quote attribution, stable discovery IDs, no body-text output, source date behavior, short author search, statistics scope and numeric median. The generated quote feed validated as RSS XML.
 
 - Hashed-word search regression matches source words omitted from displayed topic labels. The public output has token hashes, not original sentences. Existing quote IDs stayed stable and baseline observation dates stayed null.
+- The updated combined workflow run 39540232853 passed under the renamed public repo, published metadata commit 8c95ca9, and received a successful Vercel status. Production quote word-search found the expected attributed entry without rendering its quotation body. Quote RSS validated with 60 stable source links and no invented baseline dates. A 390px browser frame kept both statistics and quote views within page width; the quote table scrolled internally at 780px.
