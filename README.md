@@ -54,7 +54,7 @@ Deploy with `vercel --prod` after confirming the linked project. Static assets l
 
 ## Checks and architecture
 
-`npm test` covers source ordering, duplicate links, invalid upstream responses, XML escaping, outage fallback, date precision, legacy HTML boundaries, URL restrictions, table sorting, filtering, and shared view state. See [DESIGN.md](DESIGN.md) for the design and data boundaries and [AGENTS.md](AGENTS.md) for contributor rules.
+`npm test` covers source ordering, duplicate links, invalid upstream responses, XML escaping, outage fallback, date precision, legacy HTML boundaries, URL restrictions, table sorting, filtering, and shared view state. See [verification receipts](docs/VERIFICATION.md) for checked behavior and limits. See [DESIGN.md](DESIGN.md) for the design and data boundaries and [AGENTS.md](AGENTS.md) for contributor rules.
 
 The app uses plain JavaScript, semantic HTML, and CSS. Cheerio (MIT) parses the legacy HTML. No client framework, account, database, or analytics is required.
 

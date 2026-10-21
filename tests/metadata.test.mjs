@@ -7,6 +7,8 @@ test('month precision stays month-only and the original date wins over a revisio
  assert.deepEqual(publicationDate('April 2001, rev. April 2003\n'+body),{published:'2001-04',datePrecision:'month',dateLabel:'April 2001',header:'April 2001'});
  assert.equal(publicationDate('Some introduction\nFebruary 29, 2024\n'+body).published,'2024-02-29');
  assert.equal(publicationDate('February 30, 2024\n'+body).published,null);
+ assert.equal(publicationDate('February 0, 2024\n'+body).published,null);
+ assert.equal(publicationDate('March 2005 was a busy month.\n'+body).published,null);
  assert.equal(publicationDate(body+'\n'.repeat(10)+'March 2005').published,null);
 });
 test('body count excludes old banners and the date but keeps notes',()=>{
