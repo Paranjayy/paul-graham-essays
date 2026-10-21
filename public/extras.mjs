@@ -1,4 +1,4 @@
-import{essayStats,selectQuotes}from'./collection-tools.mjs';
+import{essayStats,selectQuotes,hashSearchTerms}from'./collection-tools.mjs';
 const $=id=>document.getElementById(id),number=new Intl.NumberFormat('en');
 let quotes=[],resources=[];
 function view(){const active=['essays','stats','quotes','resources'].includes(location.hash.slice(1))?location.hash.slice(1):'essays';document.querySelectorAll('[data-panel]').forEach(panel=>panel.hidden=panel.dataset.panel!==active);document.querySelectorAll('[data-view]').forEach(link=>{if(link.dataset.view===active)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current');});}
@@ -17,8 +17,12 @@ function stats(essays){
  if(data.shortest)highlights.append(original(data.shortest),text('p',number.format(data.shortest.wordCount)+' words ≈'));
  highlights.append(text('p','Short entries can be pointers to other material. Length is a navigation aid, not a quality score.'));
 }
-function renderQuotes(){
- const rows=selectQuotes(quotes,{query:$('quote-search').value,author:$('quote-author').value,reverse:$('quote-order').value==='reverse'});
+let quoteRenderVersion=0;
+async function renderQuotes(){
+ const version=++quoteRenderVersion;
+ const queryHashes=await hashSearchTerms($('quote-search').value);
+ if(version!==quoteRenderVersion)return;
+ const rows=selectQuotes(quotes,{queryHashes,query:$('quote-search').value,author:$('quote-author').value,reverse:$('quote-order').value==='reverse'});
  $('quote-count').textContent=`${rows.length} of ${quotes.length} entries · ${new Set(quotes.map(q=>q.author)).size} authors`;
  $('quote-rows').replaceChildren(...rows.map(quote=>{const tr=document.createElement('tr');const order=text('td',String(quote.order).padStart(3,'0'),'number'),author=text('td',quote.author),topics=document.createElement('td'),words=text('td',String(quote.wordCount),'numeric'),source=document.createElement('td');author.title=quote.attribution;for(const topic of quote.topics)topics.append(text('span',topic,'topic-word'));source.append(original(quote,'Open source'));tr.append(order,author,topics,words,source);return tr;}));
  $('quote-empty').hidden=rows.length>0;

@@ -25,3 +25,11 @@ test('essay statistics exclude text chapters, preserve undated coverage, and com
  assert.equal(stats.words,400);assert.equal(stats.essays,2);assert.equal(stats.chapters,1);assert.equal(stats.medianWords,200);
  assert.equal(stats.dated,1);assert.equal(stats.undated,1);assert.equal(stats.byYear[0].count,1);
 });
+test('hashed word search finds source wording that is absent from displayed topic labels',async()=>{
+ const {hashSearchTerms}=await import('../public/collection-tools.mjs');
+ const rows=parseQuotes(page(20));rows[0].topics=[];
+ const queryHashes=await hashSearchTerms('durable systems');
+ const result=selectQuotes(rows.slice(0,1),{query:'durable systems',queryHashes});
+ assert.equal(result.length,1);assert.equal(result[0].text,undefined);
+ assert.equal(selectQuotes(rows,{query:'unmentioned',queryHashes:await hashSearchTerms('unmentioned')}).length,0);
+});

@@ -18,7 +18,7 @@ Word counts are estimates from the recognized body, including footnotes. They ex
 
 The Statistics tab summarizes the HTML essays: total estimated words, reading hours, median length, longest and shortest indexed pages, and counts by publication year. Choose a year bar to open the filtered essay table. The two text chapters are excluded from the word totals.
 
-The Quotes tab indexes the collection on the author's quotes page. Authors, topic words, source position and approximate length are searchable. The original wording stays on the source page. Author links use a browser text fragment to help find the attribution. These are quotes collected by Paul Graham, not all statements authored by him.
+The Quotes tab indexes the collection on the author's quotes page. Authors, original-word search, topic labels, source position and approximate length help find an entry. A hashed token index supports all-word search without storing the sentences. The original wording stays on the source page. Author links use a browser text fragment to help find the attribution. These are quotes collected by Paul Graham, not all statements authored by him.
 
 The [quote index feed](https://pg-essays-feed.vercel.app/quotes.xml) supplies stable links for collection entries. Initial entries have no dates. A later new entry uses the time it was first indexed here, never an invented quote-publication date. Source order can be reversed in the table, but it is not labelled chronological.
 
