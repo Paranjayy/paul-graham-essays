@@ -26,3 +26,7 @@ test('upstream outage serves the durable fallback and labels its original timest
   assert.equal(data.stale,true);assert.ok(data.essays.length>=20);assert.ok(Date.parse(data.checkedAt));
  } finally {globalThis.fetch=original}
 });
+test('the complete index includes only the two allowed text chapters with stable URLs',()=>{
+ const data=parseIndex(`<table>${rows}<tr><td><a href="https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=123">Chapter 1</a></td></tr><tr><td><a href="https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=456">Duplicate</a></td></tr><tr><td><a href="https://sep.turbifycdn.com/other.txt">Not an allowed chapter</a></td></tr></table>`);
+ assert.equal(data.length,26);assert.equal(data.at(-1).url,'https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt');
+});
