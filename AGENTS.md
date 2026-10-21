@@ -7,3 +7,13 @@ Commands: npm test; npm run snapshot; npm run dev (port 3002).
 The source is the fixed HTTPS Paul Graham essay index. Do not accept arbitrary fetch URLs. Preserve source order, canonical URL IDs, strict parser validation and a deployable fallback snapshot. Do not invent publication dates. This is a link feed, not an essay mirror.
 
 Check feed.xml, feed.json, status.json, conditional GET, and fallback behavior after changes. Verify the Vercel target before deployment. Update README and DESIGN for behavior changes.
+
+## Complete metadata index
+
+Commands: npm run update [-- --limit 20 --workers 2]; npm run update -- --refresh. Run npm test after parser or view changes.
+
+Catalog helpers are public/catalog-tools.mjs. Metadata extraction is lib/metadata.mjs. The index updater is scripts/catalog.mjs. Keep body text transient. Commit only public titles, links, dates, counts and check status. Never store essays in public assets or test snapshots.
+
+Use the full content cell for legacy HTML, because font tags can split an essay. Preserve date precision and leave unavailable values null. Counts include notes and remain approximate. Keep extraction versioning so parser changes trigger metadata refreshes. Failed refreshes preserve previous metadata. Do not remove source entries because a metadata fetch failed.
+
+The daily GitHub workflow may commit only data/metadata.json, data/last-good.json and public/catalog.json. Keep requests bounded and allow an interrupt to save partial work. The table must support keyboard sorting, query sharing, and a narrow-screen scroll region. Do not add a client framework or account system for this index.

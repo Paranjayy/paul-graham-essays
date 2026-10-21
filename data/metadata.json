@@ -1,0 +1,2352 @@
+{
+  "https://www.paulgraham.com/powerful.html": {
+    "extractorVersion": 2,
+    "published": "2026-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2026",
+    "wordCount": 2941,
+    "readingMinutes": 14,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:29.345Z"
+  },
+  "https://www.paulgraham.com/prepare.html": {
+    "extractorVersion": 2,
+    "published": "2026-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2026",
+    "wordCount": 2893,
+    "readingMinutes": 13,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:29.825Z"
+  },
+  "https://www.paulgraham.com/earn.html": {
+    "extractorVersion": 2,
+    "published": "2026-06",
+    "datePrecision": "month",
+    "dateLabel": "June 2026",
+    "wordCount": 2366,
+    "readingMinutes": 11,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:30.060Z"
+  },
+  "https://www.paulgraham.com/winc.html": {
+    "extractorVersion": 2,
+    "published": "2026-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2026",
+    "wordCount": 695,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:30.427Z"
+  },
+  "https://www.paulgraham.com/brandage.html": {
+    "extractorVersion": 2,
+    "published": "2026-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2026",
+    "wordCount": 7644,
+    "readingMinutes": 34,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:30.896Z"
+  },
+  "https://www.paulgraham.com/field.html": {
+    "extractorVersion": 2,
+    "published": "2025-06",
+    "datePrecision": "month",
+    "dateLabel": "June 2025",
+    "wordCount": 766,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:31.098Z"
+  },
+  "https://www.paulgraham.com/goodwriting.html": {
+    "extractorVersion": 2,
+    "published": "2025-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2025",
+    "wordCount": 1641,
+    "readingMinutes": 8,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:31.497Z"
+  },
+  "https://www.paulgraham.com/do.html": {
+    "extractorVersion": 2,
+    "published": "2025-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2025",
+    "wordCount": 1588,
+    "readingMinutes": 8,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:31.706Z"
+  },
+  "https://www.paulgraham.com/woke.html": {
+    "extractorVersion": 2,
+    "published": "2025-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2025",
+    "wordCount": 6149,
+    "readingMinutes": 28,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:32.444Z"
+  },
+  "https://www.paulgraham.com/writes.html": {
+    "extractorVersion": 2,
+    "published": "2024-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2024",
+    "wordCount": 551,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:32.311Z"
+  },
+  "https://www.paulgraham.com/when.html": {
+    "extractorVersion": 2,
+    "published": "2024-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2024",
+    "wordCount": 1541,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:32.964Z"
+  },
+  "https://www.paulgraham.com/foundermode.html": {
+    "extractorVersion": 2,
+    "published": "2024-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2024",
+    "wordCount": 1240,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:33.050Z"
+  },
+  "https://www.paulgraham.com/persistence.html": {
+    "extractorVersion": 2,
+    "published": "2024-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2024",
+    "wordCount": 1932,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:33.563Z"
+  },
+  "https://www.paulgraham.com/reddits.html": {
+    "extractorVersion": 2,
+    "published": "2024-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2024",
+    "wordCount": 1171,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:33.726Z"
+  },
+  "https://www.paulgraham.com/google.html": {
+    "extractorVersion": 2,
+    "published": "2024-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2024",
+    "wordCount": 2822,
+    "readingMinutes": 13,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:34.256Z"
+  },
+  "https://www.paulgraham.com/best.html": {
+    "extractorVersion": 2,
+    "published": "2024-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2024",
+    "wordCount": 4327,
+    "readingMinutes": 20,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:34.335Z"
+  },
+  "https://www.paulgraham.com/superlinear.html": {
+    "extractorVersion": 2,
+    "published": "2023-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2023",
+    "wordCount": 4250,
+    "readingMinutes": 19,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:34.861Z"
+  },
+  "https://www.paulgraham.com/greatwork.html": {
+    "extractorVersion": 2,
+    "published": "2023-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2023",
+    "wordCount": 11800,
+    "readingMinutes": 53,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:35.164Z"
+  },
+  "https://www.paulgraham.com/getideas.html": {
+    "extractorVersion": 2,
+    "published": "2023-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2023",
+    "wordCount": 145,
+    "readingMinutes": 1,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:35.458Z"
+  },
+  "https://www.paulgraham.com/read.html": {
+    "extractorVersion": 2,
+    "published": "2022-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2022",
+    "wordCount": 444,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:36.469Z"
+  },
+  "https://www.paulgraham.com/want.html": {
+    "extractorVersion": 2,
+    "published": "2022-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2022",
+    "wordCount": 508,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:37.725Z"
+  },
+  "https://www.paulgraham.com/alien.html": {
+    "extractorVersion": 2,
+    "published": "2022-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2022",
+    "wordCount": 683,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:37.957Z"
+  },
+  "https://www.paulgraham.com/users.html": {
+    "extractorVersion": 2,
+    "published": "2022-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2022",
+    "wordCount": 2189,
+    "readingMinutes": 10,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:38.335Z"
+  },
+  "https://www.paulgraham.com/heresy.html": {
+    "extractorVersion": 2,
+    "published": "2022-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2022",
+    "wordCount": 2105,
+    "readingMinutes": 10,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:38.776Z"
+  },
+  "https://www.paulgraham.com/words.html": {
+    "extractorVersion": 2,
+    "published": "2022-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2022",
+    "wordCount": 1161,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:38.994Z"
+  },
+  "https://www.paulgraham.com/goodtaste.html": {
+    "extractorVersion": 2,
+    "published": "2021-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2021",
+    "wordCount": 1121,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:39.372Z"
+  },
+  "https://www.paulgraham.com/smart.html": {
+    "extractorVersion": 2,
+    "published": "2021-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2021",
+    "wordCount": 1415,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:39.596Z"
+  },
+  "https://www.paulgraham.com/weird.html": {
+    "extractorVersion": 2,
+    "published": "2021-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2021",
+    "wordCount": 347,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:40.012Z"
+  },
+  "https://www.paulgraham.com/hwh.html": {
+    "extractorVersion": 2,
+    "published": "2021-06",
+    "datePrecision": "month",
+    "dateLabel": "June 2021",
+    "wordCount": 3306,
+    "readingMinutes": 15,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:40.412Z"
+  },
+  "https://www.paulgraham.com/own.html": {
+    "extractorVersion": 2,
+    "published": "2021-06",
+    "datePrecision": "month",
+    "dateLabel": "June 2021",
+    "wordCount": 2500,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:40.614Z"
+  },
+  "https://www.paulgraham.com/fn.html": {
+    "extractorVersion": 2,
+    "published": "2021-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2021",
+    "wordCount": 1242,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:41.070Z"
+  },
+  "https://www.paulgraham.com/newideas.html": {
+    "extractorVersion": 2,
+    "published": "2021-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2021",
+    "wordCount": 1322,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:41.212Z"
+  },
+  "https://www.paulgraham.com/nft.html": {
+    "extractorVersion": 2,
+    "published": "2021-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2021",
+    "wordCount": 317,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:41.671Z"
+  },
+  "https://www.paulgraham.com/real.html": {
+    "extractorVersion": 2,
+    "published": "2021-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2021",
+    "wordCount": 761,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:41.875Z"
+  },
+  "https://www.paulgraham.com/richnow.html": {
+    "extractorVersion": 2,
+    "published": "2021-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2021",
+    "wordCount": 2583,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:42.280Z"
+  },
+  "https://www.paulgraham.com/simply.html": {
+    "extractorVersion": 2,
+    "published": "2021-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2021",
+    "wordCount": 507,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:42.476Z"
+  },
+  "https://www.paulgraham.com/donate.html": {
+    "extractorVersion": 2,
+    "published": "2021-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2021",
+    "wordCount": 482,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:42.923Z"
+  },
+  "https://www.paulgraham.com/worked.html": {
+    "extractorVersion": 2,
+    "published": "2021-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2021",
+    "wordCount": 13802,
+    "readingMinutes": 62,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:43.673Z"
+  },
+  "https://www.paulgraham.com/earnest.html": {
+    "extractorVersion": 2,
+    "published": "2020-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2020",
+    "wordCount": 1668,
+    "readingMinutes": 8,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:43.520Z"
+  },
+  "https://www.paulgraham.com/ace.html": {
+    "extractorVersion": 2,
+    "published": "2020-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2020",
+    "wordCount": 3418,
+    "readingMinutes": 16,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:44.125Z"
+  },
+  "https://www.paulgraham.com/airbnbs.html": {
+    "extractorVersion": 2,
+    "published": "2020-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2020",
+    "wordCount": 1100,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:44.276Z"
+  },
+  "https://www.paulgraham.com/think.html": {
+    "extractorVersion": 2,
+    "published": "2020-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2020",
+    "wordCount": 3440,
+    "readingMinutes": 16,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:44.737Z"
+  },
+  "https://www.paulgraham.com/early.html": {
+    "extractorVersion": 2,
+    "published": "2020-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2020",
+    "wordCount": 2497,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:44.875Z"
+  },
+  "https://www.paulgraham.com/wtax.html": {
+    "extractorVersion": 2,
+    "published": "2020-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2020",
+    "wordCount": 452,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:45.347Z"
+  },
+  "https://www.paulgraham.com/conformism.html": {
+    "extractorVersion": 2,
+    "published": "2020-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2020",
+    "wordCount": 1964,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:45.544Z"
+  },
+  "https://www.paulgraham.com/orth.html": {
+    "extractorVersion": 2,
+    "published": "2020-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2020",
+    "wordCount": 646,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:45.954Z"
+  },
+  "https://www.paulgraham.com/cred.html": {
+    "extractorVersion": 2,
+    "published": "2020-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2020",
+    "wordCount": 236,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:46.144Z"
+  },
+  "https://www.paulgraham.com/useful.html": {
+    "extractorVersion": 2,
+    "published": "2020-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2020",
+    "wordCount": 2858,
+    "readingMinutes": 13,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:46.596Z"
+  },
+  "https://www.paulgraham.com/noob.html": {
+    "extractorVersion": 2,
+    "published": "2020-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2020",
+    "wordCount": 371,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:46.834Z"
+  },
+  "https://www.paulgraham.com/fh.html": {
+    "extractorVersion": 2,
+    "published": "2020-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2020",
+    "wordCount": 1389,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:47.226Z"
+  },
+  "https://www.paulgraham.com/mod.html": {
+    "extractorVersion": 2,
+    "published": "2019-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2019",
+    "wordCount": 665,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:47.434Z"
+  },
+  "https://www.paulgraham.com/fp.html": {
+    "extractorVersion": 2,
+    "published": "2019-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2019",
+    "wordCount": 187,
+    "readingMinutes": 1,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:47.883Z"
+  },
+  "https://www.paulgraham.com/kids.html": {
+    "extractorVersion": 2,
+    "published": "2019-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2019",
+    "wordCount": 1532,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:48.069Z"
+  },
+  "https://www.paulgraham.com/lesson.html": {
+    "extractorVersion": 2,
+    "published": "2019-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2019",
+    "wordCount": 4038,
+    "readingMinutes": 18,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:48.707Z"
+  },
+  "https://www.paulgraham.com/nov.html": {
+    "extractorVersion": 2,
+    "published": "2019-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2019",
+    "wordCount": 253,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:48.689Z"
+  },
+  "https://www.paulgraham.com/genius.html": {
+    "extractorVersion": 2,
+    "published": "2019-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2019",
+    "wordCount": 2631,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:49.300Z"
+  },
+  "https://www.paulgraham.com/sun.html": {
+    "extractorVersion": 2,
+    "published": "2017-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2017",
+    "wordCount": 438,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:49.306Z"
+  },
+  "https://www.paulgraham.com/pow.html": {
+    "extractorVersion": 2,
+    "published": "2017-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2017",
+    "wordCount": 119,
+    "readingMinutes": 1,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:49.982Z"
+  },
+  "https://www.paulgraham.com/disc.html": {
+    "extractorVersion": 2,
+    "published": "2017-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2017",
+    "wordCount": 214,
+    "readingMinutes": 1,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:49.984Z"
+  },
+  "https://www.paulgraham.com/pgh.html": {
+    "extractorVersion": 2,
+    "published": "2016-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2016",
+    "wordCount": 2637,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:50.586Z"
+  },
+  "https://www.paulgraham.com/vb.html": {
+    "extractorVersion": 2,
+    "published": "2016-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2016",
+    "wordCount": 1672,
+    "readingMinutes": 8,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:50.588Z"
+  },
+  "https://www.paulgraham.com/ineq.html": {
+    "extractorVersion": 2,
+    "published": "2016-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2016",
+    "wordCount": 3407,
+    "readingMinutes": 16,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:51.191Z"
+  },
+  "https://www.paulgraham.com/re.html": {
+    "extractorVersion": 2,
+    "published": "2016-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2016",
+    "wordCount": 7184,
+    "readingMinutes": 32,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:51.412Z"
+  },
+  "https://www.paulgraham.com/jessica.html": {
+    "extractorVersion": 2,
+    "published": "2015-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2015",
+    "wordCount": 1964,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:51.835Z"
+  },
+  "https://www.paulgraham.com/bias.html": {
+    "extractorVersion": 2,
+    "published": "2015-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2015",
+    "wordCount": 564,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:52.074Z"
+  },
+  "https://www.paulgraham.com/talk.html": {
+    "extractorVersion": 2,
+    "published": "2015-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2015",
+    "wordCount": 707,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:52.446Z"
+  },
+  "https://www.paulgraham.com/aord.html": {
+    "extractorVersion": 2,
+    "published": "2015-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2015",
+    "wordCount": 1495,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:52.678Z"
+  },
+  "https://www.paulgraham.com/safe.html": {
+    "extractorVersion": 2,
+    "published": "2015-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2015",
+    "wordCount": 786,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:53.121Z"
+  },
+  "https://www.paulgraham.com/name.html": {
+    "extractorVersion": 2,
+    "published": "2015-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2015",
+    "wordCount": 759,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:53.280Z"
+  },
+  "https://www.paulgraham.com/altair.html": {
+    "extractorVersion": 2,
+    "published": "2015-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2015",
+    "wordCount": 375,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:53.722Z"
+  },
+  "https://www.paulgraham.com/ronco.html": {
+    "extractorVersion": 2,
+    "published": "2015-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2015",
+    "wordCount": 628,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:53.930Z"
+  },
+  "https://www.paulgraham.com/work.html": {
+    "extractorVersion": 2,
+    "published": "2015-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2015",
+    "wordCount": 480,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:54.318Z"
+  },
+  "https://www.paulgraham.com/corpdev.html": {
+    "extractorVersion": 2,
+    "published": "2015-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2015",
+    "wordCount": 1292,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:54.532Z"
+  },
+  "https://www.paulgraham.com/95.html": {
+    "extractorVersion": 2,
+    "published": "2014-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2014",
+    "wordCount": 922,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:54.985Z"
+  },
+  "https://www.paulgraham.com/ecw.html": {
+    "extractorVersion": 2,
+    "published": "2014-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2014",
+    "wordCount": 1063,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:55.218Z"
+  },
+  "https://www.paulgraham.com/know.html": {
+    "extractorVersion": 2,
+    "published": "2014-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2014",
+    "wordCount": 647,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:55.592Z"
+  },
+  "https://www.paulgraham.com/pinch.html": {
+    "extractorVersion": 2,
+    "published": "2014-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2014",
+    "wordCount": 1595,
+    "readingMinutes": 8,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:55.821Z"
+  },
+  "https://www.paulgraham.com/mean.html": {
+    "extractorVersion": 2,
+    "published": "2014-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2014",
+    "wordCount": 1136,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:56.274Z"
+  },
+  "https://www.paulgraham.com/before.html": {
+    "extractorVersion": 2,
+    "published": "2014-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2014",
+    "wordCount": 4587,
+    "readingMinutes": 21,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:56.641Z"
+  },
+  "https://www.paulgraham.com/fr.html": {
+    "extractorVersion": 2,
+    "published": "2013-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2013",
+    "wordCount": 10666,
+    "readingMinutes": 48,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:57.334Z"
+  },
+  "https://www.paulgraham.com/herd.html": {
+    "extractorVersion": 2,
+    "published": "2013-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2013",
+    "wordCount": 1092,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:57.323Z"
+  },
+  "https://www.paulgraham.com/convince.html": {
+    "extractorVersion": 2,
+    "published": "2013-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2013",
+    "wordCount": 3668,
+    "readingMinutes": 17,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:57.929Z"
+  },
+  "https://www.paulgraham.com/invtrend.html": {
+    "extractorVersion": 2,
+    "published": "2013-06",
+    "datePrecision": "month",
+    "dateLabel": "June 2013",
+    "wordCount": 2959,
+    "readingMinutes": 14,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:58.529Z"
+  },
+  "https://www.paulgraham.com/ds.html": {
+    "extractorVersion": 2,
+    "published": "2013-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2013",
+    "wordCount": 4334,
+    "readingMinutes": 20,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:58.158Z"
+  },
+  "https://www.paulgraham.com/hw.html": {
+    "extractorVersion": 2,
+    "published": "2012-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2012",
+    "wordCount": 390,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:59.175Z"
+  },
+  "https://www.paulgraham.com/startupideas.html": {
+    "extractorVersion": 2,
+    "published": "2012-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2012",
+    "wordCount": 7198,
+    "readingMinutes": 32,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:58.986Z"
+  },
+  "https://www.paulgraham.com/swan.html": {
+    "extractorVersion": 2,
+    "published": "2012-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2012",
+    "wordCount": 2150,
+    "readingMinutes": 10,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:59.776Z"
+  },
+  "https://www.paulgraham.com/growth.html": {
+    "extractorVersion": 2,
+    "published": "2012-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2012",
+    "wordCount": 5351,
+    "readingMinutes": 24,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:28:59.808Z"
+  },
+  "https://www.paulgraham.com/todo.html": {
+    "extractorVersion": 2,
+    "published": "2012-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2012",
+    "wordCount": 229,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:00.466Z"
+  },
+  "https://www.paulgraham.com/speak.html": {
+    "extractorVersion": 2,
+    "published": "2012-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2012",
+    "wordCount": 1190,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:00.472Z"
+  },
+  "https://www.paulgraham.com/ycstart.html": {
+    "extractorVersion": 2,
+    "published": "2012-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2012",
+    "wordCount": 1443,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:01.083Z"
+  },
+  "https://www.paulgraham.com/property.html": {
+    "extractorVersion": 2,
+    "published": "2012-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2012",
+    "wordCount": 977,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:01.071Z"
+  },
+  "https://www.paulgraham.com/ambitious.html": {
+    "extractorVersion": 2,
+    "published": "2012-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2012",
+    "wordCount": 3779,
+    "readingMinutes": 17,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:01.693Z"
+  },
+  "https://www.paulgraham.com/word.html": {
+    "extractorVersion": 2,
+    "published": "2012-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2012",
+    "wordCount": 786,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:01.689Z"
+  },
+  "https://www.paulgraham.com/schlep.html": {
+    "extractorVersion": 2,
+    "published": "2012-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2012",
+    "wordCount": 839,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:02.318Z"
+  },
+  "https://www.paulgraham.com/vw.html": {
+    "extractorVersion": 2,
+    "published": "2012-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2012",
+    "wordCount": 872,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:02.321Z"
+  },
+  "https://www.paulgraham.com/hubs.html": {
+    "extractorVersion": 2,
+    "published": "2011-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2011",
+    "wordCount": 1798,
+    "readingMinutes": 8,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:02.937Z"
+  },
+  "https://www.paulgraham.com/patentpledge.html": {
+    "extractorVersion": 2,
+    "published": "2011-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2011",
+    "wordCount": 677,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:02.920Z"
+  },
+  "https://www.paulgraham.com/airbnb.html": {
+    "extractorVersion": 2,
+    "published": "2011-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2011",
+    "wordCount": 1378,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:03.613Z"
+  },
+  "https://www.paulgraham.com/control.html": {
+    "extractorVersion": 2,
+    "published": "2010-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2010",
+    "wordCount": 766,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:03.609Z"
+  },
+  "https://www.paulgraham.com/tablets.html": {
+    "extractorVersion": 2,
+    "published": "2010-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2010",
+    "wordCount": 547,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:04.217Z"
+  },
+  "https://www.paulgraham.com/founders.html": {
+    "extractorVersion": 2,
+    "published": "2010-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2010",
+    "wordCount": 787,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:04.220Z"
+  },
+  "https://www.paulgraham.com/superangels.html": {
+    "extractorVersion": 2,
+    "published": "2010-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2010",
+    "wordCount": 3577,
+    "readingMinutes": 16,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:04.829Z"
+  },
+  "https://www.paulgraham.com/seesv.html": {
+    "extractorVersion": 2,
+    "published": "2010-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2010",
+    "wordCount": 1071,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:04.825Z"
+  },
+  "https://www.paulgraham.com/hiresfund.html": {
+    "extractorVersion": 2,
+    "published": "2010-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2010",
+    "wordCount": 700,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:05.468Z"
+  },
+  "https://www.paulgraham.com/yahoo.html": {
+    "extractorVersion": 2,
+    "published": "2010-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2010",
+    "wordCount": 2037,
+    "readingMinutes": 10,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:05.472Z"
+  },
+  "https://www.paulgraham.com/future.html": {
+    "extractorVersion": 2,
+    "published": "2010-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2010",
+    "wordCount": 3872,
+    "readingMinutes": 18,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:06.077Z"
+  },
+  "https://www.paulgraham.com/addiction.html": {
+    "extractorVersion": 2,
+    "published": "2010-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2010",
+    "wordCount": 1272,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:06.073Z"
+  },
+  "https://www.paulgraham.com/top.html": {
+    "extractorVersion": 2,
+    "published": "2010-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2010",
+    "wordCount": 1153,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:06.758Z"
+  },
+  "https://www.paulgraham.com/selfindulgence.html": {
+    "extractorVersion": 2,
+    "published": "2010-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2010",
+    "wordCount": 675,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:06.753Z"
+  },
+  "https://www.paulgraham.com/organic.html": {
+    "extractorVersion": 2,
+    "published": "2010-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2010",
+    "wordCount": 993,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:07.363Z"
+  },
+  "https://www.paulgraham.com/apple.html": {
+    "extractorVersion": 2,
+    "published": "2009-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2009",
+    "wordCount": 2120,
+    "readingMinutes": 10,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:07.365Z"
+  },
+  "https://www.paulgraham.com/really.html": {
+    "extractorVersion": 2,
+    "published": "2009-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2009",
+    "wordCount": 5054,
+    "readingMinutes": 23,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:08.189Z"
+  },
+  "https://www.paulgraham.com/discover.html": {
+    "extractorVersion": 2,
+    "published": "2009-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2009",
+    "wordCount": 1297,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:07.962Z"
+  },
+  "https://www.paulgraham.com/publishing.html": {
+    "extractorVersion": 2,
+    "published": "2009-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2009",
+    "wordCount": 1775,
+    "readingMinutes": 8,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:08.614Z"
+  },
+  "https://www.paulgraham.com/nthings.html": {
+    "extractorVersion": 2,
+    "published": "2009-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2009",
+    "wordCount": 1448,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:08.857Z"
+  },
+  "https://www.paulgraham.com/determination.html": {
+    "extractorVersion": 2,
+    "published": "2009-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2009",
+    "wordCount": 1489,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:09.222Z"
+  },
+  "https://www.paulgraham.com/kate.html": {
+    "extractorVersion": 2,
+    "published": "2009-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2009",
+    "wordCount": 810,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:09.457Z"
+  },
+  "https://www.paulgraham.com/segway.html": {
+    "extractorVersion": 2,
+    "published": "2009-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2009",
+    "wordCount": 375,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:09.920Z"
+  },
+  "https://www.paulgraham.com/ramenprofitable.html": {
+    "extractorVersion": 2,
+    "published": "2009-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2009",
+    "wordCount": 1826,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:10.060Z"
+  },
+  "https://www.paulgraham.com/makersschedule.html": {
+    "extractorVersion": 2,
+    "published": "2009-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2009",
+    "wordCount": 1130,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:10.521Z"
+  },
+  "https://www.paulgraham.com/revolution.html": {
+    "extractorVersion": 2,
+    "published": "2009-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2009",
+    "wordCount": 1341,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:10.710Z"
+  },
+  "https://www.paulgraham.com/twitter.html": {
+    "extractorVersion": 2,
+    "published": "2009-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2009",
+    "wordCount": 146,
+    "readingMinutes": 1,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:11.124Z"
+  },
+  "https://www.paulgraham.com/foundervisa.html": {
+    "extractorVersion": 2,
+    "published": "2009-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2009",
+    "wordCount": 405,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:11.309Z"
+  },
+  "https://www.paulgraham.com/5founders.html": {
+    "extractorVersion": 2,
+    "published": "2009-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2009",
+    "wordCount": 756,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:11.760Z"
+  },
+  "https://www.paulgraham.com/relres.html": {
+    "extractorVersion": 2,
+    "published": "2009-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2009",
+    "wordCount": 992,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:12.006Z"
+  },
+  "https://www.paulgraham.com/angelinvesting.html": {
+    "extractorVersion": 2,
+    "published": "2009-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2009",
+    "wordCount": 3972,
+    "readingMinutes": 18,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:12.365Z"
+  },
+  "https://www.paulgraham.com/convergence.html": {
+    "extractorVersion": 2,
+    "published": "2009-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2009",
+    "wordCount": 1527,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:12.610Z"
+  },
+  "https://www.paulgraham.com/maybe.html": {
+    "extractorVersion": 2,
+    "published": "2009-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2009",
+    "wordCount": 1909,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:13.064Z"
+  },
+  "https://www.paulgraham.com/hackernews.html": {
+    "extractorVersion": 2,
+    "published": "2009-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2009",
+    "wordCount": 2870,
+    "readingMinutes": 13,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:13.214Z"
+  },
+  "https://www.paulgraham.com/identity.html": {
+    "extractorVersion": 2,
+    "published": "2009-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2009",
+    "wordCount": 868,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:13.858Z"
+  },
+  "https://www.paulgraham.com/credentials.html": {
+    "extractorVersion": 2,
+    "published": "2008-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2008",
+    "wordCount": 2377,
+    "readingMinutes": 11,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:14.265Z"
+  },
+  "https://www.paulgraham.com/13sentences.html": {
+    "extractorVersion": 2,
+    "published": "2009-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2009",
+    "wordCount": 1304,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:13.663Z"
+  },
+  "https://www.paulgraham.com/divergence.html": {
+    "extractorVersion": 2,
+    "published": "2008-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2008",
+    "wordCount": 1356,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:14.462Z"
+  },
+  "https://www.paulgraham.com/highres.html": {
+    "extractorVersion": 2,
+    "published": "2008-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2008",
+    "wordCount": 1522,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:15.954Z"
+  },
+  "https://www.paulgraham.com/artistsship.html": {
+    "extractorVersion": 2,
+    "published": "2008-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2008",
+    "wordCount": 1311,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:15.146Z"
+  },
+  "https://www.paulgraham.com/badeconomy.html": {
+    "extractorVersion": 2,
+    "published": "2008-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2008",
+    "wordCount": 1097,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:15.746Z"
+  },
+  "https://www.paulgraham.com/prcmc.html": {
+    "extractorVersion": 2,
+    "published": "2008-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2008",
+    "wordCount": 1257,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:16.551Z"
+  },
+  "https://www.paulgraham.com/fundraising.html": {
+    "extractorVersion": 2,
+    "published": "2008-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2008",
+    "wordCount": 4835,
+    "readingMinutes": 22,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:16.564Z"
+  },
+  "https://www.paulgraham.com/distraction.html": {
+    "extractorVersion": 2,
+    "published": "2008-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2008",
+    "wordCount": 1091,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:17.237Z"
+  },
+  "https://www.paulgraham.com/cities.html": {
+    "extractorVersion": 2,
+    "published": "2008-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2008",
+    "wordCount": 3589,
+    "readingMinutes": 16,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:17.528Z"
+  },
+  "https://www.paulgraham.com/good.html": {
+    "extractorVersion": 2,
+    "published": "2008-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2008",
+    "wordCount": 2948,
+    "readingMinutes": 14,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:18.138Z"
+  },
+  "https://www.paulgraham.com/lies.html": {
+    "extractorVersion": 2,
+    "published": "2008-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2008",
+    "wordCount": 5251,
+    "readingMinutes": 24,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:18.081Z"
+  },
+  "https://www.paulgraham.com/googles.html": {
+    "extractorVersion": 2,
+    "published": "2008-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2008",
+    "wordCount": 1328,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:18.678Z"
+  },
+  "https://www.paulgraham.com/heroes.html": {
+    "extractorVersion": 2,
+    "published": "2008-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2008",
+    "wordCount": 2692,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:18.815Z"
+  },
+  "https://www.paulgraham.com/disagree.html": {
+    "extractorVersion": 2,
+    "published": "2008-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2008",
+    "wordCount": 1500,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:19.351Z"
+  },
+  "https://www.paulgraham.com/boss.html": {
+    "extractorVersion": 2,
+    "published": "2008-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2008",
+    "wordCount": 2522,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:19.428Z"
+  },
+  "https://www.paulgraham.com/ycombinator.html": {
+    "extractorVersion": 2,
+    "published": "2008-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2008",
+    "wordCount": 1992,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:19.951Z"
+  },
+  "https://www.paulgraham.com/trolls.html": {
+    "extractorVersion": 2,
+    "published": "2008-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2008",
+    "wordCount": 892,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:20.027Z"
+  },
+  "https://www.paulgraham.com/newthings.html": {
+    "extractorVersion": 2,
+    "published": "2008-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2008",
+    "wordCount": 1169,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:20.560Z"
+  },
+  "https://www.paulgraham.com/startuphubs.html": {
+    "extractorVersion": 2,
+    "published": "2007-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2007",
+    "wordCount": 1456,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:20.671Z"
+  },
+  "https://www.paulgraham.com/webstartups.html": {
+    "extractorVersion": 2,
+    "published": "2007-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2007",
+    "wordCount": 3396,
+    "readingMinutes": 16,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:21.198Z"
+  },
+  "https://www.paulgraham.com/philosophy.html": {
+    "extractorVersion": 2,
+    "published": "2007-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2007",
+    "wordCount": 4723,
+    "readingMinutes": 21,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:21.494Z"
+  },
+  "https://www.paulgraham.com/colleges.html": {
+    "extractorVersion": 2,
+    "published": "2007-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2007",
+    "wordCount": 2218,
+    "readingMinutes": 10,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:21.795Z"
+  },
+  "https://www.paulgraham.com/die.html": {
+    "extractorVersion": 2,
+    "published": "2007-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2007",
+    "wordCount": 1961,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:22.092Z"
+  },
+  "https://www.paulgraham.com/head.html": {
+    "extractorVersion": 2,
+    "published": "2007-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2007",
+    "wordCount": 1835,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:22.494Z"
+  },
+  "https://www.paulgraham.com/stuff.html": {
+    "extractorVersion": 2,
+    "published": "2007-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2007",
+    "wordCount": 1246,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:22.777Z"
+  },
+  "https://www.paulgraham.com/equity.html": {
+    "extractorVersion": 2,
+    "published": "2007-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2007",
+    "wordCount": 1140,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:23.106Z"
+  },
+  "https://www.paulgraham.com/unions.html": {
+    "extractorVersion": 2,
+    "published": "2007-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2007",
+    "wordCount": 513,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:23.382Z"
+  },
+  "https://www.paulgraham.com/guidetoinvestors.html": {
+    "extractorVersion": 2,
+    "published": "2007-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2007",
+    "wordCount": 6259,
+    "readingMinutes": 28,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:23.941Z"
+  },
+  "https://www.paulgraham.com/judgement.html": {
+    "extractorVersion": 2,
+    "published": "2007-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2007",
+    "wordCount": 742,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:24.061Z"
+  },
+  "https://www.paulgraham.com/microsoft.html": {
+    "extractorVersion": 2,
+    "published": "2007-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2007",
+    "wordCount": 1295,
+    "readingMinutes": 6,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:24.589Z"
+  },
+  "https://www.paulgraham.com/notnot.html": {
+    "extractorVersion": 2,
+    "published": "2007-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2007",
+    "wordCount": 6279,
+    "readingMinutes": 28,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:24.926Z"
+  },
+  "https://www.paulgraham.com/wisdom.html": {
+    "extractorVersion": 2,
+    "published": "2007-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2007",
+    "wordCount": 3749,
+    "readingMinutes": 17,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:25.198Z"
+  },
+  "https://www.paulgraham.com/foundersatwork.html": {
+    "extractorVersion": 2,
+    "published": "2007-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2007",
+    "wordCount": 773,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:25.607Z"
+  },
+  "https://www.paulgraham.com/goodart.html": {
+    "extractorVersion": 2,
+    "published": "2006-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2006",
+    "wordCount": 3625,
+    "readingMinutes": 17,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:25.827Z"
+  },
+  "https://www.paulgraham.com/startupmistakes.html": {
+    "extractorVersion": 2,
+    "published": "2006-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2006",
+    "wordCount": 5586,
+    "readingMinutes": 25,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:27.298Z"
+  },
+  "https://www.paulgraham.com/mit.html": {
+    "extractorVersion": 2,
+    "published": "2006-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2006",
+    "wordCount": 6456,
+    "readingMinutes": 29,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:28.025Z"
+  },
+  "https://www.paulgraham.com/investors.html": {
+    "extractorVersion": 2,
+    "published": "2006-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2006",
+    "wordCount": 2804,
+    "readingMinutes": 13,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:28.232Z"
+  },
+  "https://www.paulgraham.com/copy.html": {
+    "extractorVersion": 2,
+    "published": "2006-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2006",
+    "wordCount": 929,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:28.629Z"
+  },
+  "https://www.paulgraham.com/island.html": {
+    "extractorVersion": 2,
+    "published": "2006-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2006",
+    "wordCount": 755,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:28.833Z"
+  },
+  "https://www.paulgraham.com/marginal.html": {
+    "extractorVersion": 2,
+    "published": "2006-06",
+    "datePrecision": "month",
+    "dateLabel": "June 2006",
+    "wordCount": 6030,
+    "readingMinutes": 27,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:29.593Z"
+  },
+  "https://www.paulgraham.com/america.html": {
+    "extractorVersion": 2,
+    "published": "2006-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2006",
+    "wordCount": 4765,
+    "readingMinutes": 22,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:29.645Z"
+  },
+  "https://www.paulgraham.com/siliconvalley.html": {
+    "extractorVersion": 2,
+    "published": "2006-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2006",
+    "wordCount": 3601,
+    "readingMinutes": 17,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:30.414Z"
+  },
+  "https://www.paulgraham.com/startuplessons.html": {
+    "extractorVersion": 2,
+    "published": "2006-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2006",
+    "wordCount": 4827,
+    "readingMinutes": 22,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:30.464Z"
+  },
+  "https://www.paulgraham.com/randomness.html": {
+    "extractorVersion": 2,
+    "published": "2006-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2006",
+    "wordCount": 578,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:31.009Z"
+  },
+  "https://www.paulgraham.com/6631327.html": {
+    "extractorVersion": 2,
+    "published": "2006-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2006",
+    "wordCount": 687,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:32.477Z"
+  },
+  "https://www.paulgraham.com/softwarepatents.html": {
+    "extractorVersion": 2,
+    "published": "2006-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2006",
+    "wordCount": 4656,
+    "readingMinutes": 21,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:31.373Z"
+  },
+  "https://www.paulgraham.com/whyyc.html": {
+    "extractorVersion": 2,
+    "published": "2006-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2006",
+    "wordCount": 371,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:31.967Z"
+  },
+  "https://www.paulgraham.com/love.html": {
+    "extractorVersion": 2,
+    "published": "2006-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2006",
+    "wordCount": 4664,
+    "readingMinutes": 21,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:32.791Z"
+  },
+  "https://www.paulgraham.com/procrastination.html": {
+    "extractorVersion": 2,
+    "published": "2005-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2005",
+    "wordCount": 1802,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:33.087Z"
+  },
+  "https://www.paulgraham.com/web20.html": {
+    "extractorVersion": 2,
+    "published": "2005-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2005",
+    "wordCount": 3398,
+    "readingMinutes": 16,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:33.618Z"
+  },
+  "https://www.paulgraham.com/startupfunding.html": {
+    "extractorVersion": 2,
+    "published": "2005-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2005",
+    "wordCount": 8956,
+    "readingMinutes": 40,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:34.004Z"
+  },
+  "https://www.paulgraham.com/vcsqueeze.html": {
+    "extractorVersion": 2,
+    "published": "2005-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2005",
+    "wordCount": 1566,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:34.307Z"
+  },
+  "https://www.paulgraham.com/ideas.html": {
+    "extractorVersion": 2,
+    "published": "2005-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2005",
+    "wordCount": 3930,
+    "readingMinutes": 18,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:34.843Z"
+  },
+  "https://www.paulgraham.com/sfp.html": {
+    "extractorVersion": 2,
+    "published": "2005-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2005",
+    "wordCount": 2575,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:34.910Z"
+  },
+  "https://www.paulgraham.com/inequality.html": {
+    "extractorVersion": 2,
+    "published": "2005-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2005",
+    "wordCount": 2815,
+    "readingMinutes": 13,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:35.451Z"
+  },
+  "https://www.paulgraham.com/ladder.html": {
+    "extractorVersion": 2,
+    "published": "2005-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2005",
+    "wordCount": 583,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:35.594Z"
+  },
+  "https://www.paulgraham.com/opensource.html": {
+    "extractorVersion": 2,
+    "published": "2005-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2005",
+    "wordCount": 4351,
+    "readingMinutes": 20,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:36.985Z"
+  },
+  "https://www.paulgraham.com/hiring.html": {
+    "extractorVersion": 2,
+    "published": "2005-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2005",
+    "wordCount": 4775,
+    "readingMinutes": 22,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:36.420Z"
+  },
+  "https://www.paulgraham.com/submarine.html": {
+    "extractorVersion": 2,
+    "published": "2005-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2005",
+    "wordCount": 2311,
+    "readingMinutes": 11,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:37.024Z"
+  },
+  "https://www.paulgraham.com/bronze.html": {
+    "extractorVersion": 2,
+    "published": "2005-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2005",
+    "wordCount": 3159,
+    "readingMinutes": 15,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:37.806Z"
+  },
+  "https://www.paulgraham.com/mac.html": {
+    "extractorVersion": 2,
+    "published": "2005-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2005",
+    "wordCount": 1005,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:37.689Z"
+  },
+  "https://www.paulgraham.com/writing44.html": {
+    "extractorVersion": 2,
+    "published": "2005-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2005",
+    "wordCount": 458,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:38.295Z"
+  },
+  "https://www.paulgraham.com/college.html": {
+    "extractorVersion": 2,
+    "published": "2005-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2005",
+    "wordCount": 3651,
+    "readingMinutes": 17,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:38.501Z"
+  },
+  "https://www.paulgraham.com/venturecapital.html": {
+    "extractorVersion": 2,
+    "published": "2005-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2005",
+    "wordCount": 1470,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:38.895Z"
+  },
+  "https://www.paulgraham.com/start.html": {
+    "extractorVersion": 2,
+    "published": "2005-03",
+    "datePrecision": "month",
+    "dateLabel": "March 2005",
+    "wordCount": 9747,
+    "readingMinutes": 44,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:39.335Z"
+  },
+  "https://www.paulgraham.com/hs.html": {
+    "extractorVersion": 2,
+    "published": "2005-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2005",
+    "wordCount": 5065,
+    "readingMinutes": 23,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:39.765Z"
+  },
+  "https://www.paulgraham.com/usa.html": {
+    "extractorVersion": 2,
+    "published": "2004-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2004",
+    "wordCount": 1843,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:39.938Z"
+  },
+  "https://www.paulgraham.com/charisma.html": {
+    "extractorVersion": 2,
+    "published": "2004-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2004",
+    "wordCount": 1490,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:40.364Z"
+  },
+  "https://www.paulgraham.com/polls.html": {
+    "extractorVersion": 2,
+    "published": "2004-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2004",
+    "wordCount": 616,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:40.594Z"
+  },
+  "https://www.paulgraham.com/laundry.html": {
+    "extractorVersion": 2,
+    "published": "2004-10",
+    "datePrecision": "month",
+    "dateLabel": "October 2004",
+    "wordCount": 4266,
+    "readingMinutes": 19,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:41.192Z"
+  },
+  "https://www.paulgraham.com/bubble.html": {
+    "extractorVersion": 2,
+    "published": "2004-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2004",
+    "wordCount": 3740,
+    "readingMinutes": 17,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:41.199Z"
+  },
+  "https://www.paulgraham.com/essay.html": {
+    "extractorVersion": 2,
+    "published": "2004-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2004",
+    "wordCount": 4521,
+    "readingMinutes": 21,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:42.033Z"
+  },
+  "https://www.paulgraham.com/pypar.html": {
+    "extractorVersion": 2,
+    "published": "2004-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2004",
+    "wordCount": 447,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:41.895Z"
+  },
+  "https://www.paulgraham.com/gh.html": {
+    "extractorVersion": 2,
+    "published": "2004-07",
+    "datePrecision": "month",
+    "dateLabel": "July 2004",
+    "wordCount": 5218,
+    "readingMinutes": 24,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:42.730Z"
+  },
+  "https://www.paulgraham.com/gap.html": {
+    "extractorVersion": 2,
+    "published": "2004-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2004",
+    "wordCount": 5715,
+    "readingMinutes": 26,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:42.914Z"
+  },
+  "https://www.paulgraham.com/wealth.html": {
+    "extractorVersion": 2,
+    "published": "2004-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2004",
+    "wordCount": 8941,
+    "readingMinutes": 40,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:43.573Z"
+  },
+  "https://www.paulgraham.com/gba.html": {
+    "extractorVersion": 2,
+    "published": "2004-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2004",
+    "wordCount": 1941,
+    "readingMinutes": 9,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:43.521Z"
+  },
+  "https://www.paulgraham.com/ffb.html": {
+    "extractorVersion": 2,
+    "published": "2003-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2003",
+    "wordCount": 823,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:44.177Z"
+  },
+  "https://www.paulgraham.com/say.html": {
+    "extractorVersion": 2,
+    "published": "2004-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2004",
+    "wordCount": 5405,
+    "readingMinutes": 25,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:44.353Z"
+  },
+  "https://www.paulgraham.com/iflisp.html": {
+    "extractorVersion": 2,
+    "published": "2003-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2003",
+    "wordCount": 414,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:45.032Z"
+  },
+  "https://www.paulgraham.com/hp.html": {
+    "extractorVersion": 2,
+    "published": "2003-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2003",
+    "wordCount": 5583,
+    "readingMinutes": 25,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:45.012Z"
+  },
+  "https://www.paulgraham.com/hundred.html": {
+    "extractorVersion": 2,
+    "published": "2003-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2003",
+    "wordCount": 4796,
+    "readingMinutes": 22,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:45.836Z"
+  },
+  "https://www.paulgraham.com/nerds.html": {
+    "extractorVersion": 2,
+    "published": "2003-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2003",
+    "wordCount": 5691,
+    "readingMinutes": 26,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:45.850Z"
+  },
+  "https://www.paulgraham.com/desres.html": {
+    "extractorVersion": 2,
+    "published": "2003-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2003",
+    "wordCount": 2659,
+    "readingMinutes": 12,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:46.452Z"
+  },
+  "https://www.paulgraham.com/better.html": {
+    "extractorVersion": 2,
+    "published": "2003-01",
+    "datePrecision": "month",
+    "dateLabel": "January 2003",
+    "wordCount": 4375,
+    "readingMinutes": 20,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:46.660Z"
+  },
+  "https://www.paulgraham.com/spam.html": {
+    "extractorVersion": 2,
+    "published": "2002-08",
+    "datePrecision": "month",
+    "dateLabel": "August 2002",
+    "wordCount": 5332,
+    "readingMinutes": 24,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:47.418Z"
+  },
+  "https://www.paulgraham.com/icad.html": {
+    "extractorVersion": 2,
+    "published": "2002-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2002",
+    "wordCount": 5805,
+    "readingMinutes": 26,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:47.489Z"
+  },
+  "https://www.paulgraham.com/power.html": {
+    "extractorVersion": 2,
+    "published": "2002-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2002",
+    "wordCount": 2988,
+    "readingMinutes": 14,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:48.032Z"
+  },
+  "https://www.paulgraham.com/fix.html": {
+    "extractorVersion": 2,
+    "published": null,
+    "datePrecision": null,
+    "dateLabel": null,
+    "wordCount": 216,
+    "readingMinutes": 1,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:48.177Z"
+  },
+  "https://www.paulgraham.com/noop.html": {
+    "extractorVersion": 2,
+    "published": null,
+    "datePrecision": null,
+    "dateLabel": null,
+    "wordCount": 487,
+    "readingMinutes": 3,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:48.776Z"
+  },
+  "https://www.paulgraham.com/taste.html": {
+    "extractorVersion": 2,
+    "published": "2002-02",
+    "datePrecision": "month",
+    "dateLabel": "February 2002",
+    "wordCount": 4316,
+    "readingMinutes": 20,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:48.991Z"
+  },
+  "https://www.paulgraham.com/diff.html": {
+    "extractorVersion": 2,
+    "published": "2001-12",
+    "datePrecision": "month",
+    "dateLabel": "December 2001",
+    "wordCount": 690,
+    "readingMinutes": 4,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:49.372Z"
+  },
+  "https://www.paulgraham.com/road.html": {
+    "extractorVersion": 2,
+    "published": "2001-09",
+    "datePrecision": "month",
+    "dateLabel": "September 2001",
+    "wordCount": 11992,
+    "readingMinutes": 54,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:49.829Z"
+  },
+  "https://www.paulgraham.com/rootsoflisp.html": {
+    "extractorVersion": 2,
+    "published": "2001-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2001",
+    "wordCount": 353,
+    "readingMinutes": 2,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:50.032Z"
+  },
+  "https://www.paulgraham.com/langdes.html": {
+    "extractorVersion": 2,
+    "published": "2001-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2001",
+    "wordCount": 2941,
+    "readingMinutes": 14,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:50.433Z"
+  },
+  "https://www.paulgraham.com/popular.html": {
+    "extractorVersion": 2,
+    "published": "2001-05",
+    "datePrecision": "month",
+    "dateLabel": "May 2001",
+    "wordCount": 7585,
+    "readingMinutes": 34,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:50.860Z"
+  },
+  "https://www.paulgraham.com/javacover.html": {
+    "extractorVersion": 2,
+    "published": "2001-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2001",
+    "wordCount": 1362,
+    "readingMinutes": 7,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:51.083Z"
+  },
+  "https://www.paulgraham.com/avg.html": {
+    "extractorVersion": 2,
+    "published": "2001-04",
+    "datePrecision": "month",
+    "dateLabel": "April 2001",
+    "wordCount": 4444,
+    "readingMinutes": 20,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:51.689Z"
+  },
+  "https://www.paulgraham.com/lwba.html": {
+    "extractorVersion": 2,
+    "published": null,
+    "datePrecision": null,
+    "dateLabel": null,
+    "wordCount": 54,
+    "readingMinutes": 1,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:51.691Z"
+  },
+  "https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt": {
+    "extractorVersion": 2,
+    "published": null,
+    "datePrecision": null,
+    "dateLabel": null,
+    "wordCount": 2467,
+    "readingMinutes": 11,
+    "format": "text chapter",
+    "checkedAt": "2026-10-21T02:29:52.256Z"
+  },
+  "https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt": {
+    "extractorVersion": 2,
+    "published": null,
+    "datePrecision": null,
+    "dateLabel": null,
+    "wordCount": 7183,
+    "readingMinutes": 32,
+    "format": "text chapter",
+    "checkedAt": "2026-10-21T02:29:52.257Z"
+  },
+  "https://www.paulgraham.com/prop62.html": {
+    "extractorVersion": 2,
+    "published": "2016-11",
+    "datePrecision": "month",
+    "dateLabel": "November 2016",
+    "wordCount": 185,
+    "readingMinutes": 1,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:52.893Z"
+  },
+  "https://www.paulgraham.com/progbot.html": {
+    "extractorVersion": 2,
+    "published": null,
+    "datePrecision": null,
+    "dateLabel": null,
+    "wordCount": 920,
+    "readingMinutes": 5,
+    "format": "essay",
+    "checkedAt": "2026-10-21T02:29:52.897Z"
+  }
+}

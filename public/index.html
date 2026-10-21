@@ -1,6 +1,43 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark"><title>PG Essays Feed</title><meta name="description" content="A maintained, independent RSS feed for Paul Graham’s essays."><link rel="alternate" type="application/rss+xml" title="Paul Graham Essays" href="/feed.xml"><link rel="alternate" type="application/feed+json" href="/feed.json"><style>
-:root{font:17px/1.65 system-ui,sans-serif;color:#24241f;background:#f8f7f2}body{max-width:740px;margin:auto;padding:64px 24px}header{border-bottom:1px solid #a8a89b;padding-bottom:36px}small{font:12px ui-monospace,monospace;text-transform:uppercase;letter-spacing:.1em}h1{font:clamp(42px,8vw,68px)/1.08 Georgia,serif;letter-spacing:-.04em;margin:24px 0}p{max-width:60ch}a{color:inherit;text-underline-offset:4px}nav{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}nav a,button{border:1px solid currentColor;padding:10px 16px;border-radius:5px;font:inherit;background:transparent;color:inherit;cursor:pointer}nav a:first-child{background:#323e2a;color:#fff;border-color:#323e2a;text-decoration:none}code{overflow-wrap:anywhere}section{margin:36px 0}h2{font:26px Georgia,serif}ol{padding-left:24px}li{margin:12px 0}footer{border-top:1px solid #a8a89b;padding-top:20px;font-size:14px}#status{font-size:14px;color:#5a5d50}@media(prefers-color-scheme:dark){:root{color:#e9e9df;background:#1b1e19}#status{color:#b7bba9}nav a:first-child{background:#c4d3ac;color:#1b1e19;border-color:#c4d3ac}}
-</style></head><body><header><small>An independent feed / Paul Graham</small><h1>Essays, as they arrive.</h1><p>A small bridge from Paul Graham’s essay index to your reader. No account. No algorithm. Just the latest essays.</p><nav><a href="/feed.xml">Subscribe via RSS ↗</a><a href="/feed.json">JSON Feed</a><button id="copy">Copy feed URL</button></nav><p id="copied" role="status"></p></header><section><h2>From the essay index</h2><p id="status" role="status">Checking the feed…</p><ol id="essays"></ol></section><section><h2>How it stays current</h2><p>The service checks <a href="https://www.paulgraham.com/articles.html">the original index</a> when its hourly cache expires. The feed includes the 60 most recent listed essays. It keeps the original order and uses essay URLs as permanent IDs.</p><p>The index does not supply publication dates. This feed leaves those dates out. If the index is unavailable or fails validation, a previous snapshot stays available with its original check time.</p><a href="/status.json">Feed status ↗</a></section><footer>Unaffiliated with Paul Graham. Essays belong to their author. This service links to the originals.</footer><script type="module">
-document.querySelector('#copy').onclick=async()=>{try{await navigator.clipboard.writeText(new URL('/feed.xml',location.href).href);document.querySelector('#copied').textContent='Feed URL copied.'}catch{document.querySelector('#copied').textContent=new URL('/feed.xml',location.href).href}};
-try{const response=await fetch('/feed.json');if(!response.ok)throw Error();const feed=await response.json();document.querySelector('#status').textContent=(feed._status.stale?'Fallback snapshot · ':'Source checked · ')+new Date(feed._status.checked_at).toLocaleString();for(const item of feed.items.slice(0,12)){const li=document.createElement('li'),a=document.createElement('a');a.textContent=item.title;a.href=item.url;li.append(a);document.querySelector('#essays').append(li)}}catch{document.querySelector('#status').textContent='The feed is temporarily unavailable. Please try again later.'}
-</script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark">
+<title>Paul Graham Essays — Searchable Index & RSS</title>
+<meta name="description" content="Browse Paul Graham’s essay index. Search titles, sort publication dates and word counts, and subscribe by RSS. Every link opens the original.">
+<link rel="alternate" type="application/rss+xml" title="Paul Graham Essays" href="/feed.xml">
+<link rel="alternate" type="application/feed+json" href="/feed.json">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<a class="skip" href="#catalog">Skip to essays</a>
+<div class="shell">
+<header class="topbar"><a class="wordmark" href="/">PG <span>/ Essays</span></a><nav aria-label="Main"><a href="https://www.paulgraham.com/articles.html">Original index ↗</a><a href="https://github.com/Paranjayy/paul-graham-essays">GitHub ↗</a><a class="subscribe" href="/feed.xml">RSS feed ↗</a></nav></header>
+<main>
+<section class="intro"><div><p class="eyebrow">An independent reading index</p><h1>Paul Graham’s essays.</h1><p class="lede">Find an idea. Make time for it. Read it at the source.</p></div><div class="collection-stat"><strong id="total">—</strong><span>essays & chapters</span></div></section>
+<section id="catalog" aria-label="Essay index">
+<div class="viewbar"><span class="active-view">▦ All essays</span><p id="source-status" role="status">Loading index…</p></div>
+<form class="toolbar" role="search" onsubmit="return false">
+<label class="search"><span>Search essays</span><input type="search" id="search" placeholder="Search a title or idea…" maxlength="200" autocomplete="off"></label>
+<label>Published<select id="year"><option value="">All years</option><option value="unknown">Date unavailable</option></select></label>
+<label>Length<select id="length"><option value="">Any length</option><option value="short">Under 1,500 words</option><option value="medium">1,500–4,000 words</option><option value="long">4,000+ words</option></select></label>
+<button id="reset" type="button">Reset</button>
+</form>
+<div class="results-line"><p id="results" role="status" aria-live="polite">Preparing the index…</p><div><a href="/catalog.json" download="paul-graham-essays.json">Download metadata ↓</a><button id="copy-feed" type="button">Copy RSS link</button></div></div>
+<div class="table-wrap" role="region" aria-label="Sortable essay table" tabindex="0">
+<table><caption class="sr-only">Paul Graham essay index. Use the column buttons to sort. Links open original articles.</caption><thead><tr>
+<th scope="col" class="number" aria-sort="ascending"><button data-sort="order"># <span>↑</span></button></th>
+<th scope="col" class="title"><button data-sort="title">Essay <span>↕</span></button></th>
+<th scope="col"><button data-sort="published">Published <span>↕</span></button></th>
+<th scope="col" class="numeric"><button data-sort="wordCount">Words ≈ <span>↕</span></button></th>
+<th scope="col" class="numeric"><button data-sort="readingMinutes">Read time ≈ <span>↕</span></button></th>
+</tr></thead><tbody id="essays"></tbody></table>
+</div>
+<div id="empty" hidden><h2>No essays match.</h2><p>Try a different title, year, or length.</p><button id="clear-empty" type="button">Clear filters</button></div>
+<p id="error" role="alert" hidden>We couldn’t load the index. <button id="retry" type="button">Try again</button> or <a href="https://www.paulgraham.com/articles.html">visit the original index</a>.</p>
+<p class="table-note">Numbers follow the original index order. Dates keep the author’s precision. Word counts include footnotes and are approximate.</p>
+</section>
+<details class="about"><summary>About the index & metadata</summary><div><p>This index covers the unique links in <a href="https://www.paulgraham.com/articles.html">Paul Graham’s essay list</a>, including two text chapters. It does not claim to cover every page on his website.</p><p>Dates come from essay headers. “September 2026” means the month is known, not the day. Missing dates stay unavailable. Word counts exclude site navigation and include the recognized body and footnotes. Reading time assumes 225 words per minute.</p><p>Metadata updates daily through GitHub Actions. The RSS feed checks the original index when its hourly cache expires. A source outage keeps a previous feed snapshot available. <a href="/status.json">View feed status</a> · <a href="/feed.json">JSON Feed</a></p><p>The updater fetches pages to calculate metadata and discards their text. Articles are not mirrored here. All essay links open the author’s original pages.</p></div></details>
+</main>
+<footer><p>Independent. Unaffiliated with Paul Graham.</p><a href="https://github.com/Paranjayy/paul-graham-essays">Source & corrections ↗</a></footer>
+</div><script type="module" src="/app.mjs"></script>
+</body></html>

@@ -1,13 +1,17 @@
 import http from 'node:http';
-import { readFile } from 'node:fs/promises';
+import {readFile} from 'node:fs/promises';
 import handler from '../api/feed.mjs';
+const assets=new Map([['/','index.html'],['/index.html','index.html'],['/style.css','style.css'],['/app.mjs','app.mjs'],['/catalog-tools.mjs','catalog-tools.mjs'],['/catalog.json','catalog.json']]);
+const feeds=new Map([['/feed.xml','/api/feed'],['/rss.xml','/api/feed'],['/feed.json','/api/feed?format=json'],['/status.json','/api/feed?format=status']]);
 http.createServer(async(req,res)=>{
-  res.status = code => { res.statusCode=code; return res; };
-  if (/^\/(feed.xml|rss.xml|feed.json|status.json|api\/feed)/.test(req.url)) {
-    if(req.url.startsWith('/feed.json')) req.url='/api/feed?format=json';
-    if(req.url.startsWith('/status.json')) req.url='/api/feed?format=status';
-    return handler(req,res);
-  }
-  res.setHeader('Content-Type','text/html; charset=utf-8');
-  res.end(await readFile(new URL('../public/index.html',import.meta.url)));
-}).listen(3002,'0.0.0.0',()=>console.log('PG Essays Feed: http://localhost:3002'));
+ res.status=code=>{res.statusCode=code;return res;};
+ try{
+  const pathname=new URL(req.url,'http://localhost:3002').pathname;
+  if(feeds.has(pathname)){req.url=feeds.get(pathname);return handler(req,res);}
+  if(pathname==='/api/feed')return handler(req,res);
+  const name=assets.get(pathname);
+  if(!name){res.statusCode=404;return res.end('Not found');}
+  res.setHeader('Content-Type',name.endsWith('.mjs')?'text/javascript; charset=utf-8':name.endsWith('.css')?'text/css; charset=utf-8':name.endsWith('.json')?'application/json; charset=utf-8':'text/html; charset=utf-8');
+  res.end(await readFile(new URL('../public/'+name,import.meta.url)));
+ }catch{res.statusCode=500;res.end('Temporarily unavailable');}
+}).listen(3002,'0.0.0.0',()=>console.log('Paul Graham Essays: http://localhost:3002'));

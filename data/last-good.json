@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-19T06:49:35.090Z",
+  "checkedAt": "2026-10-21T02:28:29.034Z",
   "essays": [
     {
       "title": "Making Startups Powerful",
@@ -924,6 +924,14 @@
     {
       "title": "Lisp for Web-Based Applications",
       "url": "https://www.paulgraham.com/lwba.html"
+    },
+    {
+      "title": "Chapter 1 of Ansi Common Lisp",
+      "url": "https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt"
+    },
+    {
+      "title": "Chapter 2 of Ansi Common Lisp",
+      "url": "https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt"
     },
     {
       "title": "Programming Bottom-Up",

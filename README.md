@@ -1,12 +1,28 @@
-# PG Essays Feed
+# Paul Graham Essays
 
-An independent RSS and JSON Feed service for Paul Graham’s essay index. It discovers new links from the original site instead of relying on Aaron Swartz’s older feed.
+A searchable index of Paul Graham’s essays, with publication dates, approximate word counts, reading times, and RSS feeds. Every article link opens the original. The site does not mirror essay text.
 
-Subscribe: https://pg-essays-feed.vercel.app/feed.xml
+**[Browse the index](https://pg-essays-feed.vercel.app/)** · **[RSS](https://pg-essays-feed.vercel.app/feed.xml)** · **[JSON Feed](https://pg-essays-feed.vercel.app/feed.json)** · **[Download metadata](https://pg-essays-feed.vercel.app/catalog.json)**
 
-JSON Feed: https://pg-essays-feed.vercel.app/feed.json · Status: https://pg-essays-feed.vercel.app/status.json
+## Use the index
 
-## Run
+Search titles, filter by publication year or length, and select a column heading to sort. Row numbers keep their position in the original source list. Search and filter settings stay in the URL, so you can share a specific view. Reset clears them.
+
+The index covers the unique links listed on [Paul Graham’s essays page](https://www.paulgraham.com/articles.html), including its two text chapters. It is not a crawl of every page on his website.
+
+Dates come from essay headers. A month-only date stays month-only. Missing dates appear as unavailable and sort after known dates. Revision dates do not replace an earlier publication date. The dates reflect the author’s header, rather than an independently verified first-publication timestamp.
+
+Word counts are estimates from the recognized body, including footnotes. They exclude navigation and known header material. Older HTML layouts can affect the estimate. Reading times use 225 words per minute. The updater fetches pages for these calculations and discards their text. Only metadata enters the repository and public JSON.
+
+## Feeds and updates
+
+The RSS and JSON feeds contain the 60 latest links in source order, with original URLs as stable identifiers. They check the live essay index after an hourly cache expires. They do not fetch essay bodies during requests or invent publication timestamps.
+
+The complete metadata index updates daily through [GitHub Actions](.github/workflows/update-index.yml), with a manual **Run workflow** option. New and failed entries are fetched first. Existing metadata is refreshed after 30 days. A successful metadata commit triggers the connected Vercel deployment. GitHub can delay scheduled runs and disable inactive public-repository schedules.
+
+On source failure, the feed uses a previous warm-process result or its deployed fallback snapshot. [Feed status](https://pg-essays-feed.vercel.app/status.json) and response headers report the check time and stale state. A failed metadata refresh keeps previous successful values. An invalid index stops the updater before it writes new files.
+
+## Run locally
 
 Use Node.js 22 or later.
 
@@ -16,16 +32,34 @@ npm test
 npm run dev
 ```
 
-Open http://localhost:3002. `npm run snapshot` refreshes the validated fallback before deployment. Deploy with `vercel --prod` after checking the linked project.
+Open http://localhost:3002.
 
-## Behavior and limits
+```sh
+# Update the complete index, with at most 250 requests and two workers.
+npm run update
 
-The server checks the essay index on requests after a one-hour cache expires. Vercel also caches successful responses for an hour. There is no continuous polling process. The feed contains 60 links in source order. Essay URLs are stable identifiers. The service does not republish full essays or infer publication dates.
+# A smaller first pass; rerun to continue missing or failed entries.
+npm run update -- --limit 20 --workers 2
 
-A failed fetch or an index with fewer than 20 recognized essay rows uses the last good in-memory result, then the deployed fallback. Status responses and headers report the original check time and whether that result is stale. The fallback survives cold starts. A manual snapshot refresh and deployment updates this durable fallback. Dynamic successful results persist only in the warm instance and CDN cache.
+# Recheck all metadata within the same bounded request limit.
+npm run update -- --refresh
 
-The public index’s HTML can change. Parser tests cover row selection, ordering, duplicate links, external links, invalid responses, and RSS escaping. Future changes must preserve validation and the previous fallback.
+# Update only the feed fallback, without essay metadata requests.
+npm run snapshot
+```
 
-## Existing alternatives
+Press Ctrl+C to stop after active requests and retain the results. Existing files are replaced atomically. Metadata updates go to `data/metadata.json`, `public/catalog.json`, and `data/last-good.json`. No credentials are needed. The updater only requests the fixed author site and two explicitly allowed chapter URLs.
 
-[Olshansk/pgessays-rss](https://github.com/Olshansk/pgessays-rss) and [leftmove/paul-graham](https://github.com/leftmove/paul-graham) solve a similar problem. Their repository pages did not show a license when checked. No code was copied. This service uses Cheerio (MIT) to parse HTML. Essays remain their author’s work.
+Deploy with `vercel --prod` after confirming the linked project. Static assets live in `public/`; the feed runs in `api/feed.mjs`. `FEED_ORIGIN` can override the canonical feed origin for a separate deployment. The local folder and existing production hostname remain `pg-essays-feed`.
+
+## Checks and architecture
+
+`npm test` covers source ordering, duplicate links, invalid upstream responses, XML escaping, outage fallback, date precision, legacy HTML boundaries, URL restrictions, table sorting, filtering, and shared view state. See [DESIGN.md](DESIGN.md) for the design and data boundaries and [AGENTS.md](AGENTS.md) for contributor rules.
+
+The app uses plain JavaScript, semantic HTML, and CSS. Cheerio (MIT) parses the legacy HTML. No client framework, account, database, or analytics is required.
+
+## Related projects and attribution
+
+[Olshansk/pgessays-rss](https://github.com/Olshansk/pgessays-rss) and [leftmove/paul-graham](https://github.com/leftmove/paul-graham) offer other PG feed generators. Their repository pages did not show a license when checked. No code was copied. Aaron Swartz’s earlier scraped feed inspired the original feed approach.
+
+This is an independent project, unaffiliated with Paul Graham. Essays belong to their author. Public source availability does not grant a license to republish his writing. This repository does not currently include a software license.
