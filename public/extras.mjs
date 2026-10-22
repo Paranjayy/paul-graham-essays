@@ -18,15 +18,18 @@ function stats(essays){
  highlights.append(text('p','Short entries can be pointers to other material. Length is a navigation aid, not a quality score.'));
 }
 let quoteRenderVersion=0;
+let quoteSort='order',quoteDirection='asc';
 async function renderQuotes(){
  const version=++quoteRenderVersion;
  const queryHashes=await hashSearchTerms($('quote-search').value);
  if(version!==quoteRenderVersion)return;
- const rows=selectQuotes(quotes,{queryHashes,query:$('quote-search').value,author:$('quote-author').value,reverse:$('quote-order').value==='reverse'});
+ const rows=selectQuotes(quotes,{queryHashes,query:$('quote-search').value,author:$('quote-author').value,sort:quoteSort,direction:quoteDirection});
  $('quote-count').textContent=`${rows.length} of ${quotes.length} entries · ${new Set(quotes.map(q=>q.author)).size} authors`;
- $('quote-rows').replaceChildren(...rows.map(quote=>{const tr=document.createElement('tr');const order=text('td',String(quote.order).padStart(3,'0'),'number'),author=text('td',quote.author),topics=document.createElement('td'),words=text('td',String(quote.wordCount),'numeric'),source=document.createElement('td');author.title=quote.attribution;for(const topic of quote.topics)topics.append(text('span',topic,'topic-word'));source.append(original(quote,'Open source'));tr.append(order,author,topics,words,source);return tr;}));
+ $('quote-rows').replaceChildren(...rows.map(quote=>{const tr=document.createElement('tr');const order=text('td',String(quote.order).padStart(3,'0'),'number'),wording=text('td',quote.text||'Text unavailable','quote-wording'),author=document.createElement('td'),words=text('td',String(quote.wordCount),'numeric'),source=document.createElement('td');author.append(text('strong',quote.author));if(quote.attribution!==quote.author)author.append(text('small',quote.attribution,'quote-attribution'));source.append(original(quote,'Original'));tr.append(order,wording,author,words,source);return tr;}));
+ document.querySelectorAll('[data-quote-sort]').forEach(button=>{const active=button.dataset.quoteSort===quoteSort;button.closest('th').setAttribute('aria-sort',active?(quoteDirection==='asc'?'ascending':'descending'):'none');button.querySelector('span').textContent=active?(quoteDirection==='asc'?'↑':'↓'):'↕';});
+ $('quote-order').value=quoteSort+':'+quoteDirection;
  $('quote-empty').hidden=rows.length>0;
- const params=new URLSearchParams(location.search);for(const key of ['quote','author','quoteOrder'])params.delete(key);if($('quote-search').value)params.set('quote',$('quote-search').value);if($('quote-author').value)params.set('author',$('quote-author').value);if($('quote-order').value==='reverse')params.set('quoteOrder','reverse');history.replaceState(null,'',location.pathname+(params.size?'?'+params:'')+location.hash);
+ const params=new URLSearchParams(location.search);for(const key of ['quote','author','quoteOrder','quoteSort','quoteDir'])params.delete(key);if($('quote-search').value)params.set('quote',$('quote-search').value);if($('quote-author').value)params.set('author',$('quote-author').value);if(quoteSort!=='order')params.set('quoteSort',quoteSort);if(quoteDirection==='desc')params.set('quoteDir','desc');history.replaceState(null,'',location.pathname+(params.size?'?'+params:'')+location.hash);
 }
 let readerEssays=[];
 function renderReaders(){
@@ -39,10 +42,11 @@ function renderReaders(){
  $('reader-rows').replaceChildren(...rows.map(([name,entries])=>{const tr=document.createElement('tr'),links=document.createElement('td'),dates=entries.map(e=>e.published).filter(Boolean).sort();const details=document.createElement('details');details.append(text('summary','Browse '+entries.length+' essays'));for(const essay of entries){const p=document.createElement('p');p.append(original(essay,essay.title+(essay.supplementary?' (supplementary source)':''))); details.append(p);}links.append(details);tr.append(text('td',name),text('td',String(entries.length)),text('td',dates.length?dates[0]+' / '+dates.at(-1):'Date unavailable'),links);return tr;}));
 }
 $('reader-search').oninput=renderReaders;$('reader-sort').onchange=renderReaders;
-$('quote-search').oninput=renderQuotes;$('quote-author').onchange=renderQuotes;$('quote-order').onchange=renderQuotes;
+$('quote-search').oninput=renderQuotes;$('quote-author').onchange=renderQuotes;$('quote-order').onchange=()=>{[quoteSort,quoteDirection]=$('quote-order').value.split(':');renderQuotes();};
+document.querySelectorAll('[data-quote-sort]').forEach(button=>button.onclick=()=>{const next=button.dataset.quoteSort;quoteDirection=quoteSort===next&&quoteDirection==='asc'?'desc':'asc';quoteSort=next;renderQuotes();});
 try{
  const [catalog,collections]=await Promise.all(['/catalog.json','/collections.json'].map(async path=>{const r=await fetch(path,{signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error('Index unavailable');return r.json();}));
  readerEssays=[...catalog.essays,...(catalog.acknowledgementExtras||[])];renderReaders();stats(catalog.essays);quotes=collections.quotes;resources=collections.resources;
  for(const author of [...new Set(quotes.map(q=>q.author))].sort((a,b)=>a.localeCompare(b))){const option=text('option',author);option.value=author;$('quote-author').append(option);}
- const params=new URLSearchParams(location.search);$('quote-search').value=(params.get('quote')||'').slice(0,200);$('quote-author').value=params.get('author')||'';$('quote-order').value=params.get('quoteOrder')==='reverse'?'reverse':'source';renderQuotes();
+ const params=new URLSearchParams(location.search);$('quote-search').value=(params.get('quote')||'').slice(0,200);$('quote-author').value=params.get('author')||'';quoteSort=['order','text','author','wordCount'].includes(params.get('quoteSort'))?params.get('quoteSort'):'order';quoteDirection=params.get('quoteDir')==='desc'||params.get('quoteOrder')==='reverse'?'desc':'asc';renderQuotes();
 }catch{$('collections-error').hidden=false;}

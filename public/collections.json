@@ -1,9 +1,10 @@
 {
-  "checkedAt": "2026-10-22T11:58:40.339Z",
+  "checkedAt": "2026-10-22T13:37:38.944Z",
   "source": "https://www.paulgraham.com/quo.html",
-  "quotePolicy": "Author and topic metadata with a hashed word index. Original wording stays on the source page. Source position is not a publication date.",
+  "quotePolicy": "Quotations and source attributions, displayed in the quote table. Source position is not a publication date.",
   "quotes": [
     {
+      "text": "\"The less confident you are, the more serious you have to act.\"",
       "id": "b01a20b3ea1df2ae4ab05ccd",
       "order": 1,
       "author": "Tara Ploughman",
@@ -32,6 +33,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The condition of man is already close to satiety and arrogance, and there is danger of destruction of everything in existence.\"",
       "id": "4e7a5dceeb8c2be329766d05",
       "order": 2,
       "author": "a Brahmin to Onesicritus",
@@ -78,6 +80,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Change breaks the brittle.\"",
       "id": "e9060b1b31befe55e79d3be7",
       "order": 3,
       "author": "Jan Houtema",
@@ -100,6 +103,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "The sons of Hermes love to play,\n And only do their best when they\n Are told they oughtn't;\n Apollo's children never shrink\n From boring jobs but have to think\n Their work important.",
       "id": "ee10ae7ba7fa73f4ec5efb8e",
       "order": 4,
       "author": "W. H. Auden",
@@ -156,6 +160,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Programs must be written for people to read, and only incidentally for machines to execute.\"",
       "id": "1e8ee99c5031c6ee8eabe837",
       "order": 5,
       "author": "Abelson & Sussman",
@@ -195,6 +200,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.\"",
       "id": "01c2ce647588e1da0dc22ce0",
       "order": 6,
       "author": "George Boole",
@@ -244,6 +250,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Short words are best and the old words when short are best of all.\"",
       "id": "3d2968d61201945cf5a92ac3",
       "order": 7,
       "author": "Winston Churchill",
@@ -271,6 +278,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Many big people were chasing me. I didn't know what to do. So I thought I would surprise them and throw it.\"",
       "id": "695db93d8ed3b5d28d5ecc1e",
       "order": 8,
       "author": "Garo Yepremian",
@@ -322,6 +330,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"That book is good in vain which the reader throws away. He only is the master who keeps the mind in pleasing captivity; whose pages are perused with eagerness, and in hope of new pleasure are perused again; and whose conclusion is perceived with an eye of sorrow, such as the traveller casts upon departing day.\"",
       "id": "24075b256d3b50f96dff6279",
       "order": 9,
       "author": "Johnson",
@@ -390,6 +399,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.\"",
       "id": "43a1d6a9075dc4e47e9b1f2e",
       "order": 10,
       "author": "Alan Kay",
@@ -428,6 +438,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"But the audience is right. They're always, always right. You hear directors complain that the advertising was lousy, the distribution is no good, the date was wrong to open the film. I don't believe that. The audience is never wrong. Never.\"",
       "id": "593411d3791a6c380870cbc8",
       "order": 11,
       "author": "William Friedkin",
@@ -482,6 +493,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.\"",
       "id": "51034730144fdc09cfc09722",
       "order": 12,
       "author": "Alan Perlis",
@@ -522,6 +534,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Frankly, I don't think you could have driven a needle up my sphincter using a sledgehammer.\"",
       "id": "d3bb6d134b75a822ffbf512c",
       "order": 13,
       "author": "Col. Barry Horne",
@@ -568,6 +581,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Two centuries later a most clear-sighted historian of the Second Crusade can find space in a short narrative to record on many occasions the flattery, perjury, perfidy, blasphemy, heresy, arrogance, servility, deceit, pride, cunning and infidelity of the Greeks.\"",
       "id": "9a398417418865320ee8bbf5",
       "order": 14,
       "author": "R. W. Southern",
@@ -631,6 +645,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The imagination of nature is far, far greater than the imagination of man.\"",
       "id": "9c5ac5efe106a771275c7a7e",
       "order": 15,
       "author": "Richard Feynman",
@@ -658,6 +673,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The greatest dangers to liberty lurk in insidious encroachment by men of zeal, well-meaning but without understanding.\"",
       "id": "28418e53b9e87c6777314653",
       "order": 16,
       "author": "Brandeis",
@@ -698,6 +714,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"People who read Cosmopolitan magazine are very different from those who do not.\"",
       "id": "f97e65d8c7eac225f987f4d9",
       "order": 17,
       "author": "Donald Berry",
@@ -733,6 +750,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The art of handling university students is to make oneself appear, and this almost ostentatiously, to be treating them as adults....\"",
       "id": "63e0bee29dcbae60c3e98cf1",
       "order": 18,
       "author": "Arnold Toynbee",
@@ -777,6 +795,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Americans spend an average of four hours a day watching TV, an hour of that enduring ads. That adds up to an astounding 10% of total leisure time; at current rates, a typical viewer fritters away three years of his life getting bombarded with commercials.\"",
       "id": "34a6d6e42bf3126f505ca6a6",
       "order": 19,
       "author": "Scott Woolley",
@@ -839,6 +858,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The best writing is rewriting.\"",
       "id": "43efd7f3b1d0c113e54421e7",
       "order": 20,
       "author": "E. B. White",
@@ -862,6 +882,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Modern invention has been a great leveller. A machine may operate far more quickly than a political or economic measure to abolish privilege and wipe out the distinctions of class or finance.\"",
       "id": "ec3abcb1524c688d2b180fc8",
       "order": 21,
       "author": "Ivor Brown",
@@ -916,6 +937,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"If our goal is to write poetry, the only way we are likely to be any good is to try to be as great as the best.\"",
       "id": "2938a5f15094aa8fc2a6a523",
       "order": 22,
       "author": "Donald Hall",
@@ -957,6 +979,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I am annoyed to find myself continually described by people whom I have never set eyes on as bad-tempered.\"",
       "id": "2d95906ce500d1cf359fb065",
       "order": 23,
       "author": "Evelyn Waugh",
@@ -1003,6 +1026,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Premature optimization is the root of all evil (or at least most of it) in programming.\"",
       "id": "1baff8fc5278b3a4340d0bc1",
       "order": 24,
       "author": "Donald Knuth",
@@ -1039,6 +1063,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"In France those absurd perversions of the art of war which covered themselves under the name of chivalry were more omnipotent than in any other country of Europe. The strength of the armies of Philip and John of Valois was composed of a fiery and undisciplined aristocracy which imagined itself to be the most efficient military force in the world, but which was in reality little removed from an armed mob.\"",
       "id": "9a137a06b9409e72b5060b3e",
       "order": 25,
       "author": "C. W. C. Oman",
@@ -1117,6 +1142,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The public should always be wondering how it is possible to give so much for the money.\"",
       "id": "ede4aa9917ae51f3d8256dda",
       "order": 26,
       "author": "Henry Ford",
@@ -1153,6 +1179,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"None ever wished it longer than it is.\"",
       "id": "5331ffcb9118d89124dca194",
       "order": 27,
       "author": "Johnson on Paradise Lost",
@@ -1181,6 +1208,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Many large and high class greengrocers of my acquaintance have never heard of the Golden Wonder potato.\"",
       "id": "e6a90ef8e37d1cb5c7008c65",
       "order": 28,
       "author": "Roy Genders",
@@ -1223,6 +1251,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "The best lack all conviction, while the worst\n Are full of passionate intensity.",
       "id": "1736c00cd2137f6751caac2b",
       "order": 29,
       "author": "Yeats",
@@ -1257,6 +1286,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about.\"",
       "id": "b457b4910fee9b9541bb8056",
       "order": 30,
       "author": "Charles Kingsley",
@@ -1306,6 +1336,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The path from good to evil goes through bogus.\"",
       "id": "e8f00f08a0932b087338784b",
       "order": 31,
       "author": "Tara Ploughman",
@@ -1334,6 +1365,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Lisp has jokingly been called \"the most intelligent way to misuse a computer\". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.\"",
       "id": "233efd40608bf24362f5a25f",
       "order": 32,
       "author": "Edsger Dijkstra",
@@ -1398,6 +1430,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Many who burnt heretics in the ordinary way of their business were otherwise excellent people.\"",
       "id": "e5ed44d9ead1c15efd1cbebe",
       "order": 33,
       "author": "G. M. Trevelyan",
@@ -1437,6 +1470,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"We're even wrong about which mistakes we're making.\"",
       "id": "885db19fc1cac2a25ef69e78",
       "order": 34,
       "author": "Carl Winfeld",
@@ -1463,6 +1497,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"From this place she sent into the world those novels, which by many have been placed on the same shelf as the works of a D'Arblay and an Edgeworth.\"",
       "id": "28adfc4e0bdf10cbaf0a7bee",
       "order": 35,
       "author": "Henry Austen on his sister Jane",
@@ -1520,6 +1555,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The key to performance is elegance, not battalions of special cases.\"",
       "id": "fd0e0bcad1534fc263ca7ddd",
       "order": 36,
       "author": "Jon Bentley and Doug McIlroy",
@@ -1554,6 +1590,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The economic depression that struck Europe in the fourteenth century was followed ultimately by economic and technological recovery. But the depression we have moved into will have no end. We can anticipate centuries of decline and exhaustion.\"",
       "id": "46bcaa0fef2c389805ccacf5",
       "order": 37,
       "author": "Jean Gimpel",
@@ -1610,6 +1647,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable.\"",
       "id": "8b883e1d948ff39352149191",
       "order": 38,
       "author": "J. K. Galbraith",
@@ -1652,6 +1690,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"A typical dinner from the ape menu would be tofu bake with ratatouille of aubergine, onions and sweet peppers, with pearled barley and vegetable side dishes, says the team.\"",
       "id": "79c8f987b544099cfad2d0c2",
       "order": 39,
       "author": "New Scientist",
@@ -1701,6 +1740,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Guy Steele leads a small team of researchers in Burlington, Massachusetts, who are taking on an enormous challenge — create a programming language better than Java.\"",
       "id": "65ccaf09d32e791764cc32b9",
       "order": 40,
       "author": "Sun.Com (my italics)",
@@ -1750,6 +1790,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I had my own reactions to Paul's essay — on the whole I liked it but when I connected some dots I found some suggestions of things I strongly disliked — not so much in the essay as suggested by it.\"",
       "id": "86cd36e82a2cb970f23d95d4",
       "order": 41,
       "author": "reaction to What You Can't Say",
@@ -1809,6 +1850,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Your twenties are always an apprenticeship, but you don't always know what for.\"",
       "id": "136b84bb5b07ed2338eea9de",
       "order": 42,
       "author": "Jan Houtema",
@@ -1839,6 +1881,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"In addition, the board rewrote the definition of science, so that it is no longer limited to the search for natural explanations of phenomena.\"",
       "id": "b671e99d9eed204d52797661",
       "order": 43,
       "author": "AP story on Kansas Board of Education",
@@ -1886,6 +1929,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"A danger sign that fellow-obsessionals will at once recognize is the tendency to regard the happiest moments of your life as those that occur when someone who has an appointment to see you is prevented from coming.\"",
       "id": "877d2097cb7fd7ba926c8e42",
       "order": 44,
       "author": "Peter Medawar",
@@ -1946,6 +1990,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Never offer what you'd hate someone for accepting.\"",
       "id": "9f8d571a1af078591436cba4",
       "order": 45,
       "author": "Tara Ploughman",
@@ -1974,6 +2019,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The pagans were incensed at the rashness of a recent and obscure sect, which presumed to accuse their countrymen of error, and to devote their ancestors to eternal misery.\"",
       "id": "c0cab3595ccd096e19f9f7f1",
       "order": 46,
       "author": "Gibbon",
@@ -2023,6 +2069,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Simultaneously reifying and challenging hegemonic codes of race, class, gender and regional or national identity, his characters explore the complex and changing postmodern cultural landscape.\"",
       "id": "8b2c539c1a5359c4a24d511f",
       "order": 47,
       "author": "Robert Bennett",
@@ -2081,6 +2128,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist.\"",
       "id": "3999dfa1e2dcab673f860479",
       "order": 48,
       "author": "Eisenhower",
@@ -2135,6 +2183,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.\"",
       "id": "c701318386b06042adb7af3d",
       "order": 49,
       "author": "Mark Twain",
@@ -2181,6 +2230,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"However little television you watch, watch less.\"",
       "id": "058cb6bd3da6930302ea381c",
       "order": 50,
       "author": "David McCullough",
@@ -2206,6 +2256,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Any word you have to hunt for in a thesaurus is the wrong word.\"",
       "id": "f562a6628ffe79694f7717b5",
       "order": 51,
       "author": "Stephen King",
@@ -2238,6 +2289,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The people can always be brought to the bidding of the leaders. That is easy. All you have to do is tell them they are being attacked, and denounce the pacifists for lack of patriotism, and exposing the country to greater danger.\"",
       "id": "e3010456398ae4c617df8df0",
       "order": 52,
       "author": "Goering at the Nuremberg Trials",
@@ -2296,6 +2348,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"As all these results were obtained, not by any heroic method, but by patient and detailed reasoning, I began to think it probable that philosophy had erred in adopting heroic remedies for intellectual difficulties, and that solutions were to be found merely by greater care and accuracy. This view I have come to hold more and more strongly as time went on, and it has led me to doubt whether philosophy, as a study distinct from science and possessed of a method of its own, is anything more than an unfortunate legacy from theology.\"",
       "id": "c0a8db38b260983e4bfdc61b",
       "order": 53,
       "author": "Bertrand Russell",
@@ -2391,6 +2444,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Get the important things right.\"",
       "id": "73aa1764fe19cf6c37573c81",
       "order": 54,
       "author": "N. P. Calderwood",
@@ -2414,6 +2468,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.\"",
       "id": "4612045da20aca7d690a81a3",
       "order": 55,
       "author": "Gibbon",
@@ -2453,6 +2508,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I do not know what the Lord's anointed, his Vicegerent upon earth, divinely appointed by him, and accountable to none but him for his actions, will either think or do, upon these symptoms of reason and good sense which seem to be breaking out all over France: but this I foresee, that, before the end of this century, the trade of both King and Priest will not be half so good a one as it has been.\"",
       "id": "d7dd5e52d717638ea4b94471",
       "order": 56,
       "author": "Chesterfield",
@@ -2539,6 +2595,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"filter(P, S) is almost always written clearer as [x for x in S if P(x)]\"",
       "id": "8087d692a53f6de4aa76dc52",
       "order": 57,
       "author": "Guido van Rossum on Python",
@@ -2573,6 +2630,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I'm surrounded by postmodern idiots and blatherers. Your writings give me hope.\"",
       "id": "823bbf4a6af56018d21023b8",
       "order": 58,
       "author": "email from a reader",
@@ -2609,6 +2667,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"In the last analysis, productivity of labour is the most important, the principal thing for the victory of the new social system.\"",
       "id": "6e8e346e314c803051389eca",
       "order": 59,
       "author": "Lenin",
@@ -2661,6 +2720,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Most interesting phenomena have multiple causes.\"",
       "id": "b552997d64a05568ab56b1fd",
       "order": 60,
       "author": "N. P. Calderwood",
@@ -2687,6 +2747,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"From 1911 to 1920, the mood of the city varied between utter dullness and tremendous excitement.\"",
       "id": "9e29a064c9a9cb234c68603a",
       "order": 61,
       "author": "Arthur Coffman",
@@ -2730,6 +2791,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.\"",
       "id": "5ba2f1bf56f9f49eeea4a30d",
       "order": 62,
       "author": "Max Planck",
@@ -2783,6 +2845,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"No man who ever held the office of President would congratulate a friend on obtaining it.\"",
       "id": "0babe9f9d29e5f6dc2120732",
       "order": 63,
       "author": "John Adams",
@@ -2821,6 +2884,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"PowerPoint makes us stupid.\"",
       "id": "7450ef968653e33d3306699d",
       "order": 64,
       "author": "General James N. Mattis",
@@ -2846,6 +2910,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The best way to do something 'lean' is to gather a tight group of people, give them very little money, and very little time.\"",
       "id": "df0e72fef382feecd5ba1084",
       "order": 65,
       "author": "Bob Klein",
@@ -2893,6 +2958,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"But camels, though odious to view and endowed with the offensive spirit, did not enjoy the blessing of pachydermaty.\"",
       "id": "6789f295860e6e94de7e0412",
       "order": 66,
       "author": "F. E. Adcock",
@@ -2939,6 +3005,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"As it turned out, the obvious clearly stated, and combined with new observations, was sometimes close to revolutionary.\"",
       "id": "0bd7b629fafe7c996d65ddb9",
       "order": 67,
       "author": "Wallace Stegner on John Wesley Powell",
@@ -2984,6 +3051,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Focusing is about saying no.\"",
       "id": "53ad1382905c1f9eaa3230e2",
       "order": 68,
       "author": "Steve Jobs",
@@ -3006,6 +3074,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The very word \"secrecy\" is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and to secret proceedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it. Even today, there is little value in opposing the threat of a closed society by imitating its arbitrary restrictions. Even today, there is little value in insuring the survival of our nation if our traditions do not survive with it.\"",
       "id": "a245e3b0cc09a287ab21e7d0",
       "order": 69,
       "author": "John F. Kennedy",
@@ -3094,6 +3163,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"In the Zenith Color chassis there are no printed circuits, no production shortcuts. Every connection is carefully hand-wired with the same exacting care that makes Zenith America's largest selling TV, and your best Color TV buy.\"",
       "id": "3b13e43dcbff730b987517b4",
       "order": 70,
       "author": "Zenith TV ad",
@@ -3149,6 +3219,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Semper aut discere, aut docere, aut scribere dulce habui.\"",
       "id": "e69e0fb37093457f077a0179",
       "order": 71,
       "author": "Bede",
@@ -3176,6 +3247,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The qualities that made for success in a fighter-pilot seemed to be just those sturdy qualities that made for success in other professions; observation, initiative, determination, courage, including the courage to run away. In course of time it appeared that men who had a private axe to grind beyond the public axe of the King's enemies were especially successful.\"",
       "id": "f496e3b39ecaaee8be2984c9",
       "order": 72,
       "author": "Jim Bailey",
@@ -3244,6 +3316,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Everything about it was visibly mis-shapen, corrupt, crawling, verminous; for a time I could not bear to look at it, and passed with averted eyes; recovering from this weakness, I forced myself to look, and to face day by day the question: a thing so obviously, so incontrovertibly, so indefensibly bad, why had Scott done it?\"",
       "id": "d3969fcf5644db45f743c6fc",
       "order": 73,
       "author": "R. G. Collingwood on the Albert Memorial",
@@ -3317,6 +3390,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Anybody who cares less about wanting to be cool, I think, is more interesting.\"",
       "id": "164f672f7c5753034b03d596",
       "order": 74,
       "author": "Aimee Mann",
@@ -3351,6 +3425,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The late Richard Feynman, a superb physicist, said once as we talked about the laser that the way to tell a great idea is that, when people hear it, they say, 'Gee, I could have thought of that.'\"",
       "id": "09abcceed90e1f5ee0e5da07",
       "order": 75,
       "author": "Charles Townes",
@@ -3409,6 +3484,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"If we chose always to be wise we should rarely need to be virtuous. But inclinations which we could easily overcome irresistibly attract us. We give in to slight temptations and minimize the danger. We fall insensibly into dangerous situations, from which we could easily have safeguarded ourselves, but from which we cannot withdraw without heroic efforts which appal us. So finally, as we tumble into the abyss, we ask God why he has made us so feeble. But, in spite of ourselves, He replies through our consciences: 'I have made you too feeble to climb out of the pit, because I made you strong enough not to fall in.'\"",
       "id": "e243125b75cd89cb2fd780eb",
       "order": 76,
       "author": "Rousseau",
@@ -3505,6 +3581,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Constantly fortified with the new blood of immigrants who saw America as a place where anything was possible, the nation had adopted an ethos that elevated problem solving to the status of religion.\"",
       "id": "40ce59d97eedbc80e91f58de",
       "order": 77,
       "author": "John Hoyt Williams",
@@ -3563,6 +3640,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"That 95 per cent. fail of those who start in business upon their own account seems incredible, and yet such are said to be the statistics upon the subject.\"",
       "id": "af538537dae498c8a1046a1c",
       "order": 78,
       "author": "Andrew Carnegie",
@@ -3614,6 +3692,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"You should never turn a man's generosity as a sword against him. Any virtue that a man has, even if he has many vices, should not be used as a tool against him.\"",
       "id": "0978e3b0fe044b61cae25dfd",
       "order": 79,
       "author": "Rabi to Feynman",
@@ -3663,6 +3742,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"You can't say I didn't try really hard, 'cause I'm trying really hard to be good.\"",
       "id": "7c188a415c6a5ab5eff09062",
       "order": 80,
       "author": "Tom Petty",
@@ -3697,6 +3777,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"He begins working calculus problems in his head as soon as he awakens. He did calculus while driving in his car, while sitting in the living room, and while lying in bed at night.\"",
       "id": "3c967f1d3ecb40d42f9d8bf6",
       "order": 81,
       "author": "divorce complaint of Richard Feynman's second wife",
@@ -3749,6 +3830,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The development of this aircraft was long and complex even by Soviet standards, partially explained by the fact that its entire design team was in jail.\"",
       "id": "fc31ac16a8c4db50ddb38284",
       "order": 82,
       "author": "Howard Moon on the TU-2",
@@ -3798,6 +3880,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"It is said that there is a technical term for people who believe that little boys and little girls are born indistinguishable and are molded into their natures by parental socialization. The term is 'childless.'\"",
       "id": "9b52ef38fd0b757063822410",
       "order": 83,
       "author": "Steven Pinker",
@@ -3849,6 +3932,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"When you have eliminated the impossible, whatever remains, however improbable, must be the truth.\"",
       "id": "6a295e54b38f5fb8688925e5",
       "order": 84,
       "author": "Sherlock Holmes",
@@ -3884,6 +3968,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "His notions fitted things so well,\n That which was which he could not tell; \n But oftentimes mistook th' one\n For th' other, as great clerks have done.",
       "id": "8f84339abcf6aaee4e731cf5",
       "order": 85,
       "author": "Samuel Butler",
@@ -3932,6 +4017,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.\"",
       "id": "f28ed7ee131e2e6f25ceb35e",
       "order": 86,
       "author": "John Gall",
@@ -3983,6 +4069,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The Muslims of al-Andalus had nothing to learn from their Christian neighbours and were incurious about them. Geographers' accounts of Christian Spain tended to be cursory in the extreme: it was cold, the inhabitants were barbarians who ate pigs, you could get slaves there — that was about the sum of it.\"",
       "id": "bce1322e83dadc5f9482396b",
       "order": 87,
       "author": "Richard Fletcher",
@@ -4048,6 +4135,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"When the enemy is making a false movement we must take good care not to interrupt him.\"",
       "id": "5c59ce580fc3e39bee46399f",
       "order": 88,
       "author": "Napoleon",
@@ -4086,6 +4174,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Leave me alone, I'm trying to build! Don't you know how people build? By concentrating!\"",
       "id": "355e924af461e18f5407b61c",
       "order": 89,
       "author": "my 5 year old son",
@@ -4126,6 +4215,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"An expert is a man who has made all the mistakes which can be made in a very narrow field.\"",
       "id": "9d5a5a9b2766ee72784b81e1",
       "order": 90,
       "author": "Niels Bohr",
@@ -4163,6 +4253,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Don't fear moving slowly. Fear standing still.\"",
       "id": "d3e6dfa4967281ebdc75c911",
       "order": 91,
       "author": "Chinese proverb",
@@ -4190,6 +4281,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I think a life properly lived is just learn, learn, learn all the time.\"",
       "id": "da14dc41fa64b74a924b0c7e",
       "order": 92,
       "author": "Charlie Munger",
@@ -4221,6 +4313,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The handicap under which most beginning writers struggle is that they don't know how to write.\"",
       "id": "5c78ce5977f5fcc643139eae",
       "order": 93,
       "author": "Wodehouse",
@@ -4258,6 +4351,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Then in 1888 came the publication of Denton's history of England in the fifteenth century. This was a masterpiece of egregious perversity, depicting the later Middle Ages as a culminating period of ruinous taxation, iniquitous labour laws, demoralizing pestilences, and lavish dissipation of national resources upon violent and embittered domestic feuds and futile and indecisive foreign wars. The credulity of even the most undiscriminating reader was taxed to a degree by a portrayal in which horror succeeded upon cataclysm, in a thickening atmosphere of crime and terror, want, degradation, and wretchedness.\"",
       "id": "375bd54544d6b0c4d2a6b13c",
       "order": 94,
       "author": "A. R. Bridbury",
@@ -4348,6 +4442,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"We are all agreed that your theory is crazy. The question that divides us is whether it is crazy enough to have a chance of being correct.\"",
       "id": "9933f3f4f20e455a51b56bd2",
       "order": 95,
       "author": "Niels Bohr",
@@ -4394,6 +4489,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Pessimists sound smart. Optimists make money.\"",
       "id": "07eafbf0e3dcb7f067b6211d",
       "order": 96,
       "author": "Nat Friedman",
@@ -4420,6 +4516,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different.\"",
       "id": "75d1b0961725327682cf2e9f",
       "order": 97,
       "author": "T. S. Eliot",
@@ -4465,6 +4562,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka' but 'That's funny...'",
       "id": "e7eefae1d7f0a714c0bcd15b",
       "order": 98,
       "author": "Isaac Asimov",
@@ -4507,6 +4605,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"We always want to make sure that our machines haven’t by accident learned something that isn’t what we intended.\"",
       "id": "5e65e62da28b1da96eb098a6",
       "order": 99,
       "author": "Susan Wojcicki",
@@ -4546,6 +4645,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The population is made up of four types of people: A small number hunt witches. A large number go along with the hunt. A larger number are silent. A tiny number oppose it. The final group — as if by magic — become witches.\"",
       "id": "fb73f259b0628873697b70bf",
       "order": 100,
       "author": "Bret Weinstein",
@@ -4600,6 +4700,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"People who can't laugh at themselves will always be outwitted by people who can.\"",
       "id": "fc1d9d9b3fd8542bb879d669",
       "order": 101,
       "author": "T. K. Coleman",
@@ -4632,6 +4733,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.\"",
       "id": "8e9d808d4395d4daf647787b",
       "order": 102,
       "author": "George Carlin",
@@ -4687,6 +4789,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I sometimes ask students what their position on slavery would have been had they been white and living in the South before abolition. Guess what? They all would have been abolitionists! They all would have bravely spoken out against slavery, and worked tirelessly against it.\"",
       "id": "6f4efbebd42e7ff94a2a1215",
       "order": 103,
       "author": "Robert P. George",
@@ -4743,6 +4846,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.\"",
       "id": "8014e2cb42d84bd680630f31",
       "order": 104,
       "author": "Hannah Arendt",
@@ -4792,6 +4896,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"If you want to have good ideas, you must have many ideas.\"",
       "id": "6637ebcf63a829fce61160d9",
       "order": 105,
       "author": "Linus Pauling",
@@ -4817,6 +4922,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"A good notation has a subtlety and suggestiveness which at times make it almost seem like a live teacher.\"",
       "id": "5702a48b66965462954a4bae",
       "order": 106,
       "author": "Bertrand Russell",
@@ -4856,6 +4962,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I didn't make a decision to pursue astronomy. Rather, it just grabbed me, and I had no thought of escaping.\"",
       "id": "48257a472549a6ad44e30078",
       "order": 107,
       "author": "Carl Sagan",
@@ -4898,6 +5005,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"How we spend our days is, of course, how we spend our lives.\"",
       "id": "ded6db69783ccdcc28fee56a",
       "order": 108,
       "author": "Annie Dillard",
@@ -4926,6 +5034,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Tis not in mortals to command success; but we'll do more, Sempronius, we'll deserve it.\"",
       "id": "78bc4e877940ef2ee4c44f8a",
       "order": 109,
       "author": "Addison",
@@ -4960,6 +5069,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Sometimes, magic is just someone spending more time on something than anyone else might reasonably expect.\"",
       "id": "93c279309e870378eb9ef05a",
       "order": 110,
       "author": "Teller",
@@ -4998,6 +5108,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.\"",
       "id": "04593273b8ec1512cd8010fc",
       "order": 111,
       "author": "Einstein",
@@ -5042,6 +5153,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"All buildings are predictions. All predictions are wrong.\"",
       "id": "95a1491b9a1498de0fe0acbf",
       "order": 112,
       "author": "Stewart Brand",
@@ -5065,6 +5177,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"It's easier to win an argument with a genius than an idiot.\"",
       "id": "dbd6627a0492802592492ce1",
       "order": 113,
       "author": "Gurwinder Bhogal",
@@ -5096,6 +5209,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Now, most people hate to admit they're wrong, but it didn't bother Bill one bit. All he cared about was what was right, not who was right. That's what makes Bill very, very dangerous.\"",
       "id": "e98d578186dd9ab91a6f6181",
       "order": 114,
       "author": "Larry Ellison on Bill Gates",
@@ -5149,6 +5263,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Because most entrenched bureaucracies tend to develop a strong aversion to changing the status quo, state-run technological progress is not likely to be sustained over long periods.\"",
       "id": "3c50c25ada8f109ece1d9a95",
       "order": 115,
       "author": "Joel Mokyr",
@@ -5198,6 +5313,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The German historians of the nineteenth century were explicit and vastly successful in the exercise of what they regarded as social responsibility. Nor did they see any conflict between their ethics as historians and their obligations as citizens. But we can now perceive that they were building not only a united Germany but a Germany united in authoritarian terms.\"",
       "id": "85fc774481b73124dc4822b7",
       "order": 116,
       "author": "Lynn White",
@@ -5264,6 +5380,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"We are the masters of the unsaid words, but slaves of those we let slip out.\"",
       "id": "1c1c86a9c2fa378f2b0b390c",
       "order": 117,
       "author": "Churchill",
@@ -5296,6 +5413,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Good ideology. Wrong species.\"",
       "id": "0dbbaf6dab7f3e00e6d90623",
       "order": 118,
       "author": "E. O. Wilson on Marxism",
@@ -5321,6 +5439,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I never took a day off in my twenties. Not one.\"",
       "id": "c4f8a3c14bcd2c6b28a946f3",
       "order": 119,
       "author": "Bill Gates",
@@ -5349,6 +5468,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Stopped.\"",
       "id": "6afb57b02e89bfca598d197b",
       "order": 120,
       "author": "last words of the surgeon Joseph Henry Green",
@@ -5377,6 +5497,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Nothing so dates an era as its conception of the future.\"",
       "id": "ff140681086f35d43e65898b",
       "order": 121,
       "author": "Brian Eno",
@@ -5407,6 +5528,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I never understand anything until I have written about it.\"",
       "id": "95950d191fd2a5ba97012c0e",
       "order": 122,
       "author": "Horace Walpole",
@@ -5434,6 +5556,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The paper is in the midst of an evolution from the stodgy paper of record into a juicy collection of great narratives.\"",
       "id": "93d7022d0324a4e304ec5a88",
       "order": 123,
       "author": "The New York Times on itself",
@@ -5477,6 +5600,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.\"",
       "id": "fb2cb7a36ee249ba6d2ef98c",
       "order": 124,
       "author": "UN Declaration of Human Rights",
@@ -5528,6 +5652,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Remember that the thing that is most likely to be wrong is the thing that you heard most recently, because we’ve not had the chance to verify it yet.\"",
       "id": "88f30ddfd58eb328e1f68786",
       "order": 125,
       "author": "William Hanage on news during epidemics",
@@ -5576,6 +5701,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Avoid metaphors, which can introduce unneeded baggage.\"",
       "id": "3ddef3d4308eebd7be996e14",
       "order": 126,
       "author": "UC Irvine Inclusive IT Language Guide",
@@ -5607,6 +5733,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"In truth, Theodoric was something of a parvenu, as every other Goth must have been aware.\"",
       "id": "150a33bcb9abdc527f16f436",
       "order": 127,
       "author": "J. M. Wallace-Hadrill",
@@ -5645,6 +5772,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"What every scientist knows, but few will admit, is that the requirement for great success is great ambition. Moreover, the ambition is for personal triumph over other men, not merely over nature.\"",
       "id": "9193f10add6cb94ba36517bf",
       "order": 128,
       "author": "Richard Lewontin",
@@ -5693,6 +5821,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"If you want to combat error, critique your in-group. You speak their language and they trust you, so you might persuade someone.\n\nIf you want to raise your status, critique your out-group. They won't listen, but your in-group will love it.\"",
       "id": "fdad96ab5c7ff95e0fcaad9b",
       "order": 129,
       "author": "Bryan Caplan",
@@ -5745,6 +5874,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Crime does not pay as much as code.\"",
       "id": "f4dbcef5d6281aca89c9fa2b",
       "order": 130,
       "author": "Freddy Vega",
@@ -5769,6 +5899,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Cities are not loud. Cars are loud.\"",
       "id": "26e9d10b3baff7c462f0d4f2",
       "order": 131,
       "author": "John Riecke",
@@ -5792,6 +5923,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"A fundamental theory should have no free parameters.\"",
       "id": "81116bfda76a653b266e1bf0",
       "order": 132,
       "author": "Thomas Van Riet",
@@ -5820,6 +5952,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"If you start a war, you don’t get to choose how it ends.\"",
       "id": "47e76b069aad45062af5cfe1",
       "order": 133,
       "author": "Shashank Joshi",
@@ -5851,6 +5984,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"It is very hard to remember that events now long in the past were once in the future.\"",
       "id": "f0c916fb58322de6700bb610",
       "order": 134,
       "author": "Maitland",
@@ -5888,6 +6022,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Intellectuals are naturally attracted by the idea of a planned society, in the belief that they will be in charge of it.\"",
       "id": "cb672c2a82fdbcd0f1a65851",
       "order": 135,
       "author": "Roger Scruton",
@@ -5930,6 +6065,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Some argue that we should evaluate ... research only on the basis of its scientific soundness and merit. I disagree.\"",
       "id": "321518caedcfd7e9bf7bc932",
       "order": 136,
       "author": "Stavroula Kousta",
@@ -5977,6 +6113,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"We recommend avoiding general and often dehumanizing 'the' labels such as the poor, the mentally ill, the French, the disabled, the college-educated. Instead, use wording such as people with mental illnesses.\"",
       "id": "425971461247d01c8502fd2d",
       "order": 137,
       "author": "AP Stylebook",
@@ -6025,6 +6162,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Ludwig Boltzmann, who spent much of his life studying statistical mechanics, died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics.\"",
       "id": "12b2ca68dde9cc35baabde89",
       "order": 138,
       "author": "first paragraph of David Goodstein's States of Matter",
@@ -6084,6 +6222,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I am inclined to agree with Francis Galton in believing that education and environment produce only a small effect on the mind of any one, and that most of our qualities are innate.\"",
       "id": "ef1f9a684d8d82d06ef051c0",
       "order": 139,
       "author": "Darwin",
@@ -6136,6 +6275,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The show was successful because I micromanaged it — every word, every line, every take, every edit, every casting. That’s my way of life.\"",
       "id": "f7fb049828cfe733276b721d",
       "order": 140,
       "author": "Seinfeld",
@@ -6177,6 +6317,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Research is to see what everybody has seen and think what nobody has thought.\"",
       "id": "dde175274802e5bfb12a9c24",
       "order": 141,
       "author": "Albert Szent-Györgyi paraphrasing Schopenhauer",
@@ -6212,6 +6353,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I never thought I’d live to see the day when the right wing would become the cool ones giving the middle finger to the establishment, and the left wing becoming the sniveling self-righteous twatty ones going around shaming everyone.\"",
       "id": "2feaa52844ac4e370038f77c",
       "order": 142,
       "author": "Johnny Rotten",
@@ -6271,6 +6413,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"At last in 565 he stepped himself into undeniable heterodoxy, and died that year branded by the vast majority of his subjects as an Aphthartocathartic heretic.\"",
       "id": "60da6badabef2aa821ce6fa1",
       "order": 143,
       "author": "Steven Runciman on Justinian",
@@ -6322,6 +6465,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"It was always the women, and above all the young ones, who were the most bigoted adherents of the Party, the swallowers of slogans, the amateur spies and nosers-out of unorthodoxy.\"",
       "id": "41b421923c89abc1fa3803cc",
       "order": 144,
       "author": "George Orwell",
@@ -6370,6 +6514,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"If, therefore, I have failed to make Aristotle's theory of universals clear, that is (I maintain) because it is not clear.\"",
       "id": "29c72b4145829d3954fbe194",
       "order": 145,
       "author": "Bertrand Russell",
@@ -6413,6 +6558,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"If you’re thinking without writing, you only think you’re thinking.\"",
       "id": "15ae332f9ef30949eb7cc1ee",
       "order": 146,
       "author": "Leslie Lamport",
@@ -6439,6 +6585,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Our reverence for the truth might be a distraction that's getting in the way of finding common ground and getting things done.\"",
       "id": "5a21c5835d1d5c18b6b6600d",
       "order": 147,
       "author": "NPR CEO Katherine Maher",
@@ -6484,6 +6631,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"With honourable exceptions, the Idealists brought into British philosophy a species of vivid, violent, and lofty imprecision which even in general literature had hitherto been rare. That this was so was by no means unimportant. It helped them to convey a vague general impression that they were concerned with far deeper questions, and concerned with them far more seriously and intently, than any of their predecessors had ever been.\"",
       "id": "452d3f180d444850d5234e88",
       "order": 148,
       "author": "G. J. Warnock",
@@ -6563,6 +6711,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"We are not unique in suffering from moral confusion — these crises are a familiar story — but we are unique in the tremendous acceleration of the rate of social change and in the tremendous risk of a catastrophic end to all our hopes.\"",
       "id": "3b618cd50d37db318730db8a",
       "order": 149,
       "author": "Alan Simpson",
@@ -6617,6 +6766,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I have never seen ordinary effort lead to extraordinary results.\"",
       "id": "9152c7186494960dd79380ac",
       "order": 150,
       "author": "Alexandr Wang",
@@ -6648,6 +6798,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"In a hamlet of ten families, there may be found one honorable and sincere as I am, but not so fond of learning.\"",
       "id": "7dedf6b7aaab1ebe87b6ca07",
       "order": 151,
       "author": "Confucius (Legge trans.)",
@@ -6693,6 +6844,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"There was one quality of mind which seemed to be of special and extreme advantage in leading him to make discoveries. It was the power of never letting exceptions pass unnoticed.\"",
       "id": "02c5c6b2252868f93c3aeb1a",
       "order": 152,
       "author": "Francis Darwin on his father",
@@ -6746,6 +6898,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The Age we now live in is both Critical and Censorious; and therefore if there be any part of a Book, which (either through the unhappy style of the Author, or the ill nature of the Reader) seems to admit of a double Construction, the Author may assure himself it will be taken in the worst...\"",
       "id": "26f29c82103aef0676149e51",
       "order": 153,
       "author": "Sir Thomas Pope Blount",
@@ -6814,6 +6967,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"I prefer someone who burns the flag and then wraps themselves up in the Constitution over someone who burns the Constitution and then wraps themselves up in the flag.\"",
       "id": "47af6e1d8a9fe150793e8527",
       "order": 154,
       "author": "Molly Ivins",
@@ -6851,6 +7005,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Kircher was largely neglected until the late 20th century. One writer attributes his rediscovery to the similarities between his eclectic approach and postmodernism.\"",
       "id": "e34d975a2672a3d5f26ee405",
       "order": 155,
       "author": "Wikipedia on Athanasius Kircher",
@@ -6896,6 +7051,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"What do the poor most need? They need to stop being poor. And how can that be done, on a mass scale, except by an economy that creates vastly more wealth? Yet the political left has long had a remarkable lack of interest in how wealth is created. As far as they are concerned, wealth exists somehow and the only interesting question is how to redistribute it.\"",
       "id": "0c5dca2bdac240e6efe3fb40",
       "order": 156,
       "author": "Thomas Sowell",
@@ -6971,6 +7127,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"No one can beat death. The best you can hope for is a tie after extra time.\"",
       "id": "f1636cf5669482c1930b2c7d",
       "order": 157,
       "author": "Jan Houtema",
@@ -7006,6 +7163,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"The Japanese were ready to surrender and it wasn't necessary to hit them with that awful thing.\"",
       "id": "e069fbb8fa71f9974a2f08fd",
       "order": 158,
       "author": "Eisenhower on the atomic bomb",
@@ -7045,6 +7203,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "\"Students on University of California campuses may struggle with basic math, but they are graduating at record rates.\"",
       "id": "09134b705f5b1ce75ccb910a",
       "order": 159,
       "author": "Miriam Pawel",
@@ -7086,6 +7245,7 @@
       "firstIndexedAt": null
     },
     {
+      "text": "Everything you wrote to outlast you\n Is talking to you now.",
       "id": "62addfcb7574b70d662bb643",
       "order": 160,
       "author": "Claude Opus 5.5",
@@ -7118,67 +7278,67 @@
       "title": "Arc",
       "url": "https://www.paulgraham.com/arc.html",
       "category": "Languages",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "Bel",
       "url": "https://www.paulgraham.com/bel.html",
       "category": "Languages",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "Lisp",
       "url": "https://www.paulgraham.com/lisp.html",
       "category": "Languages",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "On Lisp",
       "url": "https://www.paulgraham.com/onlisp.html",
       "category": "Books",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "ANSI Common Lisp",
       "url": "https://www.paulgraham.com/acl.html",
       "category": "Books",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "Spam",
       "url": "https://www.paulgraham.com/antispam.html",
       "category": "Spam",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "A Plan for Spam",
       "url": "https://www.paulgraham.com/spam.html",
       "category": "Spam",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "Responses",
       "url": "https://www.paulgraham.com/kedrosky.html",
       "category": "Responses",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "FAQs",
       "url": "https://www.paulgraham.com/faq.html",
       "category": "Questions",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "RAQs",
       "url": "https://www.paulgraham.com/raq.html",
       "category": "Questions",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     },
     {
       "title": "Bio",
       "url": "https://www.paulgraham.com/bio.html",
       "category": "About",
-      "checkedAt": "2026-10-22T11:58:40.339Z"
+      "checkedAt": "2026-10-22T13:37:38.944Z"
     }
   ]
 }

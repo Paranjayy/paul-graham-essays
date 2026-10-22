@@ -12,13 +12,13 @@ The index covers the unique links listed on [Paul Graham’s essays page](https:
 
 Dates come from essay headers. A month-only date stays month-only. Missing dates appear as unavailable and sort after known dates. Revision dates do not replace an earlier publication date. The dates reflect the author’s header, rather than an independently verified first-publication timestamp.
 
-Word counts are estimates from the recognized body, including footnotes. They exclude navigation and known header material. Older HTML layouts can affect the estimate. Reading times use 225 words per minute. The updater fetches pages for these calculations and discards their text. Only metadata enters the repository and public JSON.
+Word counts are estimates from the recognized body, including footnotes. They exclude navigation and known header material. Older HTML layouts can affect the estimate. Reading times use 225 words per minute. The updater fetches pages for these calculations and discards their text. Only essay metadata enters the repository and public JSON; the Quotes table separately contains quotation text.
 
 ## Statistics, quotes and draft readers
 
 The Statistics tab summarizes the HTML essays: total estimated words, reading hours, median length, longest and shortest indexed pages, and counts by publication year. Choose a year bar to open the filtered essay table. The two text chapters are excluded from the word totals.
 
-The Quotes tab embeds the original quote collection for reading inside the app, followed by a searchable index. The embedded page loads directly from paulgraham.com; Open original is available if framing fails. Authors, original-word search, topic labels, source position and approximate length help find an entry. A hashed token index supports all-word search without storing the sentences. The original wording stays on the source page. Author links use a browser text fragment to help find the attribution. These are quotes collected by Paul Graham, not all statements authored by him.
+The Quotes tab displays quotation text and attribution in a searchable table. Sort by source order, quotation wording, author, or word count in either direction. Column buttons and the order menu control the same sort. Search and sorting stay in the URL. Meaningful line breaks are preserved. These are quotes collected by Paul Graham, not all statements authored by him. Original links remain available.
 
 The [quote index feed](https://pg-essays-feed.vercel.app/quotes.xml) supplies stable links for collection entries. Initial entries have no dates. A later new entry uses the time it was first indexed here, never an invented quote-publication date. Source order can be reversed in the table, but it is not labelled chronological.
 

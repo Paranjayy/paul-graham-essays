@@ -48,6 +48,10 @@ Extractor version 3 records names from explicit Thanks-to clauses tied to readin
 
 Female Founders (ff.html), supplied by the user, is absent from the current official essay list. Its metadata is an explicitly labelled acknowledgementExtras entry in catalog.json. It participates only in draft-reader statistics, not essay totals or the essay feed. The updater makes one extra fixed-source request and retains previous supplementary metadata on failure.
 
-## Readable quote collection
+## Readable quote collection (superseded by the table below)
 
 The Quotes tab now places the original quote collection in a labelled, responsive iframe above the metadata search table. This fixes the metadata-only reading experience without generating a local quotation mirror. The remote page controls its text and layout. Loading is lazy, and Open original remains available if the publisher blocks embedding. The search index remains author/topic metadata and word hashes.
+
+## Quotation text in the table
+
+The user supplied the collection and clarified the requested reading surface. The table now displays quotation text, author/attribution, word count and original link. It replaces the embedded page and topic-word column. Preserve poetry and paragraph breaks without keeping HTML source wrapping. Text is inserted with textContent. Sort controls share one state: source order, quote wording, author or numeric length, ascending/descending. Store sort/filter state in the URL. Quote GUIDs and the absence of invented publication dates remain unchanged.

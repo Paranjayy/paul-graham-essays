@@ -34,3 +34,9 @@
 - Quotes now embeds the original HTTPS quo.html above the searchable metadata index, with a labelled iframe and Open original fallback. No quotation bodies were added to public data or the quote RSS.
 - The original endpoint returned 200 without X-Frame-Options or a frame-restricting CSP. Local DOM checks confirmed the original iframe URL, responsive dimensions, and the existing searchable quote index.
 - Sixteen tests passed. Production deployment dpl_E5RRgXETdRwoBz1LrzyXQHVAvttr reached READY.
+
+## Quotations in table rows, 2026-10-22
+
+- The user supplied the quotations and requested native table text. All 160 records now include text; all stable IDs match the previous collection. Auden's poem retains six deliberate lines.
+- Removed the quote iframe and topic-word column. Local browser verified 160 rendered quotation rows, original attribution, and numeric ascending/descending sorting (1-word shortest, 110-word longest). The sort is reflected in the URL.
+- Eighteen tests pass, including quotation sorting and deliberate-line-break extraction. Original links remain. Dates are still not invented; the quote RSS remains an index feed.

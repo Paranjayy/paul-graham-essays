@@ -11,10 +11,11 @@ export function essayStats(essays) {
  const words=counted.reduce((total,x)=>total+x.wordCount,0),n=sorted.length;
  return {essays:articles.length,chapters:essays.length-articles.length,dated:articles.filter(x=>x.published).length,undated:articles.filter(x=>!x.published).length,words,readingHours:words/225/60,averageWords:n?Math.round(words/n):0,medianWords:n?Math.round((sorted[Math.floor((n-1)/2)].wordCount+sorted[Math.floor(n/2)].wordCount)/2):0,shortest:sorted[0]||null,longest:sorted.at(-1)||null,byYear:[...byYear.values()].sort((a,b)=>a.year.localeCompare(b.year))};
 }
-export function selectQuotes(quotes,{query='',author='',reverse=false,queryHashes=[]}={}){
+export function selectQuotes(quotes,{query='',author='',reverse=false,queryHashes=[],sort='order',direction=reverse?'desc':'asc'}={}){
  const terms=searchWords(query);
- const filtered=quotes.filter(x=>(!author||x.author===author)&&terms.every((term,index)=>(x.author+' '+x.attribution+' '+x.topics.join(' ')).toLowerCase().includes(term)||(queryHashes[index]&&x.wordHashes?.includes(queryHashes[index]))));
- return filtered.toSorted((a,b)=>reverse?b.order-a.order:a.order-b.order);
+ const filtered=quotes.filter(x=>(!author||x.author===author)&&terms.every((term,index)=>searchWords((x.text||'')+' '+x.author+' '+x.attribution+' '+(x.topics||[]).join(' ')).includes(term)||(queryHashes[index]&&x.wordHashes?.includes(queryHashes[index]))));
+ const key=['order','text','author','wordCount'].includes(sort)?sort:'order';
+ return filtered.toSorted((a,b)=>{const av=a[key],bv=b[key];if(av==null)return bv==null?a.order-b.order:1;if(bv==null)return -1;const comparison=typeof av==='number'?av-bv:String(av).localeCompare(String(bv),undefined,{sensitivity:'base'});return (direction==='desc'?-comparison:comparison)||a.order-b.order;});
 }
 export function searchWords(text) {
  return [...new Set((text.normalize('NFKC').toLowerCase().replaceAll('’',"'").match(/[\p{L}\p{N}]+(?:'[\p{L}\p{N}]+)*/gu)||[]))];
