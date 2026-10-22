@@ -1,6 +1,41 @@
 {
+  "acknowledgementExtras": [
+    {
+      "title": "Female Founders",
+      "url": "https://www.paulgraham.com/ff.html",
+      "supplementary": true,
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Alexandra Cavoulacos",
+        "Adora Cheung",
+        "Tracy Chou",
+        "John Collison",
+        "Patrick Collison",
+        "Danielle Fong",
+        "Kevin Hale",
+        "Aaron Harris",
+        "Elizabeth Iorns",
+        "Carolynn Levy",
+        "Jessica Livingston",
+        "Claire McDonnell",
+        "Kat Manalac",
+        "Kathryn Minshew",
+        "Kirsty Nathoo",
+        "Geoff Ralston",
+        "Garry Tan",
+        "Olga Vidisheva"
+      ],
+      "published": "2014-01",
+      "datePrecision": "month",
+      "dateLabel": "January 2014",
+      "wordCount": 2045,
+      "readingMinutes": 10,
+      "format": "essay"
+    }
+  ],
   "source": "https://www.paulgraham.com/articles.html",
-  "checkedAt": "2026-10-22T08:37:47.527Z",
+  "checkedAt": "2026-10-22T11:58:39.816Z",
   "metadataPolicy": "Dates as supplied in essay headers. Approximate body word counts include footnotes. Reading time at 225 words/minute.",
   "essays": [
     {
@@ -4410,41 +4445,6 @@
       "extractorVersion": 3,
       "draftReaders": [],
       "checkedAt": "2026-10-22T08:39:08.523Z"
-    }
-  ],
-  "acknowledgementExtras": [
-    {
-      "title": "Female Founders",
-      "url": "https://www.paulgraham.com/ff.html",
-      "supplementary": true,
-      "extractorVersion": 3,
-      "draftReaders": [
-        "Sam Altman",
-        "Alexandra Cavoulacos",
-        "Adora Cheung",
-        "Tracy Chou",
-        "John Collison",
-        "Patrick Collison",
-        "Danielle Fong",
-        "Kevin Hale",
-        "Aaron Harris",
-        "Elizabeth Iorns",
-        "Carolynn Levy",
-        "Jessica Livingston",
-        "Claire McDonnell",
-        "Kat Manalac",
-        "Kathryn Minshew",
-        "Kirsty Nathoo",
-        "Geoff Ralston",
-        "Garry Tan",
-        "Olga Vidisheva"
-      ],
-      "published": "2014-01",
-      "datePrecision": "month",
-      "dateLabel": "January 2014",
-      "wordCount": 2045,
-      "readingMinutes": 10,
-      "format": "essay"
     }
   ]
 }
