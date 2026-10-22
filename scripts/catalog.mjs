@@ -9,7 +9,7 @@ const file=new URL('../data/metadata.json',import.meta.url);
 let metadata={};
 try{metadata=JSON.parse(await readFile(file,'utf8'));}catch(e){if(e.code!=='ENOENT')throw e;}
 const source=await fetchIndex();
-const pending=source.essays.filter(x=>refresh||!metadata[x.url]||metadata[x.url].extractorVersion!==2||metadata[x.url].error||Date.now()-Date.parse(metadata[x.url].checkedAt)>30*86400000).slice(0,limit);
+const pending=source.essays.filter(x=>refresh||!metadata[x.url]||metadata[x.url].extractorVersion!==3||metadata[x.url].error||Date.now()-Date.parse(metadata[x.url].checkedAt)>30*86400000).slice(0,limit);
 let cursor=0,done=0,stopping=false;
 process.on('SIGINT',()=>{stopping=true;console.log('Stopping after active requests. Metadata will be kept.');});
 await Promise.all(Array.from({length:workers},async()=>{
@@ -24,7 +24,11 @@ await Promise.all(Array.from({length:workers},async()=>{
 async function atomic(url,data){const tmp=new URL(url.href+'.tmp');await writeFile(tmp,JSON.stringify(data,null,2)+'\n');await rename(tmp,url);}
 await atomic(file,metadata);
 const essays=source.essays.map((essay,index)=>({order:index+1,...essay,published:null,datePrecision:null,dateLabel:null,wordCount:null,readingMinutes:null,format:new URL(essay.url).pathname.endsWith('.txt')?'text chapter':'essay',...metadata[essay.url]}));
-const catalog={source:'https://www.paulgraham.com/articles.html',checkedAt:source.checkedAt,metadataPolicy:'Dates as supplied in essay headers. Approximate body word counts include footnotes. Reading time at 225 words/minute.',essays};
+const supplementaryUrl='https://www.paulgraham.com/ff.html';
+let acknowledgementExtras=[];
+try { acknowledgementExtras=[{title:'Female Founders',url:supplementaryUrl,supplementary:true,...await fetchMetadata(supplementaryUrl)}]; }
+catch { try { acknowledgementExtras=JSON.parse(await readFile(new URL('../public/catalog.json',import.meta.url),'utf8')).acknowledgementExtras||[]; } catch {} }
+const catalog={acknowledgementExtras,source:'https://www.paulgraham.com/articles.html',checkedAt:source.checkedAt,metadataPolicy:'Dates as supplied in essay headers. Approximate body word counts include footnotes. Reading time at 225 words/minute.',essays};
 await atomic(new URL('../public/catalog.json',import.meta.url),catalog);
 await atomic(new URL('../data/last-good.json',import.meta.url),source);
 const errors=essays.filter(x=>x.error).length;

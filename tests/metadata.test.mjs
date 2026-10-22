@@ -42,3 +42,10 @@ test('legacy font boundaries do not truncate an essay or hide its date',()=>{
  const value=parseMetadata(html,'https://www.paulgraham.com/growth.html');
  assert.equal(value.published,'2012-09');assert.equal(value.wordCount,300);
 });
+
+test('draft credits require a draft-reading purpose and keep source names',async()=>{
+ const {draftReaders}=await import('../lib/metadata.mjs');
+ assert.deepEqual(draftReaders('Thanks to Sam Altman, Jessica Livingston, and Patrick Collison for reading drafts of this.'),['Sam Altman','Jessica Livingston','Patrick Collison']);
+ assert.deepEqual(draftReaders('Thanks to Alice Example for funding the company. Sam read a draft.'),[]);
+ assert.deepEqual(draftReaders('Thanks to Alice Example and Bob Example for reviewing an unrelated product.'),[]);
+});

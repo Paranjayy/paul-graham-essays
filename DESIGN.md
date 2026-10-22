@@ -39,3 +39,11 @@ The quote finder indexes the author's collection of quotations from many speaker
 The quote index RSS uses stable hashes as GUIDs. Baseline entries have no dates. Newly observed hashes use their first index-observation time, explicitly labelled as that event rather than quote publication. The daily workflow runs essay and collection updates as separate commands so essay request bounds remain effective.
 
 The source directory links to original Arc, Bel, Lisp, book, spam, response, FAQ, RAQ and bio pages. It retains titles and categories, with no mirrored page text. The bio pointer identifies Viaweb, later Yahoo Store, as the 1995 company. The source website remains the destination for reading and context.
+
+## Draft readers
+
+The Draft readers tab uses the existing searchable table pattern. It replaces the visible resource directory. Old #resources links fall back to Essays. Resource metadata remains available in the collection JSON.
+
+Extractor version 3 records names from explicit Thanks-to clauses tied to reading, reviewing, or commenting on drafts. Counts mean distinct indexed essays. Dates come from essay headers and do not date the feedback itself. Names retain source spelling; no speculative identity merges. Missing or unusual acknowledgements can be missed. Every result exposes its original essays. Footnote statistics remain deferred.
+
+Female Founders (ff.html), supplied by the user, is absent from the current official essay list. Its metadata is an explicitly labelled acknowledgementExtras entry in catalog.json. It participates only in draft-reader statistics, not essay totals or the essay feed. The updater makes one extra fixed-source request and retains previous supplementary metadata on failure.

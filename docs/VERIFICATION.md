@@ -21,3 +21,10 @@
 
 - Hashed-word search regression matches source words omitted from displayed topic labels. The public output has token hashes, not original sentences. Existing quote IDs stayed stable and baseline observation dates stayed null.
 - The updated combined workflow run 39540232853 passed under the renamed public repo, published metadata commit 8c95ca9, and received a successful Vercel status. Production quote word-search found the expected attributed entry without rendering its quotation body. Quote RSS validated with 60 stable source links and no invented baseline dates. A 390px browser frame kept both statistics and quote views within page width; the quote table scrolled internally at 780px.
+
+## Draft-reader index, 2026-10-22
+
+- Refreshed all 235 official entries with extractor version 3, with zero fetch errors. Added the user-supplied Female Founders page as supplementary acknowledgement metadata only.
+- Sixteen Node tests passed, including strict draft-purpose matching, comma/and-separated names, and exclusion of generic thank-you mentions.
+- Local browser checks verified reader search, source essay links, absence of the More directory tab, no collection load error, and no desktop page overflow.
+- Name spellings remain source-specific. Extraction can miss unusual acknowledgement wording. No claim of complete relationship history.

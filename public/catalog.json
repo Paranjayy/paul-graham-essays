@@ -1,6 +1,6 @@
 {
   "source": "https://www.paulgraham.com/articles.html",
-  "checkedAt": "2026-10-21T11:56:30.518Z",
+  "checkedAt": "2026-10-22T08:37:47.527Z",
   "metadataPolicy": "Dates as supplied in essay headers. Approximate body word counts include footnotes. Reading time at 225 words/minute.",
   "essays": [
     {
@@ -13,8 +13,18 @@
       "wordCount": 2941,
       "readingMinutes": 14,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:29.345Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Patrick Collison",
+        "Aaron Epstein",
+        "Ankit Gupta",
+        "Diana Hu",
+        "Pete Koomen",
+        "Jessica Livingston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:37:47.844Z"
     },
     {
       "order": 2,
@@ -26,8 +36,19 @@
       "wordCount": 2893,
       "readingMinutes": 13,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:29.825Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Daniel Diermeier",
+        "Jared Friedman",
+        "Diana Hu",
+        "Michael Kotlikoff",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:48.314Z"
     },
     {
       "order": 3,
@@ -39,8 +60,14 @@
       "wordCount": 2366,
       "readingMinutes": 11,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:30.060Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jared Friedman",
+        "Jessica Livingston",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:48.466Z"
     },
     {
       "order": 4,
@@ -52,8 +79,16 @@
       "wordCount": 695,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:30.427Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Carolynn Levy",
+        "Jon Levy",
+        "Alex Tabarrok",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:37:48.977Z"
     },
     {
       "order": 5,
@@ -65,8 +100,22 @@
       "wordCount": 7644,
       "readingMinutes": 34,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:30.896Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Bill Clerico",
+        "Daniel Gackle",
+        "Luis Garcia",
+        "the people at Goldammer",
+        "Jessica Livingston",
+        "Ben Miller",
+        "Robert Morris",
+        "John Reardon",
+        "D'Arcy Rice",
+        "Alex Tabarrok",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:49.327Z"
     },
     {
       "order": 6,
@@ -78,8 +127,12 @@
       "wordCount": 766,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:31.098Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston",
+        "Michael Nielsen"
+      ],
+      "checkedAt": "2026-10-22T08:37:49.590Z"
     },
     {
       "order": 7,
@@ -91,8 +144,12 @@
       "wordCount": 1641,
       "readingMinutes": 8,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:31.497Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston",
+        "Courtenay Pipkin"
+      ],
+      "checkedAt": "2026-10-22T08:37:49.935Z"
     },
     {
       "order": 8,
@@ -104,8 +161,13 @@
       "wordCount": 1588,
       "readingMinutes": 8,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:31.706Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:37:50.195Z"
     },
     {
       "order": 9,
@@ -117,8 +179,19 @@
       "wordCount": 6149,
       "readingMinutes": 28,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:32.444Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Ben Miller",
+        "Daniel Gackle",
+        "Robin Hanson",
+        "Jessica Livingston",
+        "Greg Lukianoff",
+        "Harj Taggar",
+        "Garry Tan",
+        "Tim Urban"
+      ],
+      "checkedAt": "2026-10-22T08:37:50.558Z"
     },
     {
       "order": 10,
@@ -130,8 +203,13 @@
       "wordCount": 551,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:32.311Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston",
+        "Ben Miller",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:37:50.833Z"
     },
     {
       "order": 11,
@@ -143,8 +221,16 @@
       "wordCount": 1541,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:32.964Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:51.153Z"
     },
     {
       "order": 12,
@@ -156,8 +242,18 @@
       "wordCount": 1240,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:33.050Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Brian Chesky",
+        "Patrick Collison",
+        "Ron Conway",
+        "Jessica Livingston",
+        "Elon Musk",
+        "Ryan Petersen",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:51.439Z"
     },
     {
       "order": 13,
@@ -169,8 +265,16 @@
       "wordCount": 1932,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:33.563Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Courtenay Pipkin",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:51.775Z"
     },
     {
       "order": 14,
@@ -182,8 +286,9 @@
       "wordCount": 1171,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:33.726Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:37:52.122Z"
     },
     {
       "order": 15,
@@ -195,8 +300,15 @@
       "wordCount": 2822,
       "readingMinutes": 13,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:34.256Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jared Friedman",
+        "Carolynn Levy",
+        "Jessica Livingston",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:52.413Z"
     },
     {
       "order": 16,
@@ -208,8 +320,16 @@
       "wordCount": 4327,
       "readingMinutes": 20,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:34.335Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Courtenay Pipkin",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:37:52.731Z"
     },
     {
       "order": 17,
@@ -221,8 +341,16 @@
       "wordCount": 4250,
       "readingMinutes": 19,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:34.861Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Tyler Cowen",
+        "Jessica Livingston",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:53.027Z"
     },
     {
       "order": 18,
@@ -234,8 +362,28 @@
       "wordCount": 11800,
       "readingMinutes": 53,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:35.164Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Daniel Gackle",
+        "Pam Graham",
+        "Tom Howard",
+        "Patrick Hsu",
+        "Steve Huffman",
+        "Jessica Livingston",
+        "Henry Lloyd-Baker",
+        "Bob Metcalfe",
+        "Ben Miller",
+        "Robert Morris",
+        "Michael Nielsen",
+        "Courtenay Pipkin",
+        "Joris Poort",
+        "Mieke Roos",
+        "Rajat Suri",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:53.347Z"
     },
     {
       "order": 19,
@@ -247,8 +395,9 @@
       "wordCount": 145,
       "readingMinutes": 1,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:35.458Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:37:53.695Z"
     },
     {
       "order": 20,
@@ -260,8 +409,9 @@
       "wordCount": 444,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:36.469Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:37:53.976Z"
     },
     {
       "order": 21,
@@ -273,8 +423,14 @@
       "wordCount": 508,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:37.725Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Michael Nielsen"
+      ],
+      "checkedAt": "2026-10-22T08:37:54.290Z"
     },
     {
       "order": 22,
@@ -286,8 +442,15 @@
       "wordCount": 683,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:37.957Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Greg Brockman",
+        "Patrick Collison",
+        "Robert Morris",
+        "Michael Nielsen"
+      ],
+      "checkedAt": "2026-10-22T08:37:54.579Z"
     },
     {
       "order": 23,
@@ -299,8 +462,14 @@
       "wordCount": 2189,
       "readingMinutes": 10,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:38.335Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:54.890Z"
     },
     {
       "order": 24,
@@ -312,8 +481,21 @@
       "wordCount": 2105,
       "readingMinutes": 10,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:38.776Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Marc Andreessen",
+        "Chris Best",
+        "Trevor Blackwell",
+        "Nicholas Christakis",
+        "Daniel Gackle",
+        "Jonathan Haidt",
+        "Claire Lehmann",
+        "Jessica Livingston",
+        "Greg Lukianoff",
+        "Robert Morris",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:37:55.173Z"
     },
     {
       "order": 25,
@@ -325,8 +507,13 @@
       "wordCount": 1161,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:38.994Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:37:55.553Z"
     },
     {
       "order": 26,
@@ -338,8 +525,14 @@
       "wordCount": 1121,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:39.372Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "the Cambridge Union for inviting me",
+        "to Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:37:57.647Z"
     },
     {
       "order": 27,
@@ -351,8 +544,16 @@
       "wordCount": 1415,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:39.596Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Michael Nielsen",
+        "Lisa Randall"
+      ],
+      "checkedAt": "2026-10-22T08:37:56.160Z"
     },
     {
       "order": 28,
@@ -364,8 +565,15 @@
       "wordCount": 347,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:40.012Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Daniel Gackle",
+        "Amjad Masad",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:37:56.839Z"
     },
     {
       "order": 29,
@@ -377,8 +585,17 @@
       "wordCount": 3306,
       "readingMinutes": 15,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:40.412Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "John Carmack",
+        "John Collison",
+        "Patrick Collison",
+        "Robert Morris",
+        "Geoff Ralston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:37:57.453Z"
     },
     {
       "order": 30,
@@ -390,8 +607,15 @@
       "wordCount": 2500,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:40.614Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Andy Hertzfeld",
+        "Jessica Livingston",
+        "Peter Norvig"
+      ],
+      "checkedAt": "2026-10-22T08:37:58.060Z"
     },
     {
       "order": 31,
@@ -403,8 +627,16 @@
       "wordCount": 1242,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:41.070Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Steve Blank",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Amjad Masad",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:37:58.252Z"
     },
     {
       "order": 32,
@@ -416,8 +648,16 @@
       "wordCount": 1322,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:41.212Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Suhail Doshi",
+        "Daniel Gackle",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:37:58.702Z"
     },
     {
       "order": 33,
@@ -429,8 +669,9 @@
       "wordCount": 317,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:41.671Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:37:58.939Z"
     },
     {
       "order": 34,
@@ -442,8 +683,13 @@
       "wordCount": 761,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:41.875Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Don Knight"
+      ],
+      "checkedAt": "2026-10-22T08:37:59.305Z"
     },
     {
       "order": 35,
@@ -455,8 +701,16 @@
       "wordCount": 2583,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:42.280Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Bob Lesko",
+        "Robert Morris",
+        "Russ Roberts",
+        "Alex Tabarrok"
+      ],
+      "checkedAt": "2026-10-22T08:37:59.542Z"
     },
     {
       "order": 36,
@@ -468,8 +722,9 @@
       "wordCount": 507,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:42.476Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:00.042Z"
     },
     {
       "order": 37,
@@ -481,8 +736,14 @@
       "wordCount": 482,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:42.923Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Chase Adam",
+        "Ingrid Bassett",
+        "Trevor Blackwell",
+        "Edith Elliot"
+      ],
+      "checkedAt": "2026-10-22T08:38:00.144Z"
     },
     {
       "order": 38,
@@ -494,8 +755,18 @@
       "wordCount": 13802,
       "readingMinutes": 62,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:43.673Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "John Collison",
+        "Patrick Collison",
+        "Daniel Gackle",
+        "Ralph Hazell",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:00.866Z"
     },
     {
       "order": 39,
@@ -507,8 +778,17 @@
       "wordCount": 1668,
       "readingMinutes": 8,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:43.520Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Suhail Doshi",
+        "Jessica Livingston",
+        "Mattias Ljungman",
+        "Harj Taggar",
+        "Kyle Vogt"
+      ],
+      "checkedAt": "2026-10-22T08:38:00.797Z"
     },
     {
       "order": 40,
@@ -520,8 +800,15 @@
       "wordCount": 3418,
       "readingMinutes": 16,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:44.125Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Geoff Ralston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:01.393Z"
     },
     {
       "order": 41,
@@ -533,8 +820,9 @@
       "wordCount": 1100,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:44.276Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:01.475Z"
     },
     {
       "order": 42,
@@ -546,8 +834,17 @@
       "wordCount": 3440,
       "readingMinutes": 16,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:44.737Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Harj Taggar",
+        "Peter Thiel"
+      ],
+      "checkedAt": "2026-10-22T08:38:02.008Z"
     },
     {
       "order": 43,
@@ -559,8 +856,16 @@
       "wordCount": 2497,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:44.875Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "John Carmack",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Michael Nielsen",
+        "Lisa Randall"
+      ],
+      "checkedAt": "2026-10-22T08:38:02.088Z"
     },
     {
       "order": 44,
@@ -572,8 +877,9 @@
       "wordCount": 452,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:45.347Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:02.608Z"
     },
     {
       "order": 45,
@@ -585,8 +891,19 @@
       "wordCount": 1964,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:45.544Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Nicholas Christakis",
+        "Patrick Collison",
+        "Sam Gichuru",
+        "Jessica Livingston",
+        "Patrick McKenzie",
+        "Geoff Ralston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:02.689Z"
     },
     {
       "order": 46,
@@ -598,8 +915,20 @@
       "wordCount": 646,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:45.954Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Antonio Garcia-Martinez",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Michael Nielsen",
+        "Geoff Ralston",
+        "Max Roser",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:03.214Z"
     },
     {
       "order": 47,
@@ -611,8 +940,9 @@
       "wordCount": 236,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:46.144Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:03.284Z"
     },
     {
       "order": 48,
@@ -624,8 +954,14 @@
       "wordCount": 2858,
       "readingMinutes": 13,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:46.596Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Daniel Gackle",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:03.814Z"
     },
     {
       "order": 49,
@@ -637,8 +973,9 @@
       "wordCount": 371,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:46.834Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:03.942Z"
     },
     {
       "order": 50,
@@ -650,8 +987,20 @@
       "wordCount": 1389,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:47.226Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Austen Allred",
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Christine Ford",
+        "Daniel Gackle",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Elon Musk",
+        "Harj Taggar",
+        "Peter Thiel"
+      ],
+      "checkedAt": "2026-10-22T08:38:04.469Z"
     },
     {
       "order": 51,
@@ -663,8 +1012,17 @@
       "wordCount": 665,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:47.434Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Austen Allred",
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Amjad Masad",
+        "Ryan Petersen",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:04.548Z"
     },
     {
       "order": 52,
@@ -676,8 +1034,9 @@
       "wordCount": 187,
       "readingMinutes": 1,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:47.883Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:05.070Z"
     },
     {
       "order": 53,
@@ -689,8 +1048,13 @@
       "wordCount": 1532,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:48.069Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:05.239Z"
     },
     {
       "order": 54,
@@ -702,8 +1066,16 @@
       "wordCount": 4038,
       "readingMinutes": 18,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:48.707Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Austen Allred",
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:05.771Z"
     },
     {
       "order": 55,
@@ -715,8 +1087,9 @@
       "wordCount": 253,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:48.689Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:05.851Z"
     },
     {
       "order": 56,
@@ -728,8 +1101,19 @@
       "wordCount": 2631,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:49.300Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Marc Andreessen",
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Kevin Lacker",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris",
+        "Lisa Randall",
+        "Zak Stone"
+      ],
+      "checkedAt": "2026-10-22T08:38:06.364Z"
     },
     {
       "order": 57,
@@ -741,8 +1125,13 @@
       "wordCount": 438,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:49.306Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Patrick Collison",
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:06.446Z"
     },
     {
       "order": 58,
@@ -754,8 +1143,9 @@
       "wordCount": 119,
       "readingMinutes": 1,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:49.982Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:06.951Z"
     },
     {
       "order": 59,
@@ -767,8 +1157,9 @@
       "wordCount": 214,
       "readingMinutes": 1,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:49.984Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:07.085Z"
     },
     {
       "order": 60,
@@ -780,8 +1171,12 @@
       "wordCount": 2637,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:50.586Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Charlie Cheever",
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:07.618Z"
     },
     {
       "order": 61,
@@ -793,8 +1188,12 @@
       "wordCount": 1672,
       "readingMinutes": 8,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:50.588Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:07.689Z"
     },
     {
       "order": 62,
@@ -806,8 +1205,21 @@
       "wordCount": 3407,
       "readingMinutes": 16,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:51.191Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Tiffani Ashley Bell",
+        "Patrick Collison",
+        "Ron Conway",
+        "Richard Florida",
+        "Ben Horowitz",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Tim O'Reilly",
+        "Max Roser",
+        "Alexia Tsotsis"
+      ],
+      "checkedAt": "2026-10-22T08:38:08.307Z"
     },
     {
       "order": 63,
@@ -819,8 +1231,26 @@
       "wordCount": 7184,
       "readingMinutes": 32,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:51.412Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Ron Conway",
+        "Chris Dixon",
+        "Benedict Evans",
+        "Richard Florida",
+        "Ben Horowitz",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Tim O'Reilly",
+        "Geoff Ralston",
+        "Max Roser",
+        "Alexia Tsotsis",
+        "Qasar Younis"
+      ],
+      "checkedAt": "2026-10-22T08:38:08.671Z"
     },
     {
       "order": 64,
@@ -832,8 +1262,20 @@
       "wordCount": 1964,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:51.835Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Daniel Gackle",
+        "Carolynn Levy",
+        "Jon Levy",
+        "Kirsty Nathoo",
+        "Robert Morris",
+        "Geoff Ralston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:08.908Z"
     },
     {
       "order": 65,
@@ -845,8 +1287,13 @@
       "wordCount": 564,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:52.074Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Jessica Livingston",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:09.264Z"
     },
     {
       "order": 66,
@@ -858,8 +1305,12 @@
       "wordCount": 707,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:52.446Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Patrick Collison",
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:09.527Z"
     },
     {
       "order": 67,
@@ -871,8 +1322,15 @@
       "wordCount": 1495,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:52.678Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Joe Gebbia",
+        "Jessica Livingston",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:09.947Z"
     },
     {
       "order": 68,
@@ -884,8 +1342,14 @@
       "wordCount": 786,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:53.121Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Harj Taggar",
+        "Jessica Livingston",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:10.123Z"
     },
     {
       "order": 69,
@@ -897,8 +1361,13 @@
       "wordCount": 759,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:53.280Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Jessica Livingston",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:10.543Z"
     },
     {
       "order": 70,
@@ -910,8 +1379,9 @@
       "wordCount": 375,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:53.722Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:10.753Z"
     },
     {
       "order": 71,
@@ -923,8 +1393,12 @@
       "wordCount": 628,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:53.930Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:11.137Z"
     },
     {
       "order": 72,
@@ -936,8 +1410,15 @@
       "wordCount": 480,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:54.318Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris",
+        "my father"
+      ],
+      "checkedAt": "2026-10-22T08:38:11.360Z"
     },
     {
       "order": 73,
@@ -949,8 +1430,14 @@
       "wordCount": 1292,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:54.532Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Marc Andreessen",
+        "Jessica Livingston",
+        "Geoff Ralston",
+        "Qasar Younis"
+      ],
+      "checkedAt": "2026-10-22T08:38:11.810Z"
     },
     {
       "order": 74,
@@ -962,8 +1449,17 @@
       "wordCount": 922,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:54.985Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "John Collison",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Geoff Ralston",
+        "Fred Wilson",
+        "Qasar Younis"
+      ],
+      "checkedAt": "2026-10-22T08:38:12.059Z"
     },
     {
       "order": 75,
@@ -975,8 +1471,13 @@
       "wordCount": 1063,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:55.218Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Patrick Collison",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:12.412Z"
     },
     {
       "order": 76,
@@ -988,8 +1489,13 @@
       "wordCount": 647,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:55.592Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:12.659Z"
     },
     {
       "order": 77,
@@ -1001,8 +1507,14 @@
       "wordCount": 1595,
       "readingMinutes": 8,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:55.821Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:13.101Z"
     },
     {
       "order": 78,
@@ -1014,8 +1526,17 @@
       "wordCount": 1136,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:56.274Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Ron Conway",
+        "Daniel Gackle",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Geoff Ralston",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:13.261Z"
     },
     {
       "order": 79,
@@ -1027,8 +1548,18 @@
       "wordCount": 4587,
       "readingMinutes": 21,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:56.641Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "John Collison",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Geoff Ralston",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:13.927Z"
     },
     {
       "order": 80,
@@ -1040,8 +1571,37 @@
       "wordCount": 10666,
       "readingMinutes": 48,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:57.334Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Slava Akhmechet",
+        "Sam Altman",
+        "Nate Blecharczyk",
+        "Adora Cheung",
+        "Bill Clerico",
+        "John Collison",
+        "Patrick Collison",
+        "Parker Conrad",
+        "Ron Conway",
+        "Travis Deyle",
+        "Jason Freedman",
+        "Joe Gebbia",
+        "Mattan Griffel",
+        "Kevin Hale",
+        "Jacob Heller",
+        "Ian Hogarth",
+        "Justin Kan",
+        "Professor Moriarty",
+        "Nikhil Nirmel",
+        "David Petersen",
+        "Geoff Ralston",
+        "Joshua Reeves",
+        "Yuri Sagalov",
+        "Emmett Shear",
+        "Rajat Suri",
+        "Garry Tan",
+        "Nick Tomarello"
+      ],
+      "checkedAt": "2026-10-22T08:38:14.134Z"
     },
     {
       "order": 81,
@@ -1053,8 +1613,14 @@
       "wordCount": 1092,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:57.323Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Geoff Ralston",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:38:15.802Z"
     },
     {
       "order": 82,
@@ -1066,8 +1632,29 @@
       "wordCount": 3668,
       "readingMinutes": 17,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:57.929Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Marc Andreessen",
+        "Sam Altman",
+        "Patrick Collison",
+        "Ron Conway",
+        "Chris Dixon",
+        "Alfred Lin",
+        "Ben Horowitz",
+        "Steve Huffman",
+        "Jessica Livingston",
+        "Greg Mcadoo",
+        "Andrew Mason",
+        "Geoff Ralston",
+        "Yuri Sagalov",
+        "Emmett Shear",
+        "Rajat Suri",
+        "Garry Tan",
+        "Albert Wenger",
+        "Fred Wilson",
+        "Qasar Younis"
+      ],
+      "checkedAt": "2026-10-22T08:38:14.986Z"
     },
     {
       "order": 83,
@@ -1079,8 +1666,18 @@
       "wordCount": 4334,
       "readingMinutes": 20,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:58.158Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Kevin Hale",
+        "Steven Levy",
+        "Jessica Livingston",
+        "Geoff Ralston",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:38:15.599Z"
     },
     {
       "order": 84,
@@ -1092,8 +1689,18 @@
       "wordCount": 2959,
       "readingMinutes": 14,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:58.529Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Dalton Caldwell",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Andrew Mason",
+        "Geoff Ralston",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:38:16.554Z"
     },
     {
       "order": 85,
@@ -1105,8 +1712,17 @@
       "wordCount": 7198,
       "readingMinutes": 32,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:58.986Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Mike Arrington",
+        "Paul Buchheit",
+        "John Collison",
+        "Patrick Collison",
+        "Garry Tan",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:16.424Z"
     },
     {
       "order": 86,
@@ -1118,8 +1734,18 @@
       "wordCount": 390,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:59.175Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "David Cann",
+        "Sanjay Dastoor",
+        "Paul Gerhardt",
+        "Cameron Robertson",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:38:17.913Z"
     },
     {
       "order": 87,
@@ -1131,8 +1757,17 @@
       "wordCount": 5351,
       "readingMinutes": 24,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:59.808Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Marc Andreessen",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Geoff Ralston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:17.226Z"
     },
     {
       "order": 88,
@@ -1144,8 +1779,16 @@
       "wordCount": 2150,
       "readingMinutes": 10,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:28:59.776Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Geoff Ralston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:17.861Z"
     },
     {
       "order": 89,
@@ -1157,8 +1800,9 @@
       "wordCount": 229,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:00.466Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:18.496Z"
     },
     {
       "order": 90,
@@ -1170,8 +1814,12 @@
       "wordCount": 1190,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:00.472Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:18.637Z"
     },
     {
       "order": 91,
@@ -1183,8 +1831,9 @@
       "wordCount": 1443,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:01.083Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:19.146Z"
     },
     {
       "order": 92,
@@ -1196,8 +1845,12 @@
       "wordCount": 977,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:01.071Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:19.239Z"
     },
     {
       "order": 93,
@@ -1209,8 +1862,19 @@
       "wordCount": 3779,
       "readingMinutes": 17,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:01.693Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Aaron Iba",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:38:20.042Z"
     },
     {
       "order": 94,
@@ -1222,8 +1886,17 @@
       "wordCount": 786,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:01.689Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Patrick Collison",
+        "Aaron Iba",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Harj Taggar",
+        "Garry Tan"
+      ],
+      "checkedAt": "2026-10-22T08:38:19.935Z"
     },
     {
       "order": 95,
@@ -1235,8 +1908,17 @@
       "wordCount": 839,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:02.318Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Aaron Iba",
+        "Jessica Livingston",
+        "Emmett Shear",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:20.532Z"
     },
     {
       "order": 96,
@@ -1248,8 +1930,9 @@
       "wordCount": 872,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:02.321Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:20.727Z"
     },
     {
       "order": 97,
@@ -1261,8 +1944,14 @@
       "wordCount": 1798,
       "readingMinutes": 8,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:02.937Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:21.160Z"
     },
     {
       "order": 98,
@@ -1274,8 +1963,9 @@
       "wordCount": 677,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:02.920Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:21.377Z"
     },
     {
       "order": 99,
@@ -1287,8 +1977,9 @@
       "wordCount": 1378,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:03.613Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:22.470Z"
     },
     {
       "order": 100,
@@ -1300,8 +1991,21 @@
       "wordCount": 766,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:03.609Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "John Bautista",
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Brian Chesky",
+        "Bill Clerico",
+        "Patrick Collison",
+        "Adam Goldstein",
+        "James Lindenbaum",
+        "Jessica Livingston",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:22.044Z"
     },
     {
       "order": 101,
@@ -1313,8 +2017,14 @@
       "wordCount": 547,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:04.217Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:22.643Z"
     },
     {
       "order": 102,
@@ -1326,8 +2036,12 @@
       "wordCount": 787,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:04.220Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston",
+        "Chris Steiner"
+      ],
+      "checkedAt": "2026-10-22T08:38:23.069Z"
     },
     {
       "order": 103,
@@ -1339,8 +2053,17 @@
       "wordCount": 3577,
       "readingMinutes": 16,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:04.829Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "John Bautista",
+        "Patrick Collison",
+        "James Lindenbaum",
+        "Reid Hoffman",
+        "Jessica Livingston",
+        "Harj Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:23.244Z"
     },
     {
       "order": 104,
@@ -1352,8 +2075,14 @@
       "wordCount": 1071,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:04.825Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Patrick Collison",
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:23.876Z"
     },
     {
       "order": 105,
@@ -1365,8 +2094,18 @@
       "wordCount": 700,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:05.468Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Immad Akhund",
+        "Sam Altman",
+        "John Bautista",
+        "Pete Koomen",
+        "Jessica Livingston",
+        "Dan Siroker",
+        "Harj Taggar",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:23.865Z"
     },
     {
       "order": 106,
@@ -1378,8 +2117,13 @@
       "wordCount": 2037,
       "readingMinutes": 10,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:05.472Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:24.690Z"
     },
     {
       "order": 107,
@@ -1391,8 +2135,30 @@
       "wordCount": 3872,
       "readingMinutes": 18,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:06.077Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "John Bautista",
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Jeff Clavier",
+        "Patrick Collison",
+        "Ron Conway",
+        "Matt Cohler",
+        "Chris Dixon",
+        "Mitch Kapor",
+        "Josh Kopelman",
+        "Pete Koomen",
+        "Carolynn Levy",
+        "Jessica Livingston",
+        "Ariel Poler",
+        "Geoff Ralston",
+        "Naval Ravikant",
+        "Dan Siroker",
+        "Harj Taggar",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:24.492Z"
     },
     {
       "order": 108,
@@ -1404,8 +2170,14 @@
       "wordCount": 1272,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:06.073Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:25.157Z"
     },
     {
       "order": 109,
@@ -1417,8 +2189,14 @@
       "wordCount": 1153,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:06.758Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:25.297Z"
     },
     {
       "order": 110,
@@ -1430,8 +2208,15 @@
       "wordCount": 675,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:06.753Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:25.756Z"
     },
     {
       "order": 111,
@@ -1443,8 +2228,13 @@
       "wordCount": 993,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:07.363Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:25.976Z"
     },
     {
       "order": 112,
@@ -1456,8 +2246,25 @@
       "wordCount": 2120,
       "readingMinutes": 10,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:07.365Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Ross Boucher",
+        "James Bracy",
+        "Gabor Cselle",
+        "Patrick Collison",
+        "Jason Freedman",
+        "John Gruber",
+        "Joe Hewitt",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Teng Siong Ong",
+        "Nikhil Pandit",
+        "Savraj Singh",
+        "Jared Tame"
+      ],
+      "checkedAt": "2026-10-22T08:38:26.568Z"
     },
     {
       "order": 113,
@@ -1469,8 +2276,9 @@
       "wordCount": 5054,
       "readingMinutes": 23,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:08.189Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:26.803Z"
     },
     {
       "order": 114,
@@ -1482,8 +2290,12 @@
       "wordCount": 1297,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:07.962Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:27.246Z"
     },
     {
       "order": 115,
@@ -1495,8 +2307,15 @@
       "wordCount": 1775,
       "readingMinutes": 8,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:08.614Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Michael Arrington",
+        "Trevor Blackwell",
+        "Steven Levy",
+        "Robert Morris",
+        "Geoff Ralston"
+      ],
+      "checkedAt": "2026-10-22T08:38:27.412Z"
     },
     {
       "order": 116,
@@ -1508,8 +2327,9 @@
       "wordCount": 1448,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:08.857Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:27.849Z"
     },
     {
       "order": 117,
@@ -1521,8 +2341,13 @@
       "wordCount": 1489,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:09.222Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:28.060Z"
     },
     {
       "order": 118,
@@ -1534,8 +2359,9 @@
       "wordCount": 810,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:09.457Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:28.443Z"
     },
     {
       "order": 119,
@@ -1547,8 +2373,9 @@
       "wordCount": 375,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:09.920Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:28.652Z"
     },
     {
       "order": 120,
@@ -1560,8 +2387,11 @@
       "wordCount": 1826,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:10.060Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:29.108Z"
     },
     {
       "order": 121,
@@ -1573,8 +2403,15 @@
       "wordCount": 1130,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:10.521Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:29.253Z"
     },
     {
       "order": 122,
@@ -1586,8 +2423,13 @@
       "wordCount": 1341,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:10.710Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:29.711Z"
     },
     {
       "order": 123,
@@ -1599,8 +2441,9 @@
       "wordCount": 146,
       "readingMinutes": 1,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:11.124Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:29.899Z"
     },
     {
       "order": 124,
@@ -1612,8 +2455,18 @@
       "wordCount": 405,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:11.309Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Jeff Clavier",
+        "David Hornik",
+        "Jessica Livingston",
+        "Greg Mcadoo",
+        "Aydin Senkut",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:30.402Z"
     },
     {
       "order": 125,
@@ -1625,8 +2478,9 @@
       "wordCount": 756,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:11.760Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:30.499Z"
     },
     {
       "order": 126,
@@ -1638,8 +2492,12 @@
       "wordCount": 992,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:12.006Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:30.999Z"
     },
     {
       "order": 127,
@@ -1651,8 +2509,15 @@
       "wordCount": 3972,
       "readingMinutes": 18,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:12.365Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:31.107Z"
     },
     {
       "order": 128,
@@ -1664,8 +2529,16 @@
       "wordCount": 1527,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:12.610Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Nancy Cook",
+        "Michael Seibel",
+        "Emmett Shear",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:31.598Z"
     },
     {
       "order": 129,
@@ -1677,8 +2550,14 @@
       "wordCount": 1909,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:13.064Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:31.732Z"
     },
     {
       "order": 130,
@@ -1690,8 +2569,16 @@
       "wordCount": 2870,
       "readingMinutes": 13,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:13.214Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Justin Kan",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Alexis Ohanian",
+        "Emmet Shear",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:32.261Z"
     },
     {
       "order": 131,
@@ -1703,8 +2590,9 @@
       "wordCount": 1304,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:13.663Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:32.337Z"
     },
     {
       "order": 132,
@@ -1716,8 +2604,14 @@
       "wordCount": 868,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:13.858Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:32.858Z"
     },
     {
       "order": 133,
@@ -1729,8 +2623,14 @@
       "wordCount": 2377,
       "readingMinutes": 11,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:14.265Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "David Sloo"
+      ],
+      "checkedAt": "2026-10-22T08:38:33.020Z"
     },
     {
       "order": 134,
@@ -1742,8 +2642,16 @@
       "wordCount": 1356,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:14.462Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "David Hornik",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:33.544Z"
     },
     {
       "order": 135,
@@ -1755,8 +2663,14 @@
       "wordCount": 1522,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:15.954Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:33.626Z"
     },
     {
       "order": 136,
@@ -1768,8 +2682,9 @@
       "wordCount": 1311,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:15.146Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:34.143Z"
     },
     {
       "order": 137,
@@ -1781,8 +2696,9 @@
       "wordCount": 1097,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:15.746Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:34.230Z"
     },
     {
       "order": 138,
@@ -1794,8 +2710,15 @@
       "wordCount": 4835,
       "readingMinutes": 22,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:16.564Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "David Hornik",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:34.962Z"
     },
     {
       "order": 139,
@@ -1807,8 +2730,15 @@
       "wordCount": 1257,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:16.551Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Michael Mandel",
+        "Robert Morris",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:34.880Z"
     },
     {
       "order": 140,
@@ -1820,8 +2750,16 @@
       "wordCount": 3589,
       "readingMinutes": 16,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:17.528Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris",
+        "David Sloo"
+      ],
+      "checkedAt": "2026-10-22T08:38:35.687Z"
     },
     {
       "order": 141,
@@ -1833,8 +2771,9 @@
       "wordCount": 1091,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:17.237Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:35.636Z"
     },
     {
       "order": 142,
@@ -1846,8 +2785,18 @@
       "wordCount": 5251,
       "readingMinutes": 24,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:18.081Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Marc Andreessen",
+        "Trevor Blackwell",
+        "Patrick Collison",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris",
+        "David Sloo"
+      ],
+      "checkedAt": "2026-10-22T08:38:36.456Z"
     },
     {
       "order": 143,
@@ -1859,8 +2808,14 @@
       "wordCount": 2948,
       "readingMinutes": 14,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:18.138Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:36.297Z"
     },
     {
       "order": 144,
@@ -1872,8 +2827,16 @@
       "wordCount": 1328,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:18.678Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "David Hornik",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Fred Wilson"
+      ],
+      "checkedAt": "2026-10-22T08:38:36.973Z"
     },
     {
       "order": 145,
@@ -1885,8 +2848,13 @@
       "wordCount": 2692,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:18.815Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Jackie McDonough"
+      ],
+      "checkedAt": "2026-10-22T08:38:37.082Z"
     },
     {
       "order": 146,
@@ -1898,8 +2866,12 @@
       "wordCount": 1500,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:19.351Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:37.572Z"
     },
     {
       "order": 147,
@@ -1911,8 +2883,17 @@
       "wordCount": 2522,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:19.428Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Ross Boucher",
+        "Aaron Iba",
+        "Abby Kirigin",
+        "Ivan Kirigin",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:37.743Z"
     },
     {
       "order": 148,
@@ -1924,8 +2905,13 @@
       "wordCount": 1992,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:19.951Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:38.255Z"
     },
     {
       "order": 149,
@@ -1937,8 +2923,9 @@
       "wordCount": 892,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:20.027Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:38.343Z"
     },
     {
       "order": 150,
@@ -1950,8 +2937,9 @@
       "wordCount": 1169,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:20.560Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:38.852Z"
     },
     {
       "order": 151,
@@ -1963,8 +2951,14 @@
       "wordCount": 1456,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:20.671Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Jessica Livingston",
+        "Harjeet Taggar",
+        "Kulveer Taggar"
+      ],
+      "checkedAt": "2026-10-22T08:38:38.942Z"
     },
     {
       "order": 152,
@@ -1976,8 +2970,9 @@
       "wordCount": 3396,
       "readingMinutes": 16,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:21.198Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:39.459Z"
     },
     {
       "order": 153,
@@ -1989,8 +2984,16 @@
       "wordCount": 4723,
       "readingMinutes": 21,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:21.494Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Mark Nitzberg",
+        "Peter Norvig"
+      ],
+      "checkedAt": "2026-10-22T08:38:39.814Z"
     },
     {
       "order": 154,
@@ -2002,8 +3005,16 @@
       "wordCount": 2218,
       "readingMinutes": 10,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:21.795Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Peter Norvig",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:40.119Z"
     },
     {
       "order": 155,
@@ -2015,8 +3026,9 @@
       "wordCount": 1961,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:22.092Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:40.416Z"
     },
     {
       "order": 156,
@@ -2028,8 +3040,20 @@
       "wordCount": 1835,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:22.494Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "David Greenspan",
+        "Aaron Iba",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Peter Norvig",
+        "Lisa Randall",
+        "Emmett Shear",
+        "Sergei Tsarev",
+        "Stephen Wolfram"
+      ],
+      "checkedAt": "2026-10-22T08:38:40.723Z"
     },
     {
       "order": 157,
@@ -2041,8 +3065,9 @@
       "wordCount": 1246,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:22.777Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:41.009Z"
     },
     {
       "order": 158,
@@ -2054,8 +3079,19 @@
       "wordCount": 1140,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:23.106Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Hutch Fishman",
+        "David Hornik",
+        "Paul Kedrosky",
+        "Jessica Livingston",
+        "Gary Sabot",
+        "Joshua Schachter"
+      ],
+      "checkedAt": "2026-10-22T08:38:41.409Z"
     },
     {
       "order": 159,
@@ -2067,8 +3103,9 @@
       "wordCount": 513,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:23.382Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:41.689Z"
     },
     {
       "order": 160,
@@ -2080,8 +3117,14 @@
       "wordCount": 6259,
       "readingMinutes": 28,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:23.941Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Paul Buchheit",
+        "Hutch Fishman",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:42.234Z"
     },
     {
       "order": 161,
@@ -2093,8 +3136,9 @@
       "wordCount": 742,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:24.061Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:42.284Z"
     },
     {
       "order": 162,
@@ -2106,8 +3150,9 @@
       "wordCount": 1295,
       "readingMinutes": 6,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:24.589Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:42.841Z"
     },
     {
       "order": 163,
@@ -2119,8 +3164,13 @@
       "wordCount": 6279,
       "readingMinutes": 28,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:24.926Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:43.124Z"
     },
     {
       "order": 164,
@@ -2132,8 +3182,14 @@
       "wordCount": 3749,
       "readingMinutes": 17,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:25.198Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:43.510Z"
     },
     {
       "order": 165,
@@ -2145,8 +3201,9 @@
       "wordCount": 773,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:25.607Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:43.794Z"
     },
     {
       "order": 166,
@@ -2158,8 +3215,13 @@
       "wordCount": 3625,
       "readingMinutes": 17,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:25.827Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:44.122Z"
     },
     {
       "order": 167,
@@ -2171,8 +3233,14 @@
       "wordCount": 5586,
       "readingMinutes": 25,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:27.298Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Jessica Livingston",
+        "Greg McAdoo",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:44.617Z"
     },
     {
       "order": 168,
@@ -2184,8 +3252,12 @@
       "wordCount": 6456,
       "readingMinutes": 29,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:28.025Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:44.951Z"
     },
     {
       "order": 169,
@@ -2197,8 +3269,9 @@
       "wordCount": 2804,
       "readingMinutes": 13,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:28.232Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:45.268Z"
     },
     {
       "order": 170,
@@ -2210,8 +3283,9 @@
       "wordCount": 929,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:28.629Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:45.626Z"
     },
     {
       "order": 171,
@@ -2223,8 +3297,9 @@
       "wordCount": 755,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:28.833Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:45.886Z"
     },
     {
       "order": 172,
@@ -2236,8 +3311,19 @@
       "wordCount": 6030,
       "readingMinutes": 27,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:29.593Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Paul Buchheit",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris",
+        "Olin Shivers",
+        "Chris Small"
+      ],
+      "checkedAt": "2026-10-22T08:38:46.457Z"
     },
     {
       "order": 173,
@@ -2249,8 +3335,19 @@
       "wordCount": 4765,
       "readingMinutes": 22,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:29.645Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Matthias Felleisen",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Neil Rimer",
+        "Hugues Steinier",
+        "Brad Templeton",
+        "Fred Wilson",
+        "Stephen Wolfram"
+      ],
+      "checkedAt": "2026-10-22T08:38:46.708Z"
     },
     {
       "order": 174,
@@ -2262,8 +3359,18 @@
       "wordCount": 3601,
       "readingMinutes": 17,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:30.414Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Chris Anderson",
+        "Trevor Blackwell",
+        "Marc Hedlund",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Greg Mcadoo",
+        "Fred Wilson",
+        "Stephen Wolfram"
+      ],
+      "checkedAt": "2026-10-22T08:38:47.061Z"
     },
     {
       "order": 175,
@@ -2275,8 +3382,15 @@
       "wordCount": 4827,
       "readingMinutes": 22,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:30.464Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Trevor Blackwell",
+        "Beau Hartshorne",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:47.321Z"
     },
     {
       "order": 176,
@@ -2288,8 +3402,9 @@
       "wordCount": 578,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:31.009Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:47.712Z"
     },
     {
       "order": 177,
@@ -2301,8 +3416,15 @@
       "wordCount": 4656,
       "readingMinutes": 21,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:31.373Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Dan Bloomberg",
+        "Paul Buchheit",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Peter Norvig"
+      ],
+      "checkedAt": "2026-10-22T08:38:48.207Z"
     },
     {
       "order": 178,
@@ -2314,8 +3436,9 @@
       "wordCount": 687,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:32.477Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:48.317Z"
     },
     {
       "order": 179,
@@ -2327,8 +3450,9 @@
       "wordCount": 371,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:31.967Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:48.808Z"
     },
     {
       "order": 180,
@@ -2340,8 +3464,19 @@
       "wordCount": 4664,
       "readingMinutes": 21,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:32.791Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Dan Friedman",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris",
+        "Peter Norvig",
+        "David Sloo",
+        "Aaron Swartz"
+      ],
+      "checkedAt": "2026-10-22T08:38:49.141Z"
     },
     {
       "order": 181,
@@ -2353,8 +3488,13 @@
       "wordCount": 1802,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:33.087Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:49.423Z"
     },
     {
       "order": 182,
@@ -2366,8 +3506,16 @@
       "wordCount": 3398,
       "readingMinutes": 16,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:33.618Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Peter Norvig",
+        "Aaron Swartz",
+        "Jeff Weiner"
+      ],
+      "checkedAt": "2026-10-22T08:38:49.805Z"
     },
     {
       "order": 183,
@@ -2379,8 +3527,19 @@
       "wordCount": 8956,
       "readingMinutes": 40,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:34.004Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Hutch Fishman",
+        "Steve Huffman",
+        "Jessica Livingston",
+        "Sesha Pratap",
+        "Stan Reiss",
+        "Andy Singleton",
+        "Zak Stone",
+        "Aaron Swartz"
+      ],
+      "checkedAt": "2026-10-22T08:38:50.310Z"
     },
     {
       "order": 184,
@@ -2392,8 +3551,14 @@
       "wordCount": 1566,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:34.307Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:50.403Z"
     },
     {
       "order": 185,
@@ -2405,8 +3570,9 @@
       "wordCount": 3930,
       "readingMinutes": 18,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:34.843Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:50.923Z"
     },
     {
       "order": 186,
@@ -2418,8 +3584,15 @@
       "wordCount": 2575,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:34.910Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sarah Harlin",
+        "Steve Huffman",
+        "Jessica Livingston",
+        "Zak Stone",
+        "Aaron Swartz"
+      ],
+      "checkedAt": "2026-10-22T08:38:51.008Z"
     },
     {
       "order": 187,
@@ -2431,8 +3604,15 @@
       "wordCount": 2815,
       "readingMinutes": 13,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:35.451Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Chris Anderson",
+        "Trevor Blackwell",
+        "Dan Giffin",
+        "Jessica Livingston",
+        "Evan Williams"
+      ],
+      "checkedAt": "2026-10-22T08:38:51.529Z"
     },
     {
       "order": 188,
@@ -2444,8 +3624,9 @@
       "wordCount": 583,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:35.594Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:51.652Z"
     },
     {
       "order": 189,
@@ -2457,8 +3638,13 @@
       "wordCount": 4351,
       "readingMinutes": 20,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:36.985Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:52.397Z"
     },
     {
       "order": 190,
@@ -2470,8 +3656,11 @@
       "wordCount": 4775,
       "readingMinutes": 22,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:36.420Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Jessica Livingston"
+      ],
+      "checkedAt": "2026-10-22T08:38:52.468Z"
     },
     {
       "order": 191,
@@ -2483,8 +3672,16 @@
       "wordCount": 2311,
       "readingMinutes": 11,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:37.024Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Ingrid Basset",
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:52.998Z"
     },
     {
       "order": 192,
@@ -2496,8 +3693,14 @@
       "wordCount": 3159,
       "readingMinutes": 15,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:37.806Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Bill Birch",
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:53.078Z"
     },
     {
       "order": 193,
@@ -2509,8 +3712,9 @@
       "wordCount": 1005,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:37.689Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:53.604Z"
     },
     {
       "order": 194,
@@ -2522,8 +3726,9 @@
       "wordCount": 458,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:38.295Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:53.758Z"
     },
     {
       "order": 195,
@@ -2535,8 +3740,16 @@
       "wordCount": 3651,
       "readingMinutes": 17,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:38.501Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Alex Lewin",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Eric Raymond",
+        "several anonymous CS professors"
+      ],
+      "checkedAt": "2026-10-22T08:38:54.283Z"
     },
     {
       "order": 196,
@@ -2548,8 +3761,9 @@
       "wordCount": 1470,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:38.895Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:54.360Z"
     },
     {
       "order": 197,
@@ -2561,8 +3775,14 @@
       "wordCount": 9747,
       "readingMinutes": 44,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:39.335Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:55.130Z"
     },
     {
       "order": 198,
@@ -2574,8 +3794,21 @@
       "wordCount": 5065,
       "readingMinutes": 23,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:39.765Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Ingrid Bassett",
+        "Trevor Blackwell",
+        "Rich Draves",
+        "Dan Giffin",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris",
+        "Mark Nitzberg",
+        "Lisa Randall",
+        "Aaron Swartz"
+      ],
+      "checkedAt": "2026-10-22T08:38:55.394Z"
     },
     {
       "order": 199,
@@ -2587,8 +3820,18 @@
       "wordCount": 1843,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:39.938Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Barry Eisler",
+        "Sarah Harlin",
+        "Shiro Kawai",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris",
+        "Eric Raymond"
+      ],
+      "checkedAt": "2026-10-22T08:38:55.747Z"
     },
     {
       "order": 200,
@@ -2600,8 +3843,15 @@
       "wordCount": 1490,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:40.364Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Maria Daniels",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:56.004Z"
     },
     {
       "order": 201,
@@ -2613,8 +3863,9 @@
       "wordCount": 616,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:40.594Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:56.379Z"
     },
     {
       "order": 202,
@@ -2626,8 +3877,9 @@
       "wordCount": 4266,
       "readingMinutes": 19,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:41.192Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:56.902Z"
     },
     {
       "order": 203,
@@ -2639,8 +3891,15 @@
       "wordCount": 3740,
       "readingMinutes": 17,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:41.199Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Chris Anderson",
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:56.991Z"
     },
     {
       "order": 204,
@@ -2652,8 +3911,16 @@
       "wordCount": 4521,
       "readingMinutes": 21,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:42.033Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Ken Anderson",
+        "Trevor Blackwell",
+        "Sarah Harlin",
+        "Jessica Livingston",
+        "Jackie McDonough",
+        "Robert Morris"
+      ],
+      "checkedAt": "2026-10-22T08:38:57.718Z"
     },
     {
       "order": 205,
@@ -2665,8 +3932,9 @@
       "wordCount": 447,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:41.895Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:57.664Z"
     },
     {
       "order": 206,
@@ -2678,8 +3946,9 @@
       "wordCount": 5218,
       "readingMinutes": 24,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:42.730Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:58.516Z"
     },
     {
       "order": 207,
@@ -2691,8 +3960,9 @@
       "wordCount": 5715,
       "readingMinutes": 26,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:42.914Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:58.559Z"
     },
     {
       "order": 208,
@@ -2704,8 +3974,9 @@
       "wordCount": 8941,
       "readingMinutes": 40,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:43.573Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:38:59.359Z"
     },
     {
       "order": 209,
@@ -2717,8 +3988,23 @@
       "wordCount": 1941,
       "readingMinutes": 9,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:43.521Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Ken Anderson",
+        "Trevor Blackwell",
+        "Daniel Giffin",
+        "Sarah Harlin",
+        "Shiro Kawai",
+        "Jessica Livingston",
+        "Matz",
+        "Jackie McDonough",
+        "Robert Morris",
+        "Eric Raymond",
+        "Guido van Rossum",
+        "David Weinberger",
+        "Steven Wolfram"
+      ],
+      "checkedAt": "2026-10-22T08:38:59.235Z"
     },
     {
       "order": 210,
@@ -2730,8 +4016,16 @@
       "wordCount": 5405,
       "readingMinutes": 25,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:44.353Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sarah Harlin",
+        "Trevor Blackwell",
+        "Jessica Livingston",
+        "Robert Morris",
+        "Eric Raymond",
+        "Bob van der Zwaan"
+      ],
+      "checkedAt": "2026-10-22T08:39:00.117Z"
     },
     {
       "order": 211,
@@ -2743,8 +4037,15 @@
       "wordCount": 823,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:44.177Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Brian Burton",
+        "Bill Yerazunis",
+        "Dan Giffin",
+        "Eric Raymond",
+        "Richard Jowsey"
+      ],
+      "checkedAt": "2026-10-22T08:39:00.097Z"
     },
     {
       "order": 212,
@@ -2756,8 +4057,14 @@
       "wordCount": 5583,
       "readingMinutes": 25,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:45.012Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Robert Morris",
+        "Dan Giffin",
+        "Lisa Randall"
+      ],
+      "checkedAt": "2026-10-22T08:39:00.939Z"
     },
     {
       "order": 213,
@@ -2769,8 +4076,9 @@
       "wordCount": 414,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:45.032Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:00.828Z"
     },
     {
       "order": 214,
@@ -2782,8 +4090,13 @@
       "wordCount": 4796,
       "readingMinutes": 22,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:45.836Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Trevor Blackwell",
+        "Robert Morris",
+        "Dan Giffin"
+      ],
+      "checkedAt": "2026-10-22T08:39:01.646Z"
     },
     {
       "order": 215,
@@ -2795,8 +4108,15 @@
       "wordCount": 5691,
       "readingMinutes": 26,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:45.850Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sarah Harlin",
+        "Trevor Blackwell",
+        "Robert Morris",
+        "Eric Raymond",
+        "Jackie Weicker"
+      ],
+      "checkedAt": "2026-10-22T08:39:01.830Z"
     },
     {
       "order": 216,
@@ -2808,8 +4128,13 @@
       "wordCount": 4375,
       "readingMinutes": 20,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:46.660Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sarah Harlin",
+        "Trevor Blackwell",
+        "Dan Giffin"
+      ],
+      "checkedAt": "2026-10-22T08:39:02.460Z"
     },
     {
       "order": 217,
@@ -2821,8 +4146,9 @@
       "wordCount": 2659,
       "readingMinutes": 12,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:46.452Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:02.435Z"
     },
     {
       "order": 218,
@@ -2834,8 +4160,11 @@
       "wordCount": 5332,
       "readingMinutes": 24,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:47.418Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sarah Harlin"
+      ],
+      "checkedAt": "2026-10-22T08:39:03.279Z"
     },
     {
       "order": 219,
@@ -2847,8 +4176,9 @@
       "wordCount": 5805,
       "readingMinutes": 26,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:47.489Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:03.286Z"
     },
     {
       "order": 220,
@@ -2860,8 +4190,9 @@
       "wordCount": 2988,
       "readingMinutes": 14,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:48.032Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:03.960Z"
     },
     {
       "order": 221,
@@ -2873,8 +4204,9 @@
       "wordCount": 216,
       "readingMinutes": 1,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:48.177Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:03.952Z"
     },
     {
       "order": 222,
@@ -2886,8 +4218,9 @@
       "wordCount": 4316,
       "readingMinutes": 20,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:48.991Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:04.772Z"
     },
     {
       "order": 223,
@@ -2899,8 +4232,9 @@
       "wordCount": 487,
       "readingMinutes": 3,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:48.776Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:04.561Z"
     },
     {
       "order": 224,
@@ -2912,8 +4246,9 @@
       "wordCount": 690,
       "readingMinutes": 4,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:49.372Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:05.162Z"
     },
     {
       "order": 225,
@@ -2925,8 +4260,16 @@
       "wordCount": 11992,
       "readingMinutes": 54,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:49.829Z"
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sarah Harlin",
+        "Trevor Blackwell",
+        "Robert Morris",
+        "Eric Raymond",
+        "Ken Anderson",
+        "Dan Giffin"
+      ],
+      "checkedAt": "2026-10-22T08:39:05.613Z"
     },
     {
       "order": 226,
@@ -2938,8 +4281,9 @@
       "wordCount": 353,
       "readingMinutes": 2,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:50.032Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:05.824Z"
     },
     {
       "order": 227,
@@ -2951,8 +4295,9 @@
       "wordCount": 2941,
       "readingMinutes": 14,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:50.433Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:06.230Z"
     },
     {
       "order": 228,
@@ -2964,8 +4309,9 @@
       "wordCount": 7585,
       "readingMinutes": 34,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:50.860Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:06.454Z"
     },
     {
       "order": 229,
@@ -2977,8 +4323,9 @@
       "wordCount": 1362,
       "readingMinutes": 7,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:51.083Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:06.866Z"
     },
     {
       "order": 230,
@@ -2990,8 +4337,9 @@
       "wordCount": 4444,
       "readingMinutes": 20,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:51.689Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:07.112Z"
     },
     {
       "order": 231,
@@ -3003,8 +4351,9 @@
       "wordCount": 54,
       "readingMinutes": 1,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:51.691Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:07.460Z"
     },
     {
       "order": 232,
@@ -3016,8 +4365,9 @@
       "wordCount": 2467,
       "readingMinutes": 11,
       "format": "text chapter",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:52.256Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:07.747Z"
     },
     {
       "order": 233,
@@ -3029,8 +4379,9 @@
       "wordCount": 7183,
       "readingMinutes": 32,
       "format": "text chapter",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:52.257Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:07.927Z"
     },
     {
       "order": 234,
@@ -3042,8 +4393,9 @@
       "wordCount": 920,
       "readingMinutes": 5,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:52.897Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:08.435Z"
     },
     {
       "order": 235,
@@ -3055,8 +4407,44 @@
       "wordCount": 185,
       "readingMinutes": 1,
       "format": "essay",
-      "extractorVersion": 2,
-      "checkedAt": "2026-10-21T02:29:52.893Z"
+      "extractorVersion": 3,
+      "draftReaders": [],
+      "checkedAt": "2026-10-22T08:39:08.523Z"
+    }
+  ],
+  "acknowledgementExtras": [
+    {
+      "title": "Female Founders",
+      "url": "https://www.paulgraham.com/ff.html",
+      "supplementary": true,
+      "extractorVersion": 3,
+      "draftReaders": [
+        "Sam Altman",
+        "Alexandra Cavoulacos",
+        "Adora Cheung",
+        "Tracy Chou",
+        "John Collison",
+        "Patrick Collison",
+        "Danielle Fong",
+        "Kevin Hale",
+        "Aaron Harris",
+        "Elizabeth Iorns",
+        "Carolynn Levy",
+        "Jessica Livingston",
+        "Claire McDonnell",
+        "Kat Manalac",
+        "Kathryn Minshew",
+        "Kirsty Nathoo",
+        "Geoff Ralston",
+        "Garry Tan",
+        "Olga Vidisheva"
+      ],
+      "published": "2014-01",
+      "datePrecision": "month",
+      "dateLabel": "January 2014",
+      "wordCount": 2045,
+      "readingMinutes": 10,
+      "format": "essay"
     }
   ]
 }

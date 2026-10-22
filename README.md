@@ -1,6 +1,6 @@
 # Paul Graham RSS
 
-A maintained RSS feed for Paul Graham’s essays, with a searchable index, reading statistics, a quote finder, and a directory of his other pages. Every article link opens the original.
+A maintained RSS feed for Paul Graham’s essays, with a searchable index, reading statistics, a quote finder, and draft-reader credits. Every article link opens the original.
 
 **[Browse the index](https://pg-essays-feed.vercel.app/)** · **[RSS](https://pg-essays-feed.vercel.app/feed.xml)** · **[JSON Feed](https://pg-essays-feed.vercel.app/feed.json)** · **[Download metadata](https://pg-essays-feed.vercel.app/catalog.json)**
 
@@ -14,7 +14,7 @@ Dates come from essay headers. A month-only date stays month-only. Missing dates
 
 Word counts are estimates from the recognized body, including footnotes. They exclude navigation and known header material. Older HTML layouts can affect the estimate. Reading times use 225 words per minute. The updater fetches pages for these calculations and discards their text. Only metadata enters the repository and public JSON.
 
-## Statistics, quotes and other pages
+## Statistics, quotes and draft readers
 
 The Statistics tab summarizes the HTML essays: total estimated words, reading hours, median length, longest and shortest indexed pages, and counts by publication year. Choose a year bar to open the filtered essay table. The two text chapters are excluded from the word totals.
 
@@ -22,7 +22,7 @@ The Quotes tab indexes the collection on the author's quotes page. Authors, orig
 
 The [quote index feed](https://pg-essays-feed.vercel.app/quotes.xml) supplies stable links for collection entries. Initial entries have no dates. A later new entry uses the time it was first indexed here, never an invented quote-publication date. Source order can be reversed in the table, but it is not labelled chronological.
 
-More from PG links to Arc, Bel, Lisp, books, spam, responses, FAQ, RAQ and bio. It contains page titles and categories. The 1995 company in his bio is Viaweb, which later became Yahoo Store.
+The Draft readers tab counts explicit draft-reading acknowledgements and links each person to their essays. The former resource directory is hidden; its link metadata remains in collections.json.
 
 ## Feeds and updates
 
@@ -74,3 +74,7 @@ The app uses plain JavaScript, semantic HTML, and CSS. Cheerio (MIT) parses the 
 ## Original sources
 
 [Paul Graham’s website](https://www.paulgraham.com/) is the home for the essays, language projects, questions and quote collection. This independent project provides indexes and feeds that lead readers there. It is unaffiliated with Paul Graham. The writing belongs to its authors.
+
+### Draft readers
+
+The Draft readers tab searches people explicitly thanked for reading or reviewing drafts. Sort by essay count, name, or earliest dated essay. Expand a person to open the original essays. These are extracted credits, not a complete collaboration history. Essay publication dates do not establish when someone read a draft. Different source spellings remain separate.
