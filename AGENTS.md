@@ -27,3 +27,5 @@ Quote metadata lives in public/collections.json, parser in lib/collections.mjs, 
 Statistics exclude text chapters from essay word totals. Unknown dates remain explicit. New public outputs must remain metadata-only. Do not add claims about copying or comparison-project inventories to product copy.
 
 Draft acknowledgement extraction is in lib/metadata.mjs, extractorVersion 3. Keep only explicit draft-reading/review credits and names. Do not infer personal relationships or merge name variants. Counts are distinct essay counts; first/latest dates are essay publication dates. The resource directory is hidden from navigation at the user's request. Existing #resources links fall back to essays. Keep source metadata intact.
+
+The Quotes tab embeds the original public quo.html for reading. Keep a labelled iframe and a visible original-page fallback. This does not change the metadata-only quote index or introduce a local full-text mirror.

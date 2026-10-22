@@ -47,3 +47,7 @@ The Draft readers tab uses the existing searchable table pattern. It replaces th
 Extractor version 3 records names from explicit Thanks-to clauses tied to reading, reviewing, or commenting on drafts. Counts mean distinct indexed essays. Dates come from essay headers and do not date the feedback itself. Names retain source spelling; no speculative identity merges. Missing or unusual acknowledgements can be missed. Every result exposes its original essays. Footnote statistics remain deferred.
 
 Female Founders (ff.html), supplied by the user, is absent from the current official essay list. Its metadata is an explicitly labelled acknowledgementExtras entry in catalog.json. It participates only in draft-reader statistics, not essay totals or the essay feed. The updater makes one extra fixed-source request and retains previous supplementary metadata on failure.
+
+## Readable quote collection
+
+The Quotes tab now places the original quote collection in a labelled, responsive iframe above the metadata search table. This fixes the metadata-only reading experience without generating a local quotation mirror. The remote page controls its text and layout. Loading is lazy, and Open original remains available if the publisher blocks embedding. The search index remains author/topic metadata and word hashes.

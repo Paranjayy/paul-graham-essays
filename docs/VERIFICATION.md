@@ -28,3 +28,9 @@
 - Sixteen Node tests passed, including strict draft-purpose matching, comma/and-separated names, and exclusion of generic thank-you mentions.
 - Local browser checks verified reader search, source essay links, absence of the More directory tab, no collection load error, and no desktop page overflow.
 - Name spellings remain source-specific. Extraction can miss unusual acknowledgement wording. No claim of complete relationship history.
+
+## 2026-10-22: Read the original quote collection inline
+
+- Quotes now embeds the original HTTPS quo.html above the searchable metadata index, with a labelled iframe and Open original fallback. No quotation bodies were added to public data or the quote RSS.
+- The original endpoint returned 200 without X-Frame-Options or a frame-restricting CSP. Local DOM checks confirmed the original iframe URL, responsive dimensions, and the existing searchable quote index.
+- Sixteen tests passed. Production deployment dpl_E5RRgXETdRwoBz1LrzyXQHVAvttr reached READY.
